@@ -1,0 +1,680 @@
+Journal Pre-proof
+
+A search for medications to treat COVID-19 via in silico molecular docking models of
+the SARS-CoV-2 spike glycoprotein and 3CL protease
+
+Donald C. Hall, Jr., Hai-Feng Ji
+
+PII:
+
+DOI:
+
+S1477-8939(20)30115-0
+
+https://doi.org/10.1016/j.tmaid.2020.101646
+
+Reference:
+
+TMAID 101646
+
+To appear in:
+
+Travel Medicine and Infectious Disease
+
+Received Date: 7 March 2020
+
+Revised Date: 20 March 2020
+
+Accepted Date: 26 March 2020
+
+Please cite this article as: Hall Jr. DC, Ji H-F, A search for medications to treat COVID-19 via in silico
+molecular docking models of the SARS-CoV-2 spike glycoprotein and 3CL protease, Travel Medicine
+and Infectious Disease (2020), doi: https://doi.org/10.1016/j.tmaid.2020.101646.
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+
+© 2020 Published by Elsevier Ltd.
+
+Donald Hall conducted the calculation and wrote the paper draft.  
+
+Hai-Feng Ji proposed the idea and edited the draft.  
+
+A Search for Medications to Treat COVID-19 via in silico Molecular Docking Models of the 
+
+SARS-CoV-2 Spike Glycoprotein and 3CL Protease 
+
+Donald C. Hall Jr. and Hai-Feng Ji* 
+
+Department of Chemistry, Drexel University, Philadelphia, PA 19104 
+
+*Corresponding author: 
+
+Tel: 01-215-895-2562;  
+
+Fax:  01-215-895-1265;  
+
+E-mail: hj56@drexel.edu 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abstract:  
+
+Background:  The  COVID-19  has  now  been  declared  a  global  emergency  by  the  World  Health 
+
+Organization. There is an emergent need to search for possible medications.  
+
+Method:  Utilization  of  the  available  sequence  information,  homology  modeling,  and  in  slico 
+
+docking a number of available medications might prove to be effective in inhibiting the COVID-
+
+19 two main drug targets the spike glycoprotein and the 3CL protease.  
+
+Results: Several compounds were determined from the in silico docking models that might prove 
+
+to be effective inhibitor for the COVID-19. Several antiviral medications: Zanamivir, Indinavir, 
+
+Saquinavir,  and  Remdesivir  show  potential  as  and  3CLPRO  main  proteinase  inhibitors  and  as  a 
+
+treatment of COVID-19.  
+
+Conclusion: Zanamivir, Indinavir, Saquinavir, and Remdesivir are among the exciting hits on the 
+
+3CLPRO main proteinase. It is also exciting to uncover that Flavin Adenine Dinucleotide (FAD) 
+
+Adeflavin, B2 Deficiency medicine, and Coenzyme A, a coenzyme, may also be potentially used 
+
+for  the  treatment  of  SARS-CoV-2  infections.  The  use  of  these  off-label  medications  may  be 
+
+beneficial in the treatment of the COVID-19. 
+
+Keywords: SARS-CoV-2, Coronavirus, molecular docking, approved drugs, medications 
+
+Introduction: 
+
+The World Health Organization has now declared a global emergency and pandemic for 
+
+the coronavirus disease (COVID-19) that has been actively spreading around the globe. COVID-
+
+19  which  is  caused  by  the  virus  SARS-CoV-2;  can  cause  symptoms  such  as  fever,  cough, 
+
+2 
+
+pneumonia, nausea,  and  fatigue. As of now  SARS-CoV-2 has  reached 24 countries around the 
+
+globe, with more than 190,000 cases confirmed as of March 18, 2020.(Organization, 2020)  
+
+The epidemiological background of the virus was thought to stem from a seafood market 
+
+in Wuhan, China.(Chen et al.) However, the true epicenter of the initial transfer to humans is still 
+
+unknown. Currently, there are >100 complete genome sequences known in the NCBI GenBank, 
+
+from over 10 countries. The variation between these sequences is less than 1%.  
+
+This virus is closely  related to the SARS CoV  and this allows utilization of the  known 
+
+protein structures to quickly build a model for drug discovery on this new SARS-CoV-2.(Hui et 
+
+al., 2020) While traditional methods of drug discovery could take years, the approach taken here 
+
+to  search  for  possible  medications  for  the  SARS-COV-2  is  in  silico  docking  models  from  the 
+
+most variable proteins in the SARS-CoV-2, the spike  glycoprotein, and the  SARS-CoV-2 3CL 
+
+main protease. 
+
+The  CoV  spike  protein  binds  to  a  host  cells  membrane  through  a  receptor  mediated 
+
+interaction which allows entrance to the host cell. It has been  computationally determined that 
+
+the SARS-CoV-2 has similar mechanism to that of the SARS virus and the receptor to which it 
+
+has the highest affinity is ACE2 (angiotensin-converting enzyme 2).(Xu et al.)  While there are 
+
+structural similarities between the SARS-CoV-2  spike protein  and the  SARS spike protein, the 
+
+conservation is only 73% with most of the variability being in the host cell interaction region of 
+
+the protein. Currently there is no crystal structure available for the SARS-CoV-2 spike protein, 
+
+so  we  employed  homology  modeling  of  the  SARS-CoV-2  utilizing  the  SARS  spike  protein 
+
+(PDB: 2GHV) as a template.  
+
+The second in silico docking model is the 3CLPRO main protease, which is responsible for 
+
+controlling several major functions of the virus and has a highly conserved catalytic domain from 
+
+ 
+
+3 
+
+the SARS virus.(Anand  et al., 2003) Some of its functions include the replication processes of 
+
+the virus which makes it an ideal target for drug development.(Bacha et al., 2004) The SARS-
+
+CoV-2 main protease was determined by Liu, X et. al (PDB: 6LU7).(Liu) 
+
+Both these proteins, spike and protease, are essential to the transmission and virulence of 
+
+the  virus.  By  inhibiting  anyone  of  these  two  proteins  or  both  for  a  higher  active  therapy,  the 
+
+severity of the infection will be reduced. Our efforts have been placed in competitively inhibiting 
+
+the  binding  of  its  natural  substrates.  A  library  of  known  bioactive  compounds  has  been  run 
+
+against several sites on the spike protein and the catalytic site of the SARS-CoV-2 main protease. 
+
+By  utilizing  an  approved  compound  database,  quick  trials  of  these  compounds,  with 
+
+minimal effort of approval by food and drug agencies, could be carried out. We have chosen to 
+
+run the Zinc15 database which is classified by Zinc15(Sterling and Irwin, 2015) as “Approved 
+
+drugs in major jurisdictions, including the FDA, i.e DrugBank approved”. This database covers 
+
+all major bioactive pharmaceutical compounds utilized around the globe, and currently has 3,447 
+
+entries.  
+
+Methods: 
+
+Molecular Docking 
+
+ 
+
+ 
+
+Molecular  docking  calculations  were  completed  using  Schrodinger®  docking  suits 
+
+(Schrödinger  Maestro,  New  York,  NY,  USA.  Version  11.9.011,  MMshare  Version  4.5.011, 
+
+Release  2019-1,  Platform  Windows-x64)  using  a  virtual  screening  workflow.  This  workflow 
+
+utilized three docking precisions, HTVS, SP, and XP, which yielded the top 10% of hits for each 
+
+binding site. Both proteins were prepared by restrained minimization using force field OPLS3e. 
+
+The grid sites were created using Glide® receptor grid generator with docking length of 20 Å. 
+
+4 
+
+Grids  centers  were  determined  from  active  resides  on  target  protein.  Ligands  were  prepared 
+
+using force field OPLS3e and possible states were generated from pH 7.0 +/- 2.0. Docking scores 
+
+are reported kcal/mol, the more negative the number, the better binding.   
+
+Homology Modeling of Spike Protein 
+
+The  surface  glycoprotein  [Wuhan  seafood  market  pneumonia  virus]  (Sequence  ID: 
+
+YP_009724390.1)  structure  was  modeled  using  ModBase(Pieper  et  al.,  2014)  which  utilized 
+
+Modeller(Eswar  et  al.,  2008)  for  the  structural  modeling.  The  sequence  (NCBI  Accession: 
+
+YP_009724390)  was  uploaded  to  the  ModBase  interface  and  was  run  with  the  template  being 
+
+SARS spike protein receptor binding domain (PDB: 2GHV, Chain E). The sequence identity was 
+
+found  to  be  73%  (Figure  1A).  The  calculation  was  completed  and  imported  into  Schrödinger 
+
+Maestro®. The structure was then minimized using the force field OPLS3e the overlay of the pre 
+
+and post minimized structure can be seen in Figure S2. 
+
+Results: 
+
+Spike Glycoprotein 
+
+Sequencing has revealed that the SARS-CoV-2 is similar to that of the SARS-CoV virus 
+
+which allows for genomic and proteomic homology comparison. Using the homology modeling 
+
+we  have  been  able  to  develop  a  model  of  the  Spike  glycoprotein  (Figure  1).  This  model  has 
+
+allowed us to perform docking calculations utilizing a database of known bioactive and approved 
+
+compounds.  
+
+5 
+
+ 
+
+ 
+
+A 
+
+B 
+
+ 
+
+ 
+
+ 
+
+Figure  1|  A)  Modeled  SARS-CoV-2  Spike  Glycoprotein  overlaid  with  the  SARS-CoV  (PDB: 
+
+2GHV)  unique  amino  acids  are  shown.  Variable  amino  acid  residue  side  chains  are  shown: 
+
+Green: SARS-CoV Red: SARS-CoV-2. B) Minimized final structure of modeled SARS-CoV-2 
+
+spike glycoprotein.  
+
+The  MODELLER  and  ModBase  programs  were  able  to  use  a  homologues  SARS  spike 
+
+protein  (PDB:  2GHV)  and  the  original  SARS-CoV-2  sequence  (GenBank:  MN908947)  and 
+
+construct  the  SARS-CoV-2  spike  protein.    Protein  was  then  run  through  a  restriction 
+
+minimization  process  utilizing  Schrodinger  Docking  Suits®  Protein  Preparation  which  allows 
+
+side chains to be placed in the most energetically favorable conformation (Figure 1B).  
+
+In an effort to stop the Spike-ACE2 interaction, several sites have been determined and 
+
+targeted  on  the  Spike  protein  for  docking  studies.  Three  of  these  sites  are  located  at  the 
+
+interaction points specifically where hydrogen bonding is calculated as the main intermolecular 
+
+force of the Spike-ACE2 interaction and a fourth allosteric site has been determined by surface 
+
+mapping of the protein.  
+
+6 
+
+The locations of the binding sites have been chosen as these would cause the most destruction in 
+
+ACE2 interactions. The sites are labeled as site 1-4 and information on the sties can be seen in 
+
+Supplemental (Table S1, Figure S1). The results from the SARS-CoV-2 spike glycoprotein are 
+
+reported in Table 1.  
+
+Table 1| Highest scoring molecules for SARS-CoV-2 Spike Glycoprotein 
+
+Site # 
+
+DrugBank ID 
+
+Docking Score 
+(kcal/mol) 
+-7.234 
+
+Name 
+
+Cangrelor 
+
+-7.038 
+
+Dpnh (NADH) 
+
+DB06441 
+
+DB00157 
+
+DB03147 
+
+-11.089 
+
+DB11705 
+
+DB01992 
+DB01133 
+
+-7.687 
+
+-11.555 
+-9.364 
+
+DB03147 
+
+-9.353 
+
+Flavin Adenine 
+Dinucleotide (FAD) 
+Adeflavin 
+
+Iomeprol 
+
+Coenzyme A 
+Tiludronate 
+Flavin Adenine 
+Dinucleotide (FAD) 
+Adeflavin 
+
+1 
+
+1 
+
+2 
+
+2 
+
+3 
+4 
+
+4 
+
+Indication 
+
+P2Y12 Inhibitor 
+Supplement 
+Mental Health 
+
+B2 Deficiency 
+
+Contrast 
+Medium 
+Supplement 
+Paget's disease 
+
+B2 Deficiency 
+
+3CLPRO Main Protease 
+
+Structural alignments have revealed that the SARS-CoV-2 protease is highly conserved 
+
+for that of the SARS (PDB: 1LVO) main protease at 98% ID.(Anand et al., 2002) The  3CLPRO 
+
+main protease was run through a restriction minimization process utilizing Schrodinger Docking 
+
+Suits (figure S3A). Previous studies have revealed in the SARS protease mutation of the residue 
+
+His162  renders  the  enzyme  inactive.  The  SARS-CoV-2  homologous  residue  is  His163  (Site  1 
+
+center: x = -17.59, y = 15.81, z = 63.53) (figure S3B) which has been used as the central point 
+
+for  molecular  docking  calculations.  The  active  site  also  revealed  a  second  Histidine  (center: 
+
+His41 Site 2 center: x = -13.81, y = 19.72, z = 71.91) (figure S3C) that seems to play a role in the 
+
+interactions of  the bound ligand in the 6LU7 structure, so this was targeted as a second  center 
+
+ 
+
+7 
+
+point  for  the  molecular  docking  calculations.  The  results  from  the  SARS-CoV-2  3CL  protease 
+
+are reported in Table 2.  
+
+Table 2| Highest scoring molecules for SARS-CoV-2 3CLPRO Main Protease 
+
+Site # 
+
+DrugBank ID  Docking Score 
+
+(kcal/mol) 
+
+Name 
+
+Indication 
+
+-11.016 
+
+Dpnh (NADH) 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+2 
+
+2 
+
+2 
+
+DB00157   
+
+DB00558 
+ 
+DB00188 
+DB01232 
+
+DB06441 
+DB08889 
+DB00224 
+
+DB14761 
+
+-8.843 
+
+-8.654 
+
+-7.285 
+
+-10.269 
+-8.924 
+
+-8.199 
+
+-7.215 
+
+Zanamivir 
+
+Bortezomib 
+
+Saquinavir 
+
+Flavin Adenine 
+Dinucleotide (FAD) 
+Adeflavin 
+Cangrelor 
+Carfilzomib 
+
+Indinavir 
+
+Remdesivir 
+
+Supplement 
+Mental Health 
+Antiviral Drug 
+
+Anti-Cancer  
+
+HIV Protease 
+Inhibitor 
+
+B2 Deficiency 
+
+P2Y12 Inhibitor 
+Anti-Cancer 
+HIV Protease 
+Inhibitor 
+Antiviral 
+
+DB03147 
+
+-10.339 
+
+Conclusion: 
+
+Molecular  docking  has  been  employed  for  the  search  of  possible  medications  that  fall 
+
+under  the  approved  bioactive.  The  hit  compounds  reported  here  have  potential  to  inhibit  the 
+
+SARS-CoV-2  spike  protein  and  the  3CLPRO  main  protease  but  are  not  guaranteed  to  have  any 
+
+activity;  however,  this  lays  the  groundwork  for  computational  drug  discovery  for  new 
+
+compounds to reduce transmission and symptoms of the SARS-CoV-2. We have used structural 
+
+homology modeling to determine a dock-able target for the SARS-CoV-2 spike protein and have 
+
+utilized the newly characterized 3CLPRO main protease in our docking models.  
+
+8 
+
+ 
+
+ 
+
+ 
+
+We have several exciting hits on the 3CLPRO main proteinase. Zanamivir is an approved 
+
+medication  for  the  treatment  of  influenza  A  and  B  viruses.(Eiland  and  Eiland,  2007)  Indinavir 
+
+and Saquinavir have been shown to treat and prevent HIV. Remdesivir is an antiviral compound 
+
+in experimental stages that has shown  activity  against the SARS-coronavirus, Ebola virus, and 
+
+possibly the SARS-CoV-2.(Sheahan et al., 2017; Tchesnokov et al., 2019; Wang et al., 2020) It 
+
+is  also  exciting  to  uncover  that  Flavin  Adenine  Dinucleotide  (FAD)  Adeflavin,  B2  Deficiency 
+
+medicine,  and  Coenzyme  A,  a  coenzyme,  may  also  be  potentially  used  for  the  treatment  of 
+
+SARS-CoV-2 infections.  
+
+ 
+
+Reference:  
+
+ 
+
+ 
+
+ 
+
+Anand,  K.,  Palm,  G.J.,  Mesters,  J.R.,  Siddell,  S.G.,  Ziebuhr,  J.,  Hilgenfeld,  R.,  2002.  Structure  of 
+coronavirus  main  proteinase  reveals  combination  of  a  chymotrypsin  fold  with  an  extra  alpha-
+helical domain. The EMBO journal 21(13), 3213-3224. 
+
+Anand,  K.,  Ziebuhr,  J.,  Wadhwani,  P.,  Mesters,  J.R.,  Hilgenfeld,  R.,  2003.  Coronavirus  main  proteinase 
+
+(3CLpro) structure: basis for design of anti-SARS drugs. Science 300(5626), 1763-1767. 
+
+Bacha,  U.,  Barrila,  J.,  Velazquez-Campoy,  A.,  Leavitt,  S.A.,  Freire,  E.,  2004.  Identification  of  Novel 
+Inhibitors of the SARS Coronavirus Main Protease 3CLpro. Biochemistry 43(17), 4906-4912. 
+Chen, N., Zhou, M., Dong, X., Qu, J., Gong, F., Han, Y., Qiu, Y., Wang, J., Liu, Y., Wei, Y., Xia, J.a., Yu, T., 
+Zhang,  X.,  Zhang,  L.,  Epidemiological  and  clinical  characteristics  of  99  cases  of  2019  novel 
+coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet. 
+
+Eiland,  L.S.,  Eiland,  E.H.,  2007.  Zanamivir  for  the  prevention  of  influenza  in  adults  and  children  age  5 
+
+years and older. Ther Clin Risk Manag 3(3), 461-465. 
+
+Eswar, N., Eramian, D., Webb, B., Shen, M.-Y., Sali, A., 2008. Protein structure modeling with MODELLER, 
+
+Structural proteomics. Springer, pp. 145-159. 
+
+Hui,  D.S.,  E,  I.A.,  Madani,  T.A.,  Ntoumi,  F.,  Kock,  R.,  Dar,  O.,  Ippolito,  G.,  McHugh,  T.D.,  Memish,  Z.A., 
+Drosten, C., Zumla, A., Petersen, E., 2020. The continuing 2019-nCoV epidemic threat of novel 
+coronaviruses  to  global  health - The latest 2019  novel coronavirus  outbreak  in  Wuhan,  China. 
+International journal of infectious diseases : IJID : official publication of the International Society 
+for Infectious Diseases 91, 264-266. 
+
+Liu, X., Zhang, B., Jin, Z., Yang, H., Rao, Z., The crytal structure of 2019-nCoV main protease in complex 
+
+with an inhibitor N3. http://www.rcsb.org/structure/6LU7. 
+
+2020. Novel Coronavirus(2019-nCoV) Situation Report - 58. Organization, W.H. March 18, 2020. 
+
+9 
+
+Pieper,  U.,  Webb,  B.M.,  Dong,  G.Q.,  Schneidman-Duhovny,  D.,  Fan,  H.,  Kim,  S.J.,  Khuri,  N.,  Spill,  Y.G., 
+Weinkam,  P.,  Hammel,  M.,  Tainer,  J.A.,  Nilges,  M.,  Sali,  A.,  2014.  ModBase,  a  database  of 
+annotated  comparative  protein  structure  models  and  associated  resources.  Nucleic  acids 
+research 42(Database issue), D336-346. 
+
+Sheahan, T.P., Sims, A.C., Graham, R.L., Menachery, V.D., Gralinski, L.E., Case, J.B., Leist, S.R., Pyrc, K., 
+Feng, J.Y., Trantcheva, I., Bannister, R., Park, Y., Babusis, D., Clarke, M.O., Mackman, R.L., Spahn, 
+J.E., Palmiotti,  C.A.,  Siegel,  D.,  Ray,  A.S.,  Cihlar,  T.,  Jordan,  R.,  Denison,  M.R.,  Baric,  R.S.,  2017. 
+Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci Transl 
+Med 9(396), eaal3653. 
+
+Sterling,  T.,  Irwin,  J.J.,  2015.  ZINC  15--Ligand  Discovery  for  Everyone.  Journal  of  chemical  information 
+
+and modeling 55(11), 2324-2337. 
+
+Tchesnokov, E.P., Feng, J.Y., Porter, D.P., Götte, M., 2019. Mechanism of inhibition of Ebola virus RNA-
+
+dependent RNA polymerase by remdesivir. Viruses 11(4), 326. 
+
+Wang, M., Cao, R., Zhang, L., Yang, X., Liu, J., Xu, M., Shi, Z., Hu, Z., Zhong, W., Xiao, G., 2020. Remdesivir 
+and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. 
+Cell Research. 
+
+Xu, X., Chen, P., Wang, J., Feng, J., Zhou, H., Li, X., Zhong, W., Hao, P., Evolution of the novel coronavirus 
+from  the  ongoing  Wuhan  outbreak  and  modeling  of  its  spike  protein  for  risk  of  human 
+transmission. SCIENCE CHINA Life Sciences(1674-7305). 
+
+ 
+
+ 
+
+10 
+
+o  Molecular docking has been employed for the search of possible medications that 
+
+fall under the approved bioactive that have potential to inhibit the SARS-COV-2 
+
+spike protein and the 3CLPRO main protease 
+
+o  Several  exciting  hits  on  the  3CLPRO  main  proteinase  are  Zanamivir,  Indinavir,  
+
+Remdesivir, and Saquinavir.  
+
+o  Flavin  Adenine  Dinucleotide  (FAD)  Adeflavin,  a  B2  Deficiency  medicine,  and 
+
+Coenzyme  A,  a  coenzyme,  may  also  be  potentially  used  for  the  treatment  of 
+
+SARS-COV-2 infections.  
+
+ 
+
+

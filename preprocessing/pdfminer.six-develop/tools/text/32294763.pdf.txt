@@ -1,0 +1,1835 @@
+Online publiziert: 15.04.2020
+
+COVID-19
+
+Aufgaben der Weaning-Zentren im Pandemiefall COVID-19
+
+Unterstützende Handlungsempfehlung zur Sicherstellung dringend benötigter
+Intensivkapazitäten am Beispiel des Berlin-Brandenburger POST-SAVE-Konzepts
+
+Responsibilities of Weaning Centers during the COVID-19
+Pandemic Outbreak
+
+Recommendations for the Assignment of ICU Capacities in COVID-19 Patients
+as shown by the Berlin-Brandenburg POST-SAVE-Model
+
+Autoren
+B. Wiesner1, M. Bachmann2, T.-G. Blum3, S. Forchheim1, J. Geiseler4, A. Kassin1, E. Kretzschmar5,
+S. Weber-Carstens6, M. Westhoff7, M. Witzenrath8, C. Grohé1
+
+Institute
+1 Evangelische Lungenklinik, Berlin
+2 Asklepios Klinikum Harburg, Zentrum für Atemwegs-
+
+3 Lungenklinik Heckeshorn, Helios Klinikum Emil von
+
+und Thoraxmedizin
+
+Behring, Berlin
+
+4 Paracelsus-Klinik Marl, Klinkum Vest
+5 NRZ Berlin-Brandenburg, Brandenburg Klinik, Bernau
+6 Charité-Universitätsmedizin Berlin, Klinik für
+
+Anästhesiologie m.S. operative Intensivmedizin
+
+7 Lungenklinik Hemer, Klinik für Pneumologie, Schlaf- und
+
+Beatmungsmedizin; Universität Witten-Herdecke
+8 Charité-Universitätsmedizin Berlin, Medizinische Klinik
+
+mit Schwerpunkt Infektiologie und Pneumologie
+
+Bibliografie
+DOI https://doi.org/10.1055/a-1153-9710 |
+Online-Publikation: 2020 |
+Pneumologie
+© Georg Thieme Verlag KG Stuttgart · New York
+ISSN 0934-8387
+
+Korrespondenzadresse
+Dr. med. Barbara Wiesner, Leitende Oberärztin,
+Klinik für Pneumologie, Leiterin des Zentrums
+für Beatmungs- und Schlafmedizin, Evangelische
+Lungenklinik Berlin – Krankenhausbetriebs gGmbH,
+Lindenberger Weg 27, 13125 Berlin
+Barbara.Wiesner@pgdiakonie.de
+Barbara.Wiesner@jsd.de
+
+Z US A M M E N FA SS U N G
+
+Die enorme Zunahme von Patienten mit schwerer respira-
+torischer Insuffizienz aufgrund der COVID19-Pandemie er-
+fordert einen systematischen Ansatz zur Optimierung der
+Betreuung von beatmeten Patienten. Ein standardisierter
+
+Algorithmus namens „SAVE“ wurde in Berlin entwickelt,
+um Patienten mit COVID-19-Infektion, die eine invasive Be-
+atmung benötigen, zu lenken. Um Bettenkapazitäten auf
+den Intensivstationen sicherzustellen, muss eine konstante
+Patientenentlassung gewährleistet sein. Ein strukturierter
+Entlassungsprozess der Patienten nach der Akutbehand-
+lung ist dringend erforderlich.
+In einem nächsten Schritt haben wir einen Triage-Algorith-
+mus entwickelt, um Patienten auf SAVE-Intensivstationen
+zu identifizieren, die das Potenzial haben, von der Beat-
+mung entwöhnt zu werden und in dafür spezialisierte Ein-
+richtungen zu verlegen. Dieser Prozess ist das POST-SAVE-
+Konzept.
+In der vorliegenden Arbeit werden die Algorithmen darge-
+stellt, einschließlich der Verwendung einer standardisierten
+digitalen Datenbank, der Verwendung geschulter Lotsen
+zur Erleichterung der Kommunikation zwischen SAVE-In-
+tensivstationen und Weaningeinheiten und der Etablierung
+eines prospektiven Datenregisters, um Patienten dauerhaft
+hinsichtlich ihres Weaningpotenzials reevaluieren zu kön-
+nen.
+
+ABSTR AC T
+
+The enormous increase in patients with severe respiratory
+distress due to the COVID-19 pandemic outbreak requires
+a systematic approach to optimize ventilated patient at
+risk flow. A standardised algorithm called „SAVE“ was de-
+veloped to distribute patients with COVID-19 respiratory
+distress syndrome requiring invasive ventilation. This pro-
+gram is established by now in Berlin. An instrumental bot-
+tleneck of this approach is the vacant slot assignment in
+the intensive care unit to guarantee constant patient flow.
+The transfer of the patients after acute care treatment is
+needed urgently to facilitate the weaning process.
+In a
+next step we developed a triage algorithm to identify pa-
+tients at SAVE intensive care units with potential to wean
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+COVID-19
+
+and transfer to weaning institutions – we called POST SAVE.
+This manuscript highlights the algorithms including the use
+of a standardised digital evaluation tool, the use of trained
+navigators to facilitate the communication between SAVE
+
+intensive care units and weaning institutions and the estab-
+lishment of a prospective data registry for patient assign-
+ment and reevaluation of the weaning potential in the fu-
+ture.
+
+Hintergrund
+
+Der Verlauf von SARS-CoV-2-Infektionen ist ein sehr dynami-
+scher Prozess und bedarf stetiger Anpassung unseres Handelns.
+Alle derzeit vorliegenden wissenschaftlichen Studien und klini-
+schen Beobachtungen basieren auf Erfahrungen aus China [1]
+und Italien.
+
+Die aktuelle Situation erfordert eine fachübergreifende Zu-
+sammenarbeit, um alle Kompetenzen zu bündeln und damit
+bestmöglich Schäden abzuwenden. Es ist deshalb von höchster
+Priorität sowohl die aktuelle als auch die perspektivische Ent-
+wicklung der Pandemiefolgen im Auge zu behalten, um die
+durch das Coronavirus (vorwiegend) verursachten Erkrankun-
+gen der Atemwege durch präventive Maßnahmen zu verhin-
+dern, die optimalen Behandlungsstrategien zu eruieren und die
+erwartbaren Komplikationen zu reduzieren und zu beherrschen.
+Die Erkrankung COVID-19 manifestiert sich hauptsächlich in
+den Atemwegen in unterschiedlichster Ausprägung (81 % der
+Patienten zeigen einen milden Verlauf, 14 % erkranken schwer,
+ca. 5 % sind kritisch krank [2]). Eine mögliche Verlaufsform
+einer SARS-CoV-2-Infektion stellt das ARDS dar, ein Krankheits-
+bild mit hoher Letalität (ca. 50 – 60 % [3]). Neben einzelnen Fäl-
+len von sehr schweren Verläufen bei jüngeren nicht komorbiden
+Patienten, erkranken ältere und vorerkrankte Patienten an die-
+ser schweren Form des Lungenversagens. Aktuelle Ergebnisse
+[4] weisen sogar auf einen deutlich höheren Anteil beatmungs-
+pflichtiger COVID-19-Patienten hin, die im Vergleich zu saison-
+alen Grippewellen eher jünger sein können, sehr viel
+länger
+beatmet werden müssen und nicht unbedingt an Grunderkran-
+kungen leiden. Die daraus resultierende notwendige, häufig
+lange Beatmungsdauer führt mit einer hohen Wahrschein-
+lichkeit zu einem prolongierten Weaning und könnte aufgrund
+der Schwere der Erkrankung deutlich über den üblichen Zahlen
+(15 – 20 % prolongiertes Weaning) liegen [5, 6]. Um eine lang-
+fristige Versorgung von Patienten mit intensivmedizinischen
+Belangen sicherzustellen, ist eine Stratifizierung nach akuter in-
+tensivmedizinischer Versorgung zu gewährleisten.
+
+Die Patienten werden möglicherweise nicht den strukturier-
+ten Weaningprozess (Akutbeatmung auf der Intensivstation,
+dann nach Überwinden der akuten Erkrankungen Reduktion
+der Invasivität der Beatmung, Aufwachversuch, Spontanat-
+mungsversuch, ggf. Extubation mit/ohne Unterstützung durch
+nicht invasive Beatmung, ggf. Leitlinien-gestützter Prozess des
+prolongierten Weanings [5, 6]) durchlaufen können. Ein Groß-
+teil der Intensivkapazitäten würde daher nicht zur Verfügung
+stehen um sie im Anschluss einem strukturierten Weaningpro-
+zess zuführen zu können. Nachweislich gelingt es durch einen
+ganzheitlichen Ansatz in einem multiprofessionellen Team und
+unter Anwendung strukturierter Weaningprozesse 45 % der Pa-
+tienten vollständig von der Beatmung zu entwöhnen; ca. 20 %
+
+benötigen weiterhin eine außerklinische intermittierende nicht
+invasive Beatmung (beides zusammen wird als Weaningerfolg
+bezeichnet), 21 % verbleiben an der invasiven Beatmung, 15 %
+sterben noch in der Klinik [5, 6]. Auch hier muss – insbesondere
+aufgrund der länger zu erwartenden Beatmungsdauer bei CO-
+VID-19 und der häufig älteren Patienten mit Komorbiditäten –
+mit deutlich schlechteren Ergebnissen im Entwöhnungsprozess
+gerechnet werden.
+
+Aktuell erfolgt eine zentralisierte Erfassung der freien Inten-
+sivkapazitäten in Deutschland, um so schnell wie möglich akut
+erkrankte Patienten versorgen und Engpässe rasch erfassen zu
+können und Intensivbettenkapazitäten zu schaffen. Zur Unter-
+stützung hat die Deutsche Interdisziplinäre Vereinigung für In-
+tensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert-
+Koch-Institut (RKI) und der Deutschen Krankenhausgesellschaft
+(DKG) das DIVI-Intensivregister zur Erfassung von Intensiv-Bet-
+ten etabliert [7]. Wenn die Bettenkapazitäten ausgeschöpft
+sind, bedarf es Konzepte, die eine weitere Versorgung von Pa-
+tienten mit Langzeitbeatmung (tracheotomierte bzw. nicht in-
+vasiv beatmete Patienten) sicherstellen. Die langjährige Erfah-
+rung der Weaningzentren in der Betreuung von langzeitbeat-
+meten Patienten kann hier erfolgversprechend und hilfreich
+sein [5, 6, 8].
+
+Vorstellung der Versorgungskonzepte
+Berlin-Brandenburg
+
+In Berlin und Brandenburg wurden Konzepte für die Akutversor-
+gung von intensivpflichtigen Patienten mit COVID-19-Infektion
+entwickelt und aufeinander abgestimmt, um in jeder Phase der
+Beatmungstherapie die Patienten optimal versorgen zu können
+(▶ Abb. 1).
+
+Das SAVE-Konzept strukturiert die Versorgung akut er-
+krankter und intensivpflichtiger COVID-19-Patienten. Es steu-
+ert die Intensivkapazitäten der Level 1 – 3 Kliniken in der Akut-
+versorgung (▶ Abb. 2). Um diesen primären Herausforderun-
+
+SAVE-KONZEPT
+
+POST-SAVE-
+KONZEPT
+
+POST-SAVE-
+KONZEPT
+
+Akutphase
+
+Langzeitverlauf
+
+Versorgung in Level 
+1–3 Kliniken, 
+SAVE-Intensivstation
+
+Abfluss von Level 
+1–3 Kliniken in 
+Weaning-Einheiten
+
+Reevaluation von 
+Beatmungs-
+patienten
+
+▶ Abb. 1 Struktur des Versorgungskonzepts in Berlin-Brandenburg.
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+Maßnahmen zur Sicherstellung der akuten, intensivmedizinischen Versorgung im Epidemiefall COVID-19 
+für die Region Berlin/Brandenburg
+
+SAVE-Berlin/Brandenburg@COVID-19
+
+klinischer Verdacht auf COVID-19
+(Anamnese + Symptome + klin. Untersuchung 
++ ggf. Bildgebung
+
+Beurteilung von Komorbiditäten, Funktionalität 
+und Patientenwillen
+
+3 oder 4 Kriterien pos.
+
+stationäre Aufnahme
+(jedes Krankenhaus)
+
+1 oder 2 Kriterien pos.
+
+Major-Kriterien:
+▪ Notwendigkeit der maschinellen Beatmung
+▪ Notwendigkeit der Gabe von Vasopressoren
+ 
+
+(septischer Schock)
+
+(PaO2 ≤ 55 mgHg bzw. ≤7 kPa bei Raumluft)
+
+Minor-Kriterien:
+▪ schwere akute respiratorische Insuffizienz
+ 
+▪ Atemfrequenz ≥30/Minute
+▪ multilobäre Infiltrate im Röntgen-Thorax
+▪ neu aufgetretene Bewusstseinsstörung
+▪ systemische Hypotension mit Notwendigkeit 
+  der aggressiven Volumentherapie
+▪ Harnstoff ≥ 43 mg/dL bzw. 7,2 mmol/l
+▪ Leukozyten < 4000 Zellen/mm3
+▪Thrombozyten < 100 000 Zellen/mm3
+▪ Körpertemperatur < 36° C 
+
+n
+o
+i
+t
+a
+u
+a
+v
+e
+e
+R
+
+l
+
+Verbleib in häuslicher Umgebung
+
+gSOFA-Score
+▪ Atemfrequenz ≥22/Minute
+▪ Bewusstseinstrübung
+▪ syst. Blutdruck ≤100 mmHg
+oder:
+▪ Sauerstoffsättigung < 95% unter Raumluft
+
+keines der 
+4 Kriterien pos.
+
+ambulante Betreuung
+
+Reevaluation
+
+stationäre Behandlung
+(jedes Krankenhaus)
+
+nein
+
+≥1 Major-Kriterium oder 3 Minor-Kriterien
+
+oder
+≥1 instab. Komorbidität plus ≥1 Minor-Kriterium
+
+ja = intensivpflichtig
+
+Intensivstation
+Non-COVID-19-ITS
+
+Evaluation durch Level-1-Zentrum
+ARDS-Hotline
+
+ITS-Verlegung
+
+ITS-Verlegung
+
+Evaluation mit Level-1-Zentrum
+ARDS-Hotline
+
+ITS-Verlegung
+
+Intensivstation
+ARDS/ECMO-Zentrum
+
+siehe auch: Ewig et al. S3-Leitlinie Behandlung von erwachsenen Patienten mit ambulant erworbener Pneumonie und Prävention – Update 2016. 
+Pneumologie 2016; 70: 151–200
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+Intensivstation
+COVID-19-ITS
+
+Verbleib und täglich
+Reevaluation/Konsil
+mit Tele-ITS („ERIC“)
+
+▶ Abb. 2 SAVE-Konzept.
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+COVID-19
+
+gen erfolgreich begegnen zu können, wurde ein intensivmedi-
+zinisches Netzwerk in Berlin etabliert, über das folgende Abläu-
+fe koordiniert werden:
+1. Etablierung einer Kommunikations- und Koordinierungs-
+
+struktur unter Leitung des spezialisierten ARDS/ECMO-Zen-
+trums der Charité – Universitätsmedizin Berlin („ARDS/
+ECMO-Zentrum“ = Level 1). Zur Kohortierung werden alle
+COVID-19-Fälle, die in Berlin auf eine Intensivstation aufge-
+nommen werden, von der aufnehmenden Klinik im koordi-
+nierenden ARDS/ECMO-Zentrum gemeldet. Auf der Basis
+einer gemeinsamen klinischen Evaluation der Krankheits-
+schwere und Einschätzung der aktuellen Kapazitäten vor Ort
+und im Netzwerk legt das koordinierende Zentrum den
+weiteren Verbleib des Patienten fest: in einer Level 2 – 3
+COVID-19-ITS (Erklärung unter Punkt 2 und 3) oder im Level
+1 ARDS/ECMO-Zentrum.
+
+2. Vor dem Hintergrund insbesondere kapazitärer und geogra-
+fischer Überlegungen wurden Kliniken mit Intensivstationen
+durch eine Expertengruppe identifiziert, die zusammen mit
+und in Koordination durch das ARDS/ECMO-Zentrum der
+Charité diese schwerkranken COVID-19-Patienten behan-
+deln sollen („COVID-19-ITS“ = Level 2).
+
+3. Alle anderen Berliner Aufnahmekrankenhäuser sollen durch
+diese Kohortierung von schwerkranken COVID-19-Patienten
+primär freigehalten werden, um ihre Leistungsfähigkeit zur
+intensivmedizinischen Versorgung der Berliner Bevölkerung
+aufrecht zu erhalten. Bei drohender Erschöpfung der ITS-
+Kapazitäten des COVID-19-ITS-Netzwerkes müssen diese bei
+Bedarf jedoch ebenfalls zur intensivmedizinischen Behand-
+lung von COVID-19 nachrekrutiert werden (Level 3).
+4. Die telemedizinische Kommunikation ist Grundlage des
+
+COVID-19-ITS-Netzwerkes Berlin. Auf diese Weise sind täg-
+liche bettseitige Besprechungen und Konsultationen zwi-
+schen dem ARDS/ECMO-Zentrum und den anderen COVID-
+19-Intensivstationen möglich, sodass neu gewonnene Er-
+fahrungen ausgetauscht und Patienten gemeinsam visitiert
+werden können.
+
+Das POST-SAVE-Konzept-A (Akutphase) strukturiert die wei-
+tere Versorgung von Patienten mit Langzeitbeatmung (invasiv
+beatmete, tracheotomierte bzw. nicht invasiv beatmete Patien-
+ten), um Intensivkapazitäten in den Level 1 – 3 Kliniken sicher-
+zustellen, wenn diese akut ausgeschöpft sind. Es erfolgt eine
+Verlegung in Weaningeinheiten.
+
+Das POST-SAVE-Konzept-L (Langzeitverlauf) strukturiert
+von die Reevaulation von Beatmungspatienten um nicht ausge-
+schöpfte Weaningpotenziale der Patienten im Langzeitverlauf
+zu dokumentieren..
+
+Patientensteuerung und Überleitung
+vom SAVE zum POST-SAVE-Konzept
+
+Das SAVE-KONZEPT mit Behandlung der Patienten in Level 1 bis
+3 Krankenhäusern ermöglicht die Erfassung der aktuellen Ver-
+sorgungslage mittels webbasiertem interdisziplinärem Versor-
+gungsnachweis (IVENA). Basierend auf dieser Datenlage kön-
+nen Patienten mit dem Potenzial für ein prolongiertes Weaning
+
+im ersten Schritt frühzeitig identifiziert und nachfolgend an
+weiterversorgende Einheiten (Weaningeinheiten, außerklini-
+sche Intensivpflege z. B. in Wohngruppen oder Beatmungspfle-
+geheimen) transferiert werden. Dies ist wichtig für die Schaf-
+fung von freien Intensivkapazitäten für die Akutbeatmung bei
+mutmaßlich länger anhaltender Pandemie mit SARS-CoV-2 mit
+wellenförmigem Verlauf und damit verbundenem erneutem
+Aufkommen von Patienten mit akuter respiratorischer Insuffi-
+zienz.
+
+Ziele des POST-SAVE-Konzepts
+Sicherstellung der Patientenversorgung
+
+Das primäre Ziel des vorliegenden Konzeptes ist die Sicherstel-
+lung der Versorgung von Patienten mit Langzeitbeatmung nach
+Durchlaufen des SAVE-Konzepts (▶ Abb. 3).
+
+Der erste Schritt ist die zentrale Erfassung der POST-SAVE-
+Beatmungskapazitäten (klinische und außerklinische Beat-
+mungseinrichtungen). Die Zuordnung und Verlegung der Pa-
+tienten aus SAVE-Intensivstationen kann somit gewährleistet
+werden. Es erfolgt eine Überprüfung des Weaning-Potentials
+in den SAVE-Kliniken Level 1–3 (▶ Tab. 1).
+
+Alle zu verlegenden Patienten werden nach klinischen Krite-
+
+rien in 3 Gruppen kategorisiert:
+
+Gruppe 1: Patienten mit aktuell hohem Weaningpotenzial
+Gruppe 2: Patienten mit aktuell geringem Weaningpotenzial
+Gruppe 3: Patienten ohne (aktuelles) Weaningpotenzial
+
+Organisation der Patientenwege
+
+Die Aufgabe des LOTSEN ist es, diese Patientengruppen zu iden-
+tifizieren und zu klassifizieren und die Verlegung aus den SAVE-
+Intensivstationen zu koordinieren. Die Organisation der Patien-
+tenwege soll durch ein zentrales „LOTSENTEAM“ erfolgen, um
+das Personal der verlegenden Intensivstationen und der auf-
+nehmenden weiterbetreuenden Gesundheitseinrichtungen zu
+beraten und zu entlasten. Das Lotsenteam hat die Aufgabe,
+freie Kapazitäten (in klinischen Beatmungs-/Weaningeinrich-
+tungen, Rehabilitationskliniken, stationäre oder ambulante Be-
+atmungspflegeeinrichtungen) zu erfassen und die Koordination
+und Organisation der Patientenströme zu übernehmen. Zudem
+übernimmt das Team die Koordination und Sicherstellung der
+weiteren Patientenversorgung. Hieraus ergeben sich folgende
+Aufgaben (▶ Abb. 4).
+
+Prospektive Bedarfsermittlung und
+Outcomeerfassung
+
+Das sekundäre Ziel ist die prospektive Erfassung der Weaning-
+patienten und die Festlegung notwendiger Behandlungsoptio-
+nen sowie deren Durchführung.
+
+Bestimmt werden:
+
+▪ der Anteil der Patienten, die nicht von der invasiven Beat-
+mung getrennt werden können und in die invasive außer-
+klinische Beatmung verlegt werden (Gruppe 3cI nach der
+aktuellen Leitlinie),
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+Maßnahmen zur Sicherstellung nach Ausschöpfung des SAVE-KONZEPTES im Pandemiefall COVID-19 
+für die Region Berlin/Brandenburg
+
+POST-SAVE-KONZEPT (Akutphase)
+
+Verlegung aus Level 1–3 Kliniken
+
+Kohorten
+
+Kohorte 1
+Non COVID-Pat.
+
+Kohorte 2
+Z.n. COVID-Infekt.
+
+Kohorte 3
+aktive COVID-Infekt.
+
+LOTSE und MDK
+Hotline
+Entscheidungsprozess
+
+Klinikaufenthalt
+erforderlich
+
+Klinische Beatmungs-/Weaning-Einrichtungen
+oder
+Frührehabilitation mit Weaning 
+
+Klinikaufenthalt
+nicht mehr erforderlich 
+
+Überleitmanagement
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+stationäre 
+Beatmungspflegeeinrichtungen
+
+Kapazität ausgeschöpft
+
+ambulante
+Beatmungspflegeeinrichtungen
+
+▪  Hotline – Erfassung Verlegungsanfragen
+
+▪  Kapazitätsprüfung (Weaning-Zentren, Rehakliniken, 
+außerklinische Beatmungspflegeeinrichtungen)
+
+▪  Verlegungsplanung/Koordination und Überleit-
+
+management
+
+▪  Prüfung medizinische Notwendigkeiten/Pflegebedarf
+
+▪  Information Kostenträger/Klärung Kostenübernahme
+
+▪  assistierte Pflegeüberleitung
+
+▪  Organisation ärztliche Betreuung (z.B. assistierte 
+
+ Televisiten)
+
+▪  Dokumentation
+
+▶ Abb. 4 Aufgaben des LOTSENTEAMS.
+
+▶ Abb. 3 POST-SAVE-Konzept.
+
+▪ der Anteil der Patienten, bei denen zwar die invasive Beat-
+
+mung beendet werden kann, aber eine Dekanülierung nicht
+möglich ist (Gruppe 3aII),
+
+▪ der Anteil der Patienten, die nach erfolgreicher Beendigung
+der invasiven Beatmung selbstständig eine außerklinische
+NIV-Therapie nach Entlassung weiter fortführen
+(Gruppe 3bI)
+
+▪ der Anteil der Patienten, die bei der Fortführung der außer-
+klinischen NIV auf eine pflegerische Unterstützung ange-
+wiesen sind (Gruppe 3bII),
+
+▪ der Anteil der Patienten, der nach einer Verlegung in eine
+außerklinische Beatmungspflegeeinrichtung oder in die
+Häuslichkeit mit 1:1-Betreuung nach einem vorgegebenen
+Zeitintervall zu einem erneuten Weaningversuch in die
+Weaningzentren aufgenommen und erfolgreich entwöhnt
+werden kann,
+
+▪ die Langzeitmortalität invasiv außerklinisch beatmeter
+
+Patienten nach primär und sekundär erfolglosem Weaning
+zu vergleichen mit denjenigen, die primär und sekundär
+erfolgreich entwöhnt werden konnten und
+▪ ggf. zusätzliche Erfassung der Kostenersparnis.
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+COVID-19
+
+▶ Tab.1 Kriterien für die Bereitschaft zum Weaning [5].
+
+Kriterien für Bereitschaft zum Weaning
+
+Klinische Kriterien
+
+▪ ausreichender Hustenstoß
+▪ keine exzessive Sekretion
+▪ Rückbildung der akuten Erkrankungsphase,
+
+die zur Intubation geführt hat
+
+▪ kein akuter Infekt
+
+Objektive Kriterien
+
+klinische Stabilität
+
+adäquate Oxygenierung
+
+▪ SpO2
+
+≥ 90 % bei FiO2
+
+≤ 0,4 (bei Vorliegen einer chronischen
+
+▪ hämodynamische Stabilität (eine niedrig dosierte
+
+Katecholamintherapie stellt keine Kontraindikation dar)
+▪ metabolisch (z. B. Ausschluss einer relevanten metabolischen
+
+Azidose, d. h. Base Exzess < – 5 mval/l)
+
+respiratorischen Insuffizienz > 85 %)
+
+▪ oder paO2/FiO2 > 150 mmHg
+▪ adäquater PEEP
+
+▪ AF ≤ 35 /min
+▪ VT > 5 ml/kg
+▪ AF/VT < 105 ( = RSBI)
+▪ keine signifikante respiratorische Azidose
+
+adäquate pulmonale Funktion
+
+adäquate mentale Funktion
+
+keine Sedierung oder adäquate Funktion unter Sedierung
+(RASS 0 /-1)
+
+Praktisches Vorgehen im
+POST-SAVE-Konzept
+Wege zur Schaffung von Weaning- und
+Langzeitbeatmungskapazitäten
+
+Eine regelmäßige Überprüfung des Weaningpotenzials für die
+weitere Versorgung des Patienten in einer Weaningeinheit er-
+folgt arbeitstäglich auf den SAVE-Intensivstationen. Dies wird
+nach festgelegten Kriterien (▶ Tab. 1) überprüft unter einer
+täglich strikt organisierten Unterbrechung der Sedierung – die-
+se Sedierungsstrategie in Kombination mit einem bei vorhan-
+denem Weaningpotenzial durchgeführten Spontanatemver-
+such (spontaneous breathing trial, SBT) verkürzt nachweislich
+die Sedierungs- und damit die Beatmungsdauer. Bei vorhande-
+ner Bereitschaft zum Weaning erfolgt anschließend der SBT,
+entweder über feuchte Nase oder mit einer Druckunterstüt-
+zung bis 8 mbar. Sollte der Patient diesen SBT problemlos ohne
+relevanten Anstieg von Atemfrequenz oder pCO2, ohne rele-
+vanten Anstieg von Herzfrequenz oder Blutdruck und ohne kli-
+nische Zeichen der Erschöpfung der Atemmuskulatur absolvie-
+ren, ist eine Extubation möglich. Ansonsten wird die Beatmung
+wieder aufgenommen, ggf. modifiziert, und der Patient absol-
+viert jeden Tag einen neuen SBT (▶ Abb. 5).
+
+Für Patienten, die sich im Langzeitverlauf nach einer inten-
+sivmedizinischen Therapie stabilisiert haben und eine weiterge-
+hende Beatmungsunterstützung benötigen, wird folgende Vor-
+gehensweise empfohlen:
+
+Schritt 1: Überprüfung der Indikation zur Beatmung (invasiv/
+nicht invasiv) auf den SAVE-Intensivstationen. Kann der Patient
+die Intensivstation verlassen bzw. benötigt der Patient eine
+dauerhafte Beatmung, besteht ggf. Weaningpotenzial?
+
+Schritt 2: Kontaktaufnahme zur Hotline des POST-SAVE-LOT-
+SEN-TEAMS zur Besprechung einer Verlegungsmöglichkeit in
+eine Weaningeinheit.
+Schritt 3: Entsprechend dem Behandlungsziel und der vorhan-
+denen Kapazitäten erfolgt die Steuerung und Organisation der
+Verlegung durch das LOTSEN-TEAM primär in einen klinischen
+Versorgungsbereich (Weaningeinheit oder Frührehabilitation
+mit Weaningbetten).
+Schritt 4: Sind die Kapazitäten im klinischen Bereich (Weaning-
+einheit oder Frührehabilitation mit Weaningbetten) ausge-
+schöpft oder benötigt ein beatmeter (stabiler) Patient nicht
+mehr eine tägliche ärztliche Betreuung, kann die Weiterversor-
+gung vorerst in stationären oder ambulanten Beatmungspfleg-
+einrichtungen erfolgen. Voraussetzung ist, dass die ärztliche
+Betreuung durch einen in der außerklinischen Beatmung erfah-
+renen Arzt sichergestellt ist, z. B. mithilfe einer assistierten Te-
+levisite.
+Schritt 5: Patienten, die bei aktuell nur geringem oder nicht
+vorhandenem Weaningpotenzial in eine stationäre oder ambu-
+lante Beamtungspflegeeinrichtung verlegt werden, sind nach
+einem bei Entlassung in den außerklinischen Bereich vorgege-
+benen Intervall bez. ihres Weaningpotenzials zu reevaluieren
+(POST-SAVE-KONZEPT-L).
+Schritt 6: Patienten, die eine weitergehende Unterstützung
+durch eine nicht invasive Beatmung benötigen, werden zur
+eventuellen Etablierung einer nicht invasiven außerklinischen
+Beatmung pneumologisch evaluiert und angebunden und zur
+weiteren Versorgung (Häuslichkeit/Pflegeheim) verlegt.
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+Tägliches Screening der respiratorischen Situation/Entwöhnbarkeit von der Beatmung 
+(Anwendung eines Weaning-Protokolls in Kombination mit einem Sedierungsprotokoll)
+
+nein
+
+Voraussetzungen für Spontanatemversuch (SBT) erfüllt? Ziel-RASS 0 bis –1, 
+wenn keine Kontraindikation besteht SO2 ≥ 90 % bei FiO2 ≤ 0,4
+(bei chron. respir. Insuffizienz SO2 > 85 %)
+PaO2/FiO2 > 150
+Atemfrequenz (AF)/Tidalvolumen (VT) < 105
+
+ja
+
+Beatmungstherapie fortsetzen
+
+Respiratorische Erschöpfung:
+▪  Tachypnoe, Orthopnoe, Dyspnoe
+▪  RSBI > 105
+▪  signifikanter Abfall des PaO2
+▪  signifikanter Anstieg des PaCO2
+  mit resp. Azidose (pH < 7,35)
+▪  metabolische Azidose (pH < 7,35) 
+▪  hämodynamische Instabilität
+▪  RASS ≥ 2/< –2 
+
+SBT 
+Pressure Support ≤ 8 cm H2O 
+Dauer 30 Minuten
+
+erfolgreicher SBT
+
+Extubation
+
+ggfs. Management mit NIV, HFT
+
+Weaning-Failure: Reintubation innerhalb von 24 Stunden
+
+▶ Abb. 5 Algorithmus für das tägliche Screening der respiratorischen Situation im Weaning.
+
+Ethische Aspekte
+
+Wichtig ist, mit allen Patienten den Patientenwillen für Kompli-
+kationen (z. B. Reanimation) und den Umfang der Intensivthe-
+rapie auf Dauer zu eruieren.
+
+Die Triage-Entscheidungen zwischen Fortführung der Thera-
+pie, Einleitung des Weaningprozesses oder Einstellung einer Be-
+atmungstherapie sollte interprofessionell und fachübergrei-
+fend im Rahmen eines Ethikkonsils erfolgen [9]. Die detaillierte
+Dokumentation von Entscheidungen ist wichtig, auch um spä-
+tere Entscheidungs- und Behandlungswege sicherzustellen und
+nachzuvollziehen. Die einzelnen Entscheidungsschritte müssen
+dokumentiert und für die nachversorgenden Kliniken nachvoll-
+ziehbar sein.
+
+Interessenkonflikt
+
+Die Autorinnen/Autoren geben an, dass kein Interessenkonflikt be-
+steht. Diese Publikation entstand in Zusammenarbeit mit der Deut-
+schen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP),
+der Deutschen interdisziplinären Gesellschaft für Außerklinische Be-
+atmung (DIGAB) und WeanNet.
+
+Literatur
+
+[1] Xie J, Tong Z, Guan X et al. Critical care crisis and some recommenda-
+tions during the COVID-19 epidemic in China. Intensive Care Med
+2020. doi:10.1007/s00134-020-05979-7
+
+[2] Wu Z, McGoogan JM et al. Characteristics of an important Lessons
+from the Coronavirus Disease 2019 (COVID-19) Outbreak in China:
+Summery of a Report of 72314 Cases from the Chinese Center of
+Disease Control and Prevention. JAMA 2020. doi:10.1001/ja-
+ma.2020.2648
+
+[3] Villar J, Blanco J, Añón JM et al. The ALIEN-Study: incidence and out-
+come of acute respiratory distress syndrome in the era of lung pro-
+tective ventilation. Intensive Care Med 2011; 37: 1932–1941
+
+[4] Tolksdorf K, Buda S, Schuler E et al. Influenza-associated pneumonia
+as reference to assess seriousness of coronavirus disease (COVID-19).
+Euro Surveill 2020; 25. doi:10.2807/1560-7917.
+ES.2020.25.11.2000258
+
+[5] Schönhofer B, Geiseler J, Dellweg D et al. Prolongiertes Weaning. S2k-
+Leitlinie herausgegeben von der Deutschen Gesellschaft für Pneu-
+mologie und Beatmungsmedizin e.V. Pneumologie 2019; 73: 723–
+814
+
+[6] WeanNet Study Group. (WeanNet: The network of weaning units of
+the DGP (Deutsche Gesellschaft für Pneumologie und Beatmungs-
+medizin) – results to epidemiology an outcome in patients with pro-
+longed weaning). Dtsch Med Wochenschr 2016; 141: e166–172
+
+[7] www.divi.de/intensivregister
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+COVID-19
+
+[8] Windisch W, Dellweg D, Geiseler J et al. Prolongiertes Weaning von
+
+der mechanischen Beatmung. Ergebnisse in spezialisierten Weaning-
+Zentren – eine Registerstudie basierend auf der Initiative WeanNet.
+Dtsch Ärztebl Int 2020; 117: 197–204
+
+[9] Entscheidung über die Zuteilung von Ressourcen in der Notfall- und
+Intensivmedizin im Kontext der COVID-19-Pandemie. Klinisch Ethi-
+sche Empfehlungen der Deutschen interdisziplinären Vereinigung für
+
+Intensive- und Notfallmedizin (DIVI), Deutsche Gesellschaft für inter-
+disziplinäre Notfallmedizin und Akutmedizin (DGINA), Deutsche Ge-
+sellschaft für Anästhesie und Intensivmedizin (DGAI), Deutsche Ge-
+sellschaft für internistische Intensivmedizin und Notfallmedizin (DGI-
+IN), Deutsche Gesellschaft für Palliativmedizin (DGP) und der Akade-
+mie für Ethik in der Medizin (AEM). von den Fachgesellschaften ver-
+abschiedete Fassung vom 25.03.2020
+
+.
+s
+e
+g
+a
+l
+r
+e
+V
+ 
+s
+e
+d
+ 
+g
+n
+u
+m
+m
+
+i
+t
+s
+u
+Z
+
+ 
+t
+i
+
+m
+
+ 
+r
+u
+n
+ 
+g
+n
+u
+g
+i
+t
+l
+ä
+f
+l
+e
+v
+r
+e
+V
+
+i
+
+l
+
+ 
+.
+n
+e
+d
+a
+e
+g
+r
+e
+t
+n
+u
+r
+e
+h
+ 
+h
+c
+u
+a
+r
+b
+e
+G
+ 
+n
+e
+h
+c
+
+i
+l
+
+n
+ö
+s
+r
+e
+p
+ 
+m
+u
+z
+ 
+e
+d
+r
+u
+w
+
+ 
+t
+
+n
+e
+m
+u
+k
+o
+D
+ 
+s
+e
+s
+e
+D
+
+i
+
+Wiesner B et al. Aufgaben der Weaningzentren … Pneumologie
+
+

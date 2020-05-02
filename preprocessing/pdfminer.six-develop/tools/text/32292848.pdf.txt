@@ -1,0 +1,3304 @@
+Journal Pre-proof
+
+COVID-19 for the Cardiologist: A Current Review of the Virology, Clinical
+Epidemiology, Cardiac and Other Clinical Manifestations and Potential Therapeutic
+Strategies
+
+Deepak Atri, MD, Hasan K. Siddiqi, MD MSCR, Joshua Lang, MD, Victor Nauffal, MD,
+David A. Morrow, MD MPH, Erin A. Bohula, MD DPhil
+
+PII:
+
+DOI:
+
+S2452-302X(20)30157-1
+
+https://doi.org/10.1016/j.jacbts.2020.04.002
+
+Reference:
+
+JACBTS 443
+
+To appear in:
+
+JACC: Basic to Translational Science
+
+Received Date: 7 April 2020
+
+Accepted Date: 7 April 2020
+
+Please cite this article as: Atri D, Siddiqi HK, Lang J, Nauffal V, Morrow DA, Bohula EA, COVID-19 for
+the Cardiologist: A Current Review of the Virology, Clinical Epidemiology, Cardiac and Other Clinical
+Manifestations and Potential Therapeutic Strategies, JACC: Basic to Translational Science (2020), doi:
+https://doi.org/10.1016/j.jacbts.2020.04.002.
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+
+© 2020 Published by Elsevier on behalf of the American College of Cardiology Foundation.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COVID-19 for the Cardiologist: A Current Review of the Virology, Clinical Epidemiology, 
+
+Cardiac and Other Clinical Manifestations and Potential Therapeutic Strategies 
+
+Deepak Atri MD*, Hasan K. Siddiqi MD MSCR*, Joshua Lang MD, Victor Nauffal MD, David 
+
+A. Morrow MD MPH, and Erin A. Bohula MD DPhil 
+
+Cardiovascular Division, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 
+
+*Denotes co-first authors. 
+
+Corresponding Author:  
+
+Erin A. Bohula MD DPhil 
+
+350 Longwood Ave 
+
+First Office Floor 
+
+Boston, MA 02115 
+
+Email: ebohula@bwh.harvard.edu 
+
+ 
+
+1 
+
+Highlights 
+
+-  Severe acute respiratory virus-2 (SARS-CoV2), the infection responsible for coronavirus 
+disease-2019 (COVID-19), has spread globally leading to a devastating loss of life.  In a 
+few short months, the clinical and scientific communities have rallied to rapidly evolve 
+our understanding of the mechanism(s) of disease and potential therapeutics. 
+
+-  This review discusses the current understanding of the basis virology of SARS-CoV2 and 
+the epidemiology, clinical manifestations, including cardiovascular, and mortality of 
+COVID-19.  A detailed review of the viral life cycle and putative mechanism(s) of injury 
+frames the discussion of possible preventative and therapeutic strategies. 
+
+-  The ongoing, unprecedented collective effort will, without a doubt, advance our ability to 
+
+prevent the spread and optimally care for patients suffering from COVID-19.     
+
+ 
+ 
+Summary 
+The  coronavirus  disease-2019  (COVID-19),  a  contagious  disease  caused  by  severe  acute 
+respiratory syndrome coronavirus-2 (SARS-CoV2), has reached pandemic status.  As it spreads 
+across the world, it has overwhelmed healthcare systems, strangled the global economy and led 
+to  a  devastating  loss  of  life.    Widespread  efforts  from  regulators,  clinicians  and  scientists  are 
+driving  a  rapid  expansion  of  knowledge  of  the  SARS-CoV2  virus  and  the  COVID-19  disease.  
+We review the most current data with a focus on our basic understanding of the mechanism(s) of 
+disease and translation to the clinical syndrome and potential therapeutics.  We discuss the basic 
+virology, epidemiology, clinical manifestation, multi-organ consequences, and outcomes.  With a 
+focus on cardiovascular complications, we propose several mechanisms of injury.  The virology 
+and potential mechanism of injury form the basis for a discussion of potential disease-modifying 
+therapies. 
+   
+Key words: COVID-19, SARS-CoV2, Cardiovascular, Virology, Treatments 
+ 
+Abbreviations 
+ACE2 – angiotensin-converting enzyme 2 
+ARDS – acute respiratory distress syndrome 
+CDC – Centers for Disease Control 
+CFR – case fatality rate 
+COVID-19 – coronavirus disease-2019 
+CoV – coronavirus 
+DIC – disseminated intravascular coagulation 
+ER - endoplasmic reticulum 
+hsCRP – high sensitivity c-reactive protein 
+ICU – intensive care unit 
+SARS-CoV1 or 2– severe acute respiratory syndrome coronavirus-1 or -2 
+SOFA – sequential organ failure assessment 
+TMPSS2 – trasmembrane serine protease-2 
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+Introduction 
+
+The  coronavirus  disease-2019  (COVID-19),  a  contagious  disease  caused  by  severe  acute 
+
+respiratory syndrome coronavirus-2 (SARS-CoV2), has reached pandemic status.  As it spreads 
+
+across the world, it has overwhelmed healthcare systems, strangled the global economy and led 
+
+to  a  devastating  loss  of  life.    In  the  ongoing  wake  of  COVID-19,  the  world’s  medical  and 
+
+scientific communities have come together to rapidly expand our knowledge of the pathogenesis, 
+
+disease  manifestations  and  possible  preventive  and  therapeutic  strategies.    Virologists  have 
+
+looked to related diseases to understand the life cycle of this novel viral infection.  Despite being 
+
+overwhelmed,  through  conventional  and  historically  unconventional  mechanisms,  clinicians 
+
+managing patients with COVID-19 have made a concerted effort to rapidly educate colleagues in 
+
+expectant  regions  of  the  world  on  lessons  learned.    The  world’s  regulatory  agencies  and 
+
+pharmaceutical  industry  are  using  emergency  mechanisms  to  expedite  access  to  and  study  of 
+
+therapeutic  options.    These  widespread  efforts,  drawn  from  many  arenas,  are  driving  a  rapid 
+
+expansion of collective experience and understanding of COVID-19.   
+
+Here, we review this body of work with a focus on our basic understanding of the mechanism(s) 
+
+of  disease  and  translation  to  the  clinical  syndrome  and  potential  therapeutic  options.  
+
+Specifically, we discuss the basic virology, epidemiology and clinical manifestations, including 
+
+presentation,  progression,  multi-organ  consequences  and  outcomes.    With  a  focus  on  the 
+
+cardiovascular complications, we propose several potential mechanisms of injury.  We discuss a 
+
+range  of  possible  therapeutic  options  in  the  context  of  the  viral  life  cycle  and  possible 
+
+mechanisms of injury.  Finally, in recognition of the scale of this crisis,  we address the  ethical 
+
+considerations around standards of care in the event of resource scarcity.   
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Basic Virology of SARS-CoV2 
+
+Genetics and Structure 
+
+Coronaviridae  comprise  a  family  of  enveloped,  single  stranded,  positive  sense,  RNA  viruses 
+
+with  comparable  genomic  organization  and  functional  mechanisms.    Coronaviruses  (CoV)  are 
+
+canonically  divided  into  alpha-  and  beta-,  gamma-  and  delta-  genera  predicated  on  genetic 
+
+clustering.  The  alpha-  and  beta-CoV  are  known  to  cause  human  diseases,  such  as  common 
+
+respiratory  infections.    The  SARS-CoV2  and  SARS-CoV1  are  beta-CoV  (1-3).  CoV  are  so-
+
+named  because  of  the  characteristic  crown,  or  corona,  of  electron  density  that  they  exhibit  on 
+
+transmission  electron  micrographs.  This  appearance  is  thought  to  be  caused  by  the  densely 
+
+packed protein that studs the viral membrane and is responsible for receptor binding on target-
+
+cell membranes. 
+
+The  CoV  genome  is  organized  into  two  parts.  Highly  conserved  with  the  CoV  family,    the  5’ 
+
+terminal end, encodes the replicase - the nonstructural proteins responsible for viral replication 
+
+within  the  cell  (1-3).  It  is  translated  as  one  peptide  (~790  kDa)  from  which  the  constituent 
+
+functional proteins are subsequently cleaved. CoV genomes encode 16 nonstructural proteins, as 
+
+in SARS-CoV2, and they exhibit a multitude of functions required for viral replication  (2,4,5). 
+
+Critical  proteins  for viral  replication include the main protease (nsp5), the papain-like protease 
+
+(nsp3) and the RNA-dependent RNA polymerase (nsp12, RdRp). The other replicase constituent 
+
+proteins repurpose the cellular machinery to facilitate viral replication and to blunt the intrinsic 
+
+host immune functions (1,6).  
+
+4 
+
+The  remaining  third  of  the  CoV  genome  encodes  the  structural  proteins  and  a  variety  of 
+
+accessory proteins (latter not discussed here).  The structural proteins are the constituent proteins 
+
+of the transmissible viral particle, or virion. The key structural CoV proteins are the nucleocapsid 
+
+protein (N) and three transmembrane proteins: the spike protein (S), the membrane protein (M), 
+
+and the envelope protein (E) (1-5)(Figure 1).  The S protein is responsible for virus-cell receptor 
+
+interactions (7-11)(Figure 1). The E and M proteins are responsible for membrane structure and 
+
+fusion. The N protein binds viral RNA and mediates its interaction with the S, E, and M proteins 
+
+for genome encapsulation (1,12).    
+
+Life Cycle 
+
+The  life  cycle  of  SARS-CoV2  has  not  been  rigorously  established;  however,  given  the 
+
+considerable sequence homology, it is presumed to be similar to that of SARS-CoV1 and other 
+
+CoV  (4,5).    In  general,  the  CoV  life  cycle  consists  of  a  series  of  steps  that  begins  with  viral 
+
+binding to a target cell and culminates in viral reproduction.  Knowledge of this process informs 
+
+an understanding of viral physiology and also will serve as the basis for discussion of antiviral 
+
+therapeutics  (8)(Figure  1).  The  aim  of  evolving  therapeutics  will  be  to  break  the  “links  in  the 
+
+chain” of the viral life cycle in order to forestall the propagation of infection within the cells of 
+
+an individual patient. 
+
+SARS-CoV2  is  known  to  bind  to  cells  via  the  same  receptor  as  SARS-CoV1,  the  membrane-
+
+bound glycoprotein Angiotensin Converting Enzyme 2 (ACE2) (4). It has not been observed to 
+
+bind  other  CoV  receptors,  namely  dipeptidyl  peptidase  4  (DPP4)  or  aminopeptidase  N  (APN) 
+
+(4,13).    After  binding  of  ACE2,  the  virus  is  internalized  via  endocytosis  without  access  to  the 
+
+5 
+
+ 
+
+ 
+
+ 
+
+host intracellular compartment until a membrane fusion event occurs (4)(Figure 1). This process 
+
+is  mediated,  at  least  in  part,  by  another  membrane  bound  protease  known  as  transmembrane 
+
+serine  protease  2  (TMPRSS2),  which  cleaves  the  S  protein  as  a  necessary  step  of  membrane 
+
+fusion (7). Interestingly, the protease activity of the CoV receptors, ACE2, DPP4 and APN, does 
+
+not seem necessary for membrane fusion (14).  
+
+Upon  membrane  fusion,  the  viral  RNA  genome  enters  the  intracellular  compartment.  At  this 
+
+point, the viral RNA may be translated into its encoded structural and nonstructural proteins. The 
+
+translation of the nonstructural proteins, or replicase, results in the production of a single massive 
+
+polypeptide  chain,  from  which  the  sixteen  constituent  nonstructural  proteins  are  cleaved.  This 
+
+process  is  initially  mediated  by  intracellular  proteases,  and  then  further  propagated  by  the 
+
+function of the CoV main protease  and papain-like protease  (1). Another replicase protein, the 
+
+RNA-dependent RNA polymerase (RdRp) is responsible for the replication and amplification of 
+
+the viral  genome (15).  During this process,  mutations may be  acquired  by errors in  replication 
+
+and recombination events (1).   
+
+Upon  amplification  of  the  viral  RNA,  more  viral  structural  and  nonstructural  proteins  may  be 
+
+generated. Viral structural proteins, because of their transmembrane nature (with the exception of 
+
+the N protein), are targeted to the ER membrane with appropriate signal sequences. Viral RNA, 
+
+bound by N protein, interacts with the structural proteins on the membrane of the ER and Golgi 
+
+apparatus  before  another  membrane  fusion  event  on  these  membranes  results  in  viral  budding 
+
+and exocytosis (1,8,12).  
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Importantly, the precise molecular differences that account for the important clinical differences 
+
+between  SARS-CoV2  and  SARS-CoV1  infections,  such  as  prolonged  latency,  widely  variable 
+
+symptoms, a possible predisposition for individuals with pre-existing cardiovascular conditions, 
+
+and a predilection for myocardial complications, remain unclear.  
+
+Pathogenesis: Angiotensin-Converting Enzyme 2  
+
+SARS-CoV2, SARS-CoV, and HCoV-NL63, a virus that causes a mild respiratory infection, are 
+
+all  known  to  employ  ACE2  as  a  receptor  (3,4,16,17).  Given  the  functions  of  ACE2  in  the 
+
+cardiovascular  system,  the  importance  of  angiotensin-directed  pharmacology  in  cardiovascular 
+
+disease  and  the  apparent  propensity  for  severe  illness  among  patients  with  COVID-19  with 
+
+cardiovascular  comorbidity,  the  ACE2  molecule  has  been  the  subject  of  much  attention  (18). 
+
+Indeed, major clinical societies have issued consensus statements on the use of ACE inhibitors 
+
+(ACEi) and angiotensin-receptor blockers (ARBs) in the setting of the COVID-19 pandemic, as 
+
+discussed later (19). 
+
+Angiotensin-Converting enzyme 2 (ACE2) is a single-pass transmembrane protein with protease 
+
+activity that cleaves the vasoconstrictor angiotensin  II into the vasodilator angiotensin 1-7 (20-
+
+23).  In doing so,  it functions  as a counter-regulatory  enzyme to  the functions of ACE1, which 
+
+generates angiotensin II (20).  In humans, the protein has a broad pattern of expression and has 
+
+been found in  the lung  epithelium  (in particular the type  II pneumocyte),  the myocardium, the 
+
+endothelium,  the  GI  tract,  bone  marrow,  kidneys  and  spleen  among  other  tissues;  potentially 
+
+explaining  the  multi-organ  injury  observed  with  SARS-CoV2  infection  (24).  Another  relevant 
+
+7 
+
+ 
+
+ 
+
+ 
+
+feature of Ace2  gene expression is its encoding on the X chromosome, which may  account for 
+
+possible sex differences observed in the epidemiology of COVID-19 (25).  
+
+In animal models of acute respiratory distress syndrome (ARDS), due to chemical pneumonitis, 
+
+overwhelming  sepsis,  endotoxemia,  or  influenza,  Ace2KO  mice  have  more  severe  acute  lung 
+
+injury (ALI) relative to their wild-type counterparts as evaluated histologically and by measures 
+
+of  elastance  (26-28).    The  phenotype  of  increased  elastance  was  rescued  by  administration  of 
+
+recombinant  human  ACE2,  which  affirms  a  causal  link  between  Ace2  deficiency  and  a  more 
+
+profound  state  of  ALI  (26,28).    Additionally,  the  administration  of  losartan,  an  angiotensin  II 
+
+type-1 receptor (AT1R) blocker mitigated the exacerbating effects of SARS-CoV spike protein in 
+
+an animal model of ARDS (29). Losartan also abrogated the severity of ALI due to influenza in 
+
+mice (27,28).  
+
+In regard to the counter-regulatory properties of ACE1 and ACE2, the effects of Ace2-deficiency 
+
+appear to be rescued by Ace1-deficiency in mice. For example, the effects of Ace2-deficiency to 
+
+result  in  more  severe  ALI  are  abrogated  by  Ace1-deficiency.  Ace2KO  mice  demonstrated  more 
+
+severe  ALI  than  Ace2KO;Ace1+/-,  with  further  reduction  in  severity  observed  in  Ace2KO;Ace1-/- 
+
+(26).  This  dose-responsiveness  also  implies  causation.  Comparable  effects  were  seen  with 
+
+myocardial  dysfunction,  as  Ace2KO;Ace1+/-  and    Ace2KO;Ace1-/-  had  no  evidence  of  the 
+
+contractile deficit observed in Ace2KO mice (30). Of note, in each of the above cases, however, 
+
+the animal models were constitutive knockout systems (rather than lineage-specific or inducible 
+
+knockout). Thus, the ACE2-expressing cell that  mediates each phenotypic abnormality  has not 
+
+been determined. 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SARS-CoV2 is able to utilize ACE2 isoforms from swine, bats, civets and humans suggesting a 
+
+mechanism whereby the virus may have been initially transmissible from species to species and, 
+
+with  mutation,  evolved  into  a  novel  pathogen  (4).  Notably,  murine  ACE2  is  not  a  functional 
+
+receptor for SARS-CoV2; thereby requiring transgenic expression of human ACE2 if mice are to 
+
+be used as a research model (4).  
+
+ACE2 undergoes cleavage by the membrane-bound protease ADAM17; resulting in the release 
+
+of soluble ACE2 into the blood stream (31). The effects of soluble ACE2 are unclear in humans, 
+
+however it appears to have favorable effects on lung function in models of ARDS, influenza, and 
+
+RSV infection (26,28,32).  Soluble ACE2 has been studied in a phase II trial of ARDS, but large-
+
+scale, well-powered clinical outcomes trials are needed (33). Research is ongoing to determine 
+
+whether soluble ACE2 may act as a specific therapeutic to SARS-CoV2 in the role of a decoy 
+
+receptor, as discussed later (34).  
+
+Finally,  given  the  necessity  of  ACE2  for  viral  infection,  the  role  of  ACE  inhibitors  (ACEi)  or 
+
+angiotensin  receptor  blockers  (ARBs)  in  COVID-19  has  drawn  intense  attention.  Importantly, 
+
+the ACE2 enzyme itself is  not  inhibited by ACEi/ARB use  (21).  ACEi  or ARB exposure may 
+
+result  in  ACE2  protein  upregulation  in  animal  models;  however  not  all  animal  models  exhibit 
+
+this  effect.  The  existing  epidemiology  of  COVID-19  among  patients  taking  ACEi  or  ARB  is 
+
+confounded  by  cardiovascular  comorbidities  which  may  alter  ACE2  and  angiotensin  II 
+
+expression (18).  At this time, it is unclear if ACEi or ARBs use influences receptor expression 
+
+and whether variable expression impacts the propensity for or severity of SARS-CoV2 infection.  
+
+9 
+
+ 
+
+Transmission 
+
+Exposure to the Huanan seafood market  was common among the  earliest  cases contributing to 
+
+the  SARS-CoV2  epidemic  in  China  suggesting  that  this  was  a  zoonotic  disease  with  an 
+
+intermediate animal host (non-aquatic animals were sold in the market) (35).  Genomic analyses 
+
+have  identified  approximately  87%  DNA  sequence  homology  between  SARS-CoV2  and  two 
+
+SARS-like  CoV  isolated  from  Chinese  horseshoe  bats,  bat-SL-CoVZC45  and  bat-SL-
+
+CoVZXC21, in the Zhejiang province in China (36). Notably, no bats are sold in the market and 
+
+at the onset of the outbreak in December most bat species in Wuhan would be hibernating. Thus, 
+
+similar  to  SARS-CoV1  and  MERS-CoV,  while  bats  may  be  the  natural  reservoir  for  SARS-
+
+CoV2, there is likely an unidentified intermediate animal host responsible for animal-to-human 
+
+transmission. Despite closure of the Huanan market on January 1, 2020, the epidemic continued 
+
+to  expand  and  case  clusters  with  no  exposure  to  the  market  were  reported  indicating  the 
+
+occurrence of human-to-human transmission (37). 
+
+ 
+
+Akin  to  other  respiratory  viruses,  SARS-CoV2  spreads  primarily  through  small  respiratory 
+
+droplets that are expelled from  infected individuals  and can travel  approximately 3-6 feet.  The 
+
+virus  can  exist  in  nature  on  surfaces  and  can  last  for  up  to  4  hours  on  copper,  24  hours  on 
+
+cardboard  and  up  to  72  hours  on  plastic  and  stainless  steel  surfaces  leading  to  fomite 
+
+transmission (38). In fact, the Japanese National Institute of Infectious Disease reported detection 
+
+of SARS-CoV2 RNA on surfaces in the cabins of symptomatic and asymptomatic passengers on 
+
+the  Diamond  Princess  up  to  17  days  after  they  were  vacated    (39).  Live  virus  has  also  been 
+
+isolated  and  cultured  from  fecal  specimens  raising  the  possibility  of  oro-fecal  transmission, 
+
+ 
+
+10 
+
+though corroborating clinical evidence for this method of transmission is lacking (40). Airborne 
+
+transmission may be facilitated in healthcare settings where aerosol-producing interventions are 
+
+being  performed  including  endotracheal  intubation,  bronchoscopy,  suctioning,  nebulizer 
+
+treatment,  non-invasive  positive  pressure  ventilation  and  delivery  of  oxygen  via  a  high-flow 
+
+nasal  cannula.  These  transmission  data  support  the  clinical  recommendations  that  airborne 
+
+precautions,  including  use  of  N-95  masks,  should  be  implemented  in  these  aerosol-producing 
+
+settings  whereas  standard  droplet  precautions  should  be  used  during  all  other  encounters  with 
+
+infected individuals (41). 
+
+ 
+
+In a fully susceptible population, reflected by early stages of the epidemic in China, studies have 
+
+estimated a basic reproductive number (Ro) of 2.38 for SARS-CoV2, meaning that every infected 
+
+individual is likely on average to spread the virus to 2 to 3 other individuals (42). An outbreak 
+
+will continue to increase in size if the Ro>1. For context, seasonal influenza has an Ro of 1.5 (43). 
+
+Substantial transmission from asymptomatic hosts has facilitated the widespread transmission of 
+
+SARS-CoV2  and  contributed  to  its  pandemic  potential  (42).  A  study  from  Singapore  with 
+
+extensive contact  tracing identified 7 clusters of cases where secondary spread of the infection 
+
+occurred 1-3 days prior to symptom development in the source patient (44). Thus, containment 
+
+measures aimed solely at isolating symptomatic individuals are inadequate. Furthermore, contact 
+
+tracing  efforts  should 
+
+take 
+
+in 
+
+to  account 
+
+the  pre-symptomatic  contagious  period 
+
+to 
+
+comprehensively  capture  all  potentially  exposed  individuals.  Ro  is  not  a  static  measure  and 
+
+interventions including self-quarantine, contact isolation, social distancing and enhanced hygiene 
+
+measures have proven to be effective in China. Following implementation of such measures in 
+
+ 
+
+11 
+
+China,  the  Ro  steadily  decreased  from  2.38  prior  to  January  23rd  to  0.99  during  the  period  of 
+
+January 24-February 8, 2020 (42). 
+
+Epidemiology and Clinical Manifestations of SARS-CoV2 
+
+Epidemiology 
+
+The burden of the SARS-CoV2 virus has evolved rapidly since it first appeared in Wuhan, China 
+
+in December 2019. What began as a few case reports of atypical pneumonia now spans the globe 
+
+as  a  pandemic.  At  present,  most  published  data  come  from  China  and  form  the  basis  for  our 
+
+understanding of the epidemiology of COVID-19.   In the largest published registry to date, the 
+
+Chinese Centers for Disease Control and Prevention (CDC) reported high-level details for patient 
+
+characteristics,  severity  of  manifestations  and  survival  in  72,314  cases  of  putative  (47%)  and 
+
+confirmed (63%) COVID-19 (45).  In this population, predominantly identified by the presence 
+
+of  symptoms  (~99%),  <2%  of  cases  occurred  in  children  <  19  years  of  age  suggesting  that 
+
+children either are either resistant to infection or rarely symptomatic.  Of confirmed cases, most 
+
+(87%) were mild, defined by no or mild pneumonia, 14% were severe with significant infiltrates 
+
+or signs of respiratory compromise and 5% were critical with respiratory failure (e.g. mechanical 
+
+ventilation), shock or multiorgan system failure.   
+
+The first confirmed case of COVID-19 in the US was identified on January 20, 2020 and the US 
+
+has now surpassed all other countries in the absolute number of cases.  However, given the rapid 
+
+and  recent  onset  of  the  burden,  there  are  few  published  data  reflecting  the  experience  with 
+
+COVID-19 in the US.   In an early snap shot from the US CDC in 4,226 confirmed cases with 
+
+symptoms or exposure, only 5% occurred in those under the age of 20 (46).   
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+While data are rapidly accumulating, much of the epidemiology of this virus remains unknown. 
+
+Most  publications  are  small,  single  center  studies,  and  detail  the  clinical  characteristics, 
+
+complications and outcomes in the subset of patients who were hospitalized.  As a result of the 
+
+limitations  on  testing  and  the  data  suggesting  that  many  infected  individuals  may  be 
+
+asymptomatic, the true burden of infected individuals is unclear and underestimated (42,47).  Not 
+
+only does  the variable manifestation of symptoms hamper public health initiatives to  trace and 
+
+isolate  infected  individuals,  but  also  it  limits  our  ability  to  accurately  estimate  infectivity, 
+
+symptom burden, and non-fatal and fatal complication rates in the overall population of infected 
+
+individuals.  With that caveat, the published data provide insights into the more vulnerable, at-
+
+risk  populations  who  require  hospitalization.    While  the  individual  studies  are  small,  the 
+
+predictors  of  more  severe  manifestations  and  poor  outcomes  have  been  generally  consistent  as 
+
+detailed below. 
+
+Clinical Presentation / Syndrome 
+
+In  a  multi-center  case  series  of  1,099  hospitalized  patients  from  China,  the  most  common 
+
+symptoms  were  fever  in  up  to  90%,  followed  by  cough,  fatigue,  sputum  production,  and 
+
+shortness  of  breath  (48).    Less  common  symptoms  included  headache,  myalgias,  sore  throat, 
+
+nausea,  vomiting,  and  diarrhea.    The  American  Association  of  Otolaryngology  has  recently 
+
+highlighted anosmia and dysgeusia as possible symptoms of disease as well  (49). The median 
+
+incubation period, or time from probable exposure to first symptom, was 4 days (IQR 2-7) (48).  
+
+Another  report  detailed  that  99%  of  infected  patients  develop  symptoms  within  14  days  (50).  
+
+Common lab derangements on admission included lymphopenia, elevations in c-reactive protein, 
+
+13 
+
+lactate dehydrogenase, liver transaminases and d-dimer (48).  Notably, procalcitonin was rarely 
+
+elevated  (48).    These  data  are  generally  consistent  across  multiple  smaller  studies,  several  of 
+
+which noted elevations in other inflammatory markers, such as  IL-6,  ferritin  and ESR  (51-55).  
+
+Evidence of cardiac or kidney injury at admission was variable across studies, but tended to be 
+
+absent upon hospitalization (48,51-53,56). Chest computed tomography at the time of admission 
+
+was  abnormal  in  87%  of  patients  with  ground  glass  opacities  or  local  or  patchy  “shadowing” 
+
+(48).   
+
+ 
+
+Disease Progression 
+
+Many  of  the  more  severe  manifestations,  such  as  ARDS,  acute  kidney  injury  (AKI)  and 
+
+myocardial injury, tend to occur as many as 8-14 days after the onset of symptoms and portend 
+
+worse outcomes  (53). Within  a hospitalized population,  rates of  ICU  admission range between 
+
+26-32%  across  most  studies  (35,48,51-53,57).  Several  studies  have  identified  older  age  and 
+
+baseline burden of comorbidity, such as diabetes, hypertension, prior coronary disease and prior 
+
+lung  disease,  as  predictors  of  more  significant  disease  progression  with  higher  rates  of  ARDS, 
+
+AKI,  cardiac  injury,  ICU  admission  and  death  (51-53,58,59).  Increases  in  markers  of 
+
+inflammation,  coagulation,  and  cardiac  injury  also  correlate  with  disease  severity  and  rise 
+
+throughout the course of the disease (53,54,56).   In hospitalized populations, the timing of death 
+
+occurred at a median of 16-19 days after illness onset (53,58).  The median time from symptom 
+
+onset to discharge in survivors was around 3 weeks (53).  
+
+Non-Cardiovascular Clinical Manifestations 
+
+Respiratory Failure 
+
+ 
+
+ 
+
+14 
+
+The most prominent complication of COVID-19 is respiratory failure. As previously described, 
+
+the  majority  of  patients  have  no  or  mild  symptoms  (45).    In  hospitalized  patients,  respiratory 
+
+symptoms  are  common  and  range  in  severity  from  cough  (60-80%)  or  dyspnea  (19-40%)  to 
+
+ARDS (17-42%) (51-53,56,57).  ARDS rates were only 3.2% in the largest case series, but this 
+
+may be an underestimate due to a short average follow up time of 12 days, with the vast majority 
+
+of patients remaining hospitalized at the end of study (48).   ARDS tends to occur ~1-2 weeks 
+
+into illness and is  often precipitous  and protracted  (51,53,57).  For these reasons,  and to  avoid 
+
+risk  of  provider  infection  with  emergent  intubation,  professional  societies  recommend  early 
+
+intubation  in  the  event  of  respiratory  decline  (41).    Intubation  was  required  in  10-33%  in  the 
+
+various Chinese series; however, rates of high-flow nasal cannula and non-invasive mechanical 
+
+ventilation  also  were  high  (35,51-53).   These  therapies  are  believed  to  result  in  aerosolization 
+
+and are generally not recommended – consequently, more patients will be intubated when unable 
+
+to  be  supported  by  nasal  cannula  or  a  non-rebreather  mask  (41).      Older  age,  baseline 
+
+hypertension,  diabetes,  high  fever,  lymphopenia,  injury  to  other  organs  (e.g.  AKI,  ALI),  and 
+
+elevated  d-dimer  and  inflammatory  markers  were  predictors  of  ARDS;  advanced  age, 
+
+neutropenia,  elevated  d-dimer  and  inflammation  are  associated  with  higher  mortality  in  those 
+
+with ARDS (51). Development of ARDS, along with acute cardiac injury, was an independent 
+
+predictor of death (56).  Importantly, hypoxemic respiratory failure is the leading cause of death 
+
+in COVID-19, contributing to 60% of deaths (58).  
+
+Renal injury 
+
+ 
+
+ 
+
+Estimates  vary  as  to  the  incidence  of  acute  kidney  injury  in  COVID-19,  ranging  between  0.5-
+
+15%  (35,48,52,53,56,59).  Among  hospitalized  patients  the  rates  of  proteinuria  (43.9%)  and 
+
+15 
+
+hematuria  (26.7%)   appear  to  be  even  higher  (59).  Acute  kidney  injury  occurs  in  the  first  few 
+
+days  after  admission  in  patients  with  baseline  chronic  kidney  disease,  and  after  7-10  days  in 
+
+patients  with  normal  baseline  renal  function  (59).  Mechanisms  of  renal  injury  have  been 
+
+hypothesized to include both acute tubular necrosis (ATN), direct cytotoxic effects of the virus 
+
+itself, and immune-mediated damage (59).  
+
+Liver injury 
+
+Transaminitis is common with an incidence of 21-37%, and as high as 48-62% of patients who 
+
+are  critically  ill  or  who  do  not  survive  (35,48,53).  Acute  liver  injury,  defined  as  either  alanine 
+
+aminotransferase  or  aspartate  aminotransferase  greater  than  three  times  the  upper  limit  of 
+
+normal,  occurs  less  frequently,  and  was  reported  to  occur  in  19.1%  (n=4)  of  21  patients  who 
+
+were admitted to an ICU in Washington State (55).  
+
+Cardiovascular Manifestations 
+
+Cardiac injury 
+
+Numerous studies have reported acute cardiac injury as an important manifestation of COVID-
+
+19.    In  studies  published  to  date,  acute  cardiac  injury  was  variably  defined  as  either  cardiac 
+
+troponin  elevation  >99th  percentile  alone  or  a  composite  of  troponin  elevation,  ECG  or 
+
+echocardiographic abnormalities (52-56,58).  Importantly, many aspects of this endpoint remain 
+
+undefined  including  the  frequency  and  severity  of  associated  structural  abnormalities.    The 
+
+reported rate of cardiac injury varies between studies, from 7% to 28% of hospitalized patients, a 
+
+number which is likely partially dependent upon the definition used and the severity of cases at 
+
+the  hospital  from  which  the  data  was  drawn  (52-54,56).      Notably,  patients  with  evidence  of 
+
+16 
+
+ 
+
+ 
+
+ 
+
+cardiac  injury  tend  to  be  older  with  more  comorbidities,  including  baseline  hypertension, 
+
+diabetes,  coronary  heart  disease,  and  heart  failure  (54,56).  Across  all  studies,  cardiac  injury  is 
+
+associated with worse outcomes, including ICU admission and death (52-54,56).  Based on serial 
+
+assessment of troponin, researchers in China reported that the median time to the development of 
+
+acute  cardiac  injury  was  15  days  (IQR  10  -17)  after  illness  onset,  occurring  after  the 
+
+development of ARDS (53).  Of note, early cardiac injury has been reported, even in the absence 
+
+of  respiratory  symptoms  (60).    In  a  case  series  by  Shi  et  al,  the  mortality  rate  for  those 
+
+hospitalized  with  subsequent  evidence  of  cardiac  injury  was  significantly  higher  than  those 
+
+without  cardiac  injury  (51.2%  vs  4.5%,  p<0.001)  and,  along  with  ARDS,  was  an  independent 
+
+predictor of death (56). The magnitude of troponin elevation correlates modestly with the degree 
+
+of hsCRP elevation (54).  Dynamic increases in troponin were associated with a higher mortality 
+
+rate  (54,61).    Importantly,  the  mechanism  of  cardiac  injury  may  be  multifactorial,  including 
+
+demand-ischemia,  toxicity  from  direct  viral  injury,  stress,  inflammation,  microvascular 
+
+dysfunction or plaque rupture, as discussed later (Central Illustration).    
+
+Arrhythmia 
+
+Arrhythmias  have  been  noted  in  several  published  reports.  In  a  case  series  of  138  hospitalized 
+
+patients  with  COVID-19,  16.7%  (n=23)  developed  an  unspecified  arrhythmia  during  their 
+
+hospitalization (52); higher rates were noted among patients admitted to the ICU (44.4%, n=16). 
+
+A  case  series  of  187  hospitalized  patients  provided  insight  into  specific  arrhythmias,  reporting 
+
+sustained ventricular tachycardia or ventricular fibrillation amongst 5.9% (n=11) of the patients 
+
+(54).  These  findings  are  consistent  with  arrhythmias  documented  in  influenza,  which  has  been 
+
+known to cause both AV node dysfunction and ventricular arrhythmias (62).  
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Heart failure, cardiogenic shock and myocarditis 
+
+Heart failure and myocardial dysfunction have been described in COVID-19 (53,55,58,60,63). In 
+
+a  case  series  of  191  patients,  heart  failure  was  noted  as  a  complication  of  COVID-19  in  23% 
+
+(n=44)  of  all  patients  and  among  52%  (n=28)  of  non-survivors,  though  the  definition  of  heart 
+
+failure  was  not  clearly  detailed  (53).  A  smaller  series  of  21  elderly,  critically-ill  patients  in 
+
+Washington  State  reported  incident  systolic  dysfunction  and  cardiogenic  shock  in  7  patients 
+
+(33%).(55)   Outside  of  this  series,  the  incidence  of  cardiogenic  shock  has  not  been  reported.  
+
+Two case reports have documented cardiogenic shock in the setting of an elevated troponin, ST 
+
+elevations, a reduction in left ventricular systolic function and no obstructive coronary disease in 
+
+patients  with  COVID-19.(60,63)   One  report  confirmed  fulminant  myocarditis  by  cardiac 
+
+MRI.(60)  Neither patient underwent endomyocardial biopsy.  Both were treated with inotropes 
+
+and steroids with recovery of LV function.  The potential etiologies of the clinical myocarditis 
+
+are discussed in  detail  below (Central  Illustration).   In one case series from  China, myocardial 
+
+damage  or  heart  failure  contributed  to  40%  of  deaths  overall  with  7%  attributed  to  solely  to 
+
+circulatory failure without respiratory failure.(58) 
+
+Thrombosis 
+
+One  of  the  prominent  findings  replicated  across  most  early  studies  of  COVID-19  includes 
+
+disarray  of  the  coagulation  and  fibrinolytic  system.    Hospitalized  patients  with  moderate  and 
+
+severe  COVID-19  and  those  with  poorer  outcomes  are  noted  to  have  prolonged  prothrombin 
+
+time (PT), elevated D-dimer, and activated partial thromboplastin time (APTT).(35,53,54,64)  In 
+
+the context of a clinical picture that is consistent with disseminated intravascular thrombosis, it is 
+
+18 
+
+reasonable  to  speculate  that  COVID-19  would  be  associated  with  venous  or  arterial  thrombi, 
+
+however  the  incidence  has  not  been  published.  A  pathology  report  from  SARS-CoV1 
+
+demonstrated fibrin thrombi in 17 of 20 patients examined with 12 of them showing pulmonary 
+
+infarcts (65). One preliminary case report, which has not been peer-reviewed, from a COVID-19 
+
+patient  described  autopsy  findings  of  microthrombi  in  the  pulmonary  vasculature  (66).    While 
+
+empiric  anticoagulation  is  being  used  in  some  centers  (Personal  communication  Lorenzo 
+
+Grazioli,  Papa  Giovanni  XXIII  hospital  in  Bergamo,  Italy),  the  absence  of  published  data 
+
+documenting 
+
+thrombotic  events 
+
+in  COVID-19,  routine  use  of  anticoagulation 
+
+is  not 
+
+recommended without evidence a thrombotic indication (67).  
+
+Mortality 
+
+COVID-19 has a lower estimated case fatality rate (CFR) than its predecessors, SARS-CoV1 and 
+
+MERS-CoV  which  were  9.4%  and  34.4%,  respectively  (68).   However,  given  the  high  global 
+
+burden of infection seen in COVID-19 compared to SARS and MERS, the absolute number of 
+
+fatalities  is  staggeringly  high,  crossing  70,000  fatalities  at  the  time  of  this  review  (69).    CFR 
+
+estimates  have  been  challenging  with  SARS-CoV2,  as  populations  have  not  been  widely 
+
+screened  for  infection  –  leading  to  an  underestimate  of  the  denominator  and  probable 
+
+overestimate of the CFR.  Crude, unadjusted estimates for the global CFR are ~5%  at the time 
+
+writing  with  notable  variation  by  country:  Italy  11.9%  (13,155  deaths),  Spain  9.0%  (9,387 
+
+deaths),  South  Korea  1.7%  (169  deaths),  China  4.1%  (3312  deaths),  Iran  6.4%  (3036  deaths), 
+
+Germany  1.2%  (931  deaths)  and  the  United  States  2.3%  (5,137  deaths)  (69).    Regional  and 
+
+national differences in CFR may be a result of multiple factors, including a) variable testing of 
+
+the general and asymptomatic/mildly symptomatic population, b) differing age across countries, 
+
+19 
+
+ 
+
+ 
+
+c) variable health care system  resources and preparedness as well as d) widely different public 
+
+health  measures  for  virus  control.    Importantly,  as  healthcare  capacity  is  exceeded,  a  large 
+
+number  of  deaths  may  occur  because  of  limited  availability  of  critical  care  resources,  such  as 
+
+mechanical ventilation.  When adjusted for underlying demography and under-ascertainment of 
+
+cases, the CFR rate was estimated to be 1.4% in China.(70) 
+
+The  general  pattern  of  fatalities  across  the  age  groups  appears  to  be  consistent  throughout  the 
+
+world. In general, greater age is associated with greater risk of severe disease as well as death. 
+
+According to the Chinese CDC report of over 70,000 cases, the age-related CFR was as follows: 
+
+<1% in age <50 years, 1.3% in age 50-59 years, 3.6% in age 60-69 years, 8% in age 70-79 years, 
+
+and 14.8% in age 80 years and greater (45). This steep increase in age-related mortality was also 
+
+observed  in  Italy,  the  US  and  South  Korea  (46,71,72).    In  fact,  age,  along  with  markers  of 
+
+disease severity (d-dimer and sequential organ failure assessment [SOFA] score) were the only 
+
+independent predictors of mortality in one study (53).   
+
+Multiple  associations  have  been  reported  between  baseline  characteristics  and  comorbid 
+
+conditions with mortality in COVID-19. In univariate analyses of predictors of death, Zhou and 
+
+colleagues  reported  that  age,  coronary  heart  disease,  diabetes,  hypertension,  respiratory  rate, 
+
+SOFA  score,  elevated  WBC,  lymphocyte  count,  creatinine,  lactate  dehydrogenase,  high 
+
+sensitivity  troponin  I,  D-dimer,  and  elevated  inflammatory  markers  such  as  ferritin,  IL-6  and 
+
+procalcitonin  were  associated  with  death  (53).    However,  in  multivariable  modeling  only  age 
+
+(OR 1·10 [95% CI 1·03–1·17] per year increase), SOFA score (OR 5.7 [95% CI 2.6-12.2]) and 
+
+elevated  D-dimer (18.4 [95% CI 2.6  - 128.6]) remained independent  predictors of mortality  as 
+
+20 
+
+ 
+
+ 
+
+ 
+
+described  above  (53).  In  another  multivariate  analysis  of  416  patients  from  Wuhan,  after 
+
+controlling  for  age,  baseline  cardiovascular,  pulmonary,  and  renal  disease,  only  presence  of 
+
+cardiac injury and development of ARDS were significantly associated with mortality (4.3 [95% 
+
+CI,  1.9-9.5]  and  7.9  [95%  CI,  3.7-16.7],  respectively).(56)      It  should  be  noted,  however,  that 
+
+both of these complications tend to occur in older individuals.(56,73)    
+
+Putative Mechanisms of Cardiovascular Manifestations in SARS-CoV2 
+
+As  mentioned  in  prior  sections,  COVID-19  patients  present  with  highly  variable  acuities  of 
+
+disease and disease progression. Cardiac injury is a common feature of the disease process, and 
+
+40% of patients die with myocardial injury as a proximate finding (58). While multiple therapies 
+
+are currently under development and in trials for treatment of COVID-19, as discussed in a later 
+
+section, understanding the mechanism(s) of cardiac disease will be vital to effective and timely 
+
+targeted  treatment  of  this  syndrome  and  its  devastating  sequelae.  Here  we  propose  several 
+
+putative mechanisms of COVID-19-induced cardiovascular disease (Central Illustration). 
+
+Direct viral myocardial injury 
+
+The  presence  of  ACE2  receptors  on  the  myocardium  and  vascular  endothelial  cells  provides  a 
+
+theoretical mechanism for direct viral infection of the heart with resultant myocarditis.  Reports 
+
+have  documented  clear  cases  of  myocarditis  syndromes  (60,63).    However,  to  date  there  no 
+
+reports  of  biopsy  proven  SARS-CoV2  viral  myocarditis  with  viral  inclusions  or  viral  DNA 
+
+detected in myocardial tissue. The closely related SARS-CoV1 has been documented to cause a 
+
+viral myocarditis with detection of viral RNA in autopsied hearts (74,75).  In light of the shared 
+
+21 
+
+ 
+
+ 
+
+ 
+
+host  cell  entry  receptor  between  SARS-CoV2  and  CoV1,  a  direct  viral  myocardial  entry  and 
+
+resulting injury is plausible with SARS-CoV2 as well (76).  
+
+Another  hypothesized  mechanism  of  direct  viral  injury  to  the  myocardium  is  through  an 
+
+infection-mediated  vasculitis.  The  ACE2  receptor  is  highly  expressed  in  arterial  and  venous 
+
+endothelial  cells  (24).  There  are  pathologic  data  from  SARS-CoV1  showing  evidence  of 
+
+vasculitis with monocyte and lymphocyte infiltration, vascular endothelial cell injury and stromal 
+
+edema in the heart (77). Either direct viral entry into myocardial endothelial cells could trigger a 
+
+vasculitis  or  presence  of  virus  could  lead  to  an  indirect  immunological  response  and  resulting 
+
+hypersensitivity  reaction  (78,79).  This  insult  would  be  associated  with  myocardial  injury  and 
+
+perhaps even overt myocardial dysfunction in COVID-19. 
+
+Microvascular injury 
+
+Micro- and macro-thromboses were observed in autopsy evaluations of 3 patients who died from 
+
+SARS-CoV1  (80).        A  prominent  finding  of  SARS-CoV2  is  disarray  of  the  coagulation  and 
+
+fibrinolytic  system,  with  >70%  of  non-survivors  meeting  criteria  for  DIC  (81).    It  may  be 
+
+hypothesized  that  myocardial  injury  is  a  result  of  microthrombus  formation  in  the  myocardial 
+
+vasculature in the setting of a hypercoagulable state like DIC.   
+
+Infections and sepsis are a leading cause of DIC in general (82). The exact mechanism of DIC in 
+
+the setting of sepsis and ARDS is complex, but is generally thought to be related to an immune-
+
+mediated  exhaustion  of  the  coagulation  and  fibrinolytic  systems  promoting  bleeding  and 
+
+thrombosis in the same patient (83).  Endothelial injury and inflammatory cytokines, such as IL-
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6  and  TNF-alpha,  upregulate  tissue  factor  expression,  driving  a  pro-thombotic  state  (84-87).   
+
+Dysregulation of antithrombin III, plasminogen activator inhibitor type 1 (PAI-1) and protein C 
+
+in  the  setting  of  significant  inflammation  and  sepsis  promote  an  anti-coagulated  state  (88-90). 
+
+Furthermore,  platelet  activation  also  ensues  in  the  context  of  sepsis  and  inflammation,  further 
+
+tipping the fine balance of the coagulation system (91-94).  In summary, the hyperinflammation 
+
+and  immune  activation  seen  in  severe  COVID-19  infection  is  likely  sufficient  to  trigger  DIC, 
+
+microvascular dysfunction and myocardial injury.   
+
+Stress cardiomyopathy 
+
+The role of stress (Takotsubo) cardiomyopathy in COVID-19 related cardiac injury is not known 
+
+at  this  time,  with  no  cases  in  the  literature  currently.  However,  several  of  the  proposed 
+
+mechanisms  of  COVID-19  related  cardiac  injury  detailed  in  this  review  are  also  thought  to  be 
+
+implicated in the pathophysiology of stress cardiomyopathy, particularly those of microvascular 
+
+dysfunction, cytokine storm and sympathetic surge (95). 
+
+Acute coronary syndrome 
+
+Any discussion of myocardial injury would be incomplete without addressing the issue of acute 
+
+coronary  syndrome  (ACS)  and  myocardial  infarction  (MI).  The  current  published  experience 
+
+does not detail the incidence of ACS or epicardial plaque rupture as a mechanism for the acute 
+
+cardiac injury observed in COVID-19. However, there is historical precedent for an association 
+
+between  infection  and  an  elevated  risk  of  ACS.  Epidemiologic  studies  have  shown  that 
+
+hospitalization  for  pneumonia  is  associated  with  a  higher  risk  for  atherosclerotic  events  (96). 
+
+Influenza  infection  has  been  well  studied  and  shown  to  have  a  temporal  association  with 
+
+23 
+
+ 
+
+ 
+
+ 
+
+cardiovascular complications and acute coronary syndrome (97,98). Annual vaccination against 
+
+seasonal influenza was associated with a 36% lower rate of major adverse cardiovascular events 
+
+in  a  meta-analysis  of  clinical  trials  evaluating  this  question  (97).    Therefore,  viral  infection  is 
+
+associated with an increased risk for coronary events and prevention with a reduction in this risk.  
+
+Therefore,  it  is  plausible  that  ACS  will  also  be  an  important  cause  of  acute  cardiac  injury  in 
+
+patients  with  COVID-19.      Accordingly,  international  societies  have  devised  pathways  and 
+
+protocols to effectively treat COVID-19 patients with ACS, including appropriate and timely use 
+
+of  resources  to  ensure  the  best  outcome  for  the  patient  while  also  maintaining  provider  safety 
+
+(99).  
+
+ 
+
+There are multiple pathophysiologic mechanisms by which systemic viral infection (by influenza 
+
+or SARS-CoV2, for example) may lead to a higher risk of plaque destabilization and ACS (100). 
+
+The  role  of  inflammation  in  the  development  and  progression  of  atherosclerosis  is  well 
+
+established (101,102). The immune response to acute viral infection and the accompanying surge 
+
+of  cytokines  and  inflammatory  mediators  can  lead  to  localized  arterial  inflammation  which  is 
+
+more  pronounced  within  coronary  plaques  (61,103).  Entry  of  viral  products  into  the  systemic 
+
+circulation,  also  known  as  pathogen-associated  molecular  patterns  (PAMPs),  can  cause  innate 
+
+immune receptor activation which can cascade into activation of immune cells resident in  pre-
+
+existing atheromata driving plaque rupture.(104) Viral PAMPs are also believed to activate the 
+
+inflammasome,  resulting  in  conversion  of  pro-cytokines  into  the  biologically  active  cytokines 
+
+(105).    In  addition,  dysregulation  of  coronary  vascular  endothelial  function  by  infection  and 
+
+inflammation may lead to a more vasoconstricted coronary bed (106). All of these changes are 
+
+ 
+
+24 
+
+putative mechanisms by which COVID-19 infection could lead to destabilization of pre-existing 
+
+atherosclerotic plaque driving an acute coronary event. 
+
+Myocardial injury secondary to oxygen supply and demand mismatch 
+
+Periods  of  severe  physiologic  stress  in  the  setting  of  sepsis  and  respiratory  failure  can  be 
+
+associated  with  elevations  in  biomarkers  of  myocardial  injury  and  strain  in  some  patients,  an 
+
+entity  that  confers  poorer  prognosis.(107-109)  The  mechanism  of  such  myocardial  injury  is 
+
+thought  to  be  related  to  a  mismatch  between  oxygen  supply  and  demand,  without  acute 
+
+atherothrombotic  plaque  disruption,  and  consistent  with  a  diagnosis  of    type  2  myocardial 
+
+infarction  (MI)  (100,110).  Indeed,  patients  who  suffer  from  type  2  MI  compared  to  type  1  MI 
+
+have  higher  mortality  rates,  which  may  in  part  be  explained  by  a  higher  burden  of  acute  and 
+
+chronic comorbid conditions in the type 2 MI population (111).  Furthermore, type 2 MI on the 
+
+background of coronary artery disease (CAD) has a worse prognosis than those patients without 
+
+CAD. Given the age and comorbidity profile of patients hospitalized with severe COVID-19, it is 
+
+reasonable to assume that this population has a higher risk of underlying non-obstructive CAD, 
+
+and therefore the presence of type 2 MI in this population is likely a marker of and contributor to 
+
+the poor outcomes of COVID-19 patients with troponin elevations (56). 
+
+Systemic hyperinflammatory response with resulting myocardial injury 
+
+Perhaps one of the more intriguing mechanisms for cardiac injury in severe COVID-19 patients 
+
+stems  from  the  significant  systemic  inflammatory  response.  Early  reports  have  demonstrated 
+
+severely  elevated  levels  of  inflammatory  biomarkers  and  cytokines,  including  IL-6,  C-reactive 
+
+protein  (CRP),  tumor  necrosis  factor  (TNF)-α,  interleukin  (IL)-2R  and  ferritin  (112).  Higher 
+
+25 
+
+ 
+
+ 
+
+ 
+
+levels of these biomarkers are associated with more severe COVID-19 manifestations and worse 
+
+outcomes.  A proposed theoretical  model of COVID-19 disease progression  divides the course 
+
+into three overlapping yet distinct stages. In this staging framework, stage I represents early viral 
+
+infection  with  associated  constitutional  symptoms.  In  stage  II,  direct  viral  cytotoxicity  of  the 
+
+pulmonary system with associated inflammatory activation leads to prominent respiratory system 
+
+compromise,  associated  with  dyspnea  and  ultimately  acute  respiratory  distress  syndrome 
+
+(ARDS) and hypoxia. With ACE2 receptors serving as an entry-point for viral replication in type 
+
+II pneumocytes, the pulmonary system becomes the maiden organ of injury. If the host is unable 
+
+to  clear  the  virus  via  a  productive  and  protective  immune  response,  COVID-19  progresses  to 
+
+stage  III  -  a  hyperinflammatory  state  associated  with  profound  elevations  in  inflammatory 
+
+biomarkers. Patients who reach stage III have severe COVID-19 manifestations with multiorgan 
+
+dysfunction and cytokine storm, with immune dysregulating akin to that seen in cytokine release 
+
+syndrome  (CRS)  associated  with  chimeric  antigen  receptor  T-cell  (CAR-T)  therapy  (112-116).  
+
+This  observation  is  basis  for  several  investigational  therapies  in  COVID-19,  including  steroids 
+
+and anti-inflammatory agents, as discussed later.  
+
+Prior  studies  have  shown  that  cardiomyopathy  in  sepsis  is  partially  mediated  by  inflammatory 
+
+cytokines such as TNF-α, IL-6, IL-1β, INF-γ and IL-2 (73). Recombinant TNF-α resulted in an 
+
+early  and  sustained  LV  systolic  dysfunction  in  canines  (117).  Cultured  rat  cardiomyocytes 
+
+demonstrated reduced contractility when exposed to IL-6 (118). The mechanism may be through 
+
+modulation  of  calcium  channel  activity  with  resultant  myocardial  dysfunction  (119-121). 
+
+Additionally,  nitric  oxide  (NO)  is  also  believed  to  be  a  mediator  of  myocardial  depression  in 
+
+hyperinflammatory states such as sepsis. Seminal studies found that medium from LPS-activated 
+
+26 
+
+ 
+
+ 
+
+macrophages  suppressed  myocyte  contractility,  a  finding  reversed  with  the  NO  synthase 
+
+inhibitor,  L-N-monomethyl  arginine  (122).    Finally,  recent  understanding  of  the  key  role  of 
+
+mitochondrial  dysfunction  in  septic  states  has  raised  questions  about  the  role  of  this  entity  in 
+
+sepsis  associated  cardiomyopathy  (123).  Indeed,  similar  mechanisms  are  thought  to  possibly 
+
+underly the pathophysiology of stress (Takotsubo) cardiomyopathy as well.   
+
+Potential Targeted or Disease Modifying Treatments in SARS CoV2              
+
+The  preceding  review  of  the  viral  physiology  of  SARS-CoV2  and  the  various  potential 
+
+mechanisms of injury to the host,  serve as the basis for considering specific targeted treatment 
+
+and  prevention.    The  following  section  outlines  several  current  candidate  classes  of  agents, 
+
+including a brief discussion of vaccine development (Figure 1).   
+
+Nucleotide Analogs - Inhibitors of Viral Genome Replication 
+
+The  antiviral  mechanism  of  nucleotide  analogs  is  to  interfere  with  RdRp  function  and  viral 
+
+genome  replication  and  amplification  (Figure  1).  There  are  no  CoV-specific  drugs  available  at 
+
+this time and so ongoing efforts to employ this drug class against SARS-CoV2 are reliant on pre-
+
+existing agents designed for other viral illnesses (124).  
+
+The  most  widely-applied  agent  in  this  class  against  SARS-CoV2  has  been  remdesivir  (125). 
+
+Remdesivir functions as a chain terminator of RNA replication, initially designed for use against 
+
+Ebola  (124).   Addition  of  remdesivir  to  the  growing  RNA  strand  by  RdRp  blocks  the 
+
+incorporation of additional nucleotides, thereby halting genome replication (126,127).  The agent 
+
+has  been  shown  to  have  in  vitro  activity  against  SARS-CoV2,  leading  to  off-label  and 
+
+27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+investigational use around the world (4,125). Multiple randomized-controlled trials are ongoing 
+
+in  China  and  the  United  States  for  moderate,  severe  and  critical  COVID-19  (NCT04292730, 
+
+NCT04292899, NCT04252664, NCT04252664, NCT04292730). 
+
+Another nucleotide analog for the disruption of RdRp-dependent viral replication is favipiravir, 
+
+which  has  investigational  approval  in  several  countries  (128,129).  Additional  agents  that  are 
+
+under study include emtricitabine/tenofovir and ribavirin (128,130). 
+
+ 
+
+Protease Inhibitors - Inhibitors of Nonstructural Protein Generation 
+
+The antiviral mechanism of action of protease inhibitors is to block viral proteases which cleave 
+
+the non-structural proteins from the large, monomeric, replicase as detailed above (Figure 1).  As 
+
+the maturation of non-structural proteins, such as RdRp, is necessary for viral reproduction, the 
+
+pharmacologic impairment of the protease should be effective to stop viral replication.  
+
+A randomized control trial of lopinavir-ritonavir, a combination protease inhibitor designed for 
+
+HIV  treatment,  in  199  patients  with  at  least  moderate  COVID-19  did  not  significantly  alter 
+
+clinical  improvement  or  viral  clearance  (131).  While  the  results  of  this  trial  were  met  with 
+
+disappointment, this negative study should not forestall trials and drug development of protease 
+
+inhibitors  as  a  therapeutic  class,  given  that  this  drug  was  not  specifically  designed  for  SARS-
+
+CoV2 (128).  
+
+Indeed, the development of inhibitors specific to SARS-CoV2 main protease is underway. A 
+
+class of agents identified using structure-based drug design, α-ketonamide inhibitors, has 
+
+demonstrated in vitro efficacy and favorable pharmacokinetics (132). Other candidate protease 
+
+28 
+
+ 
+
+ 
+
+ 
+
+inhibitors for SARS-CoV2 include danoprevir, a drug originally intended for HCV therapy 
+
+(133). 
+
+Inhibitors of Membrane Fusion  
+
+In order for the viral  genome to  gain  access  to  cellular machinery for replication, a membrane 
+
+fusion event must occur between the viral and endosomal membranes, which are noncovalently 
+
+bound by the interaction between the S protein and ACE2. The exact mechanism of membrane 
+
+fusion is unknown but appears to be dependent on endosomal maturation and a membrane-bound 
+
+host protease, TMPRSS2 (7).  
+
+Chloroquine (CQ) / Hydroxychloroquine (HCQ) 
+
+The antiviral properties of chloroquine (CQ) were previously observed in HIV and other viruses 
+
+(134,135).  CQ  and  HCQ  are  thought  to  inhibit  endosomal  maturation,  a  process  by  which 
+
+endosomes are translocated from the perimembrane regions of the cell to central hubs (136,137) 
+
+(Figure  1).   CQ  prevented  viral  replication  of  SARS-CoV1  in  vitro  (138).  A  follow-up  study 
+
+demonstrated  comparable  efficacy  of  HCQ,  a  less  toxic  derivative,  and  suggested  that  the 
+
+mechanism of impaired endosomal maturation indeed applied to SARS-CoV2 infection in vitro 
+
+(139). Only poor-quality, non-randomized, unblinded data exists assessing the benefit of HCQ in 
+
+COVID-19  (140).   While  HCQ  is  being  widely  used  with  an  FDA  emergency  authorization , 
+
+more data are needed to prove efficacy against SARS-CoV2 in humans.  Notably, CQ and HCQ 
+
+prolong the QT and may induce arrhythmia; significant caution should be used in starting these 
+
+agents in patients with a QTc>500 ms.   Concomitant use of other QT prolonging agents is not 
+
+recommended.   
+
+29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Camostat  
+
+Camostat  is  a  protease  inhibitor  approved  for  the  treatment  of  chronic  pancreatitis.  Camostat 
+
+appears to inhibit TMPRSS2 in proteomic and in vitro studies (7,141). A randomized, placebo-
+
+controlled trial is underway for this agent in COVID-19 (NCT04321096) (Figure 1). 
+
+Neutralizing Antibodies and Decoy Proteins 
+
+Neutralizing antibodies are designed to bind virions, preventing viral exposure or binding to host 
+
+cells (Figure 1).  Plasma from patients who have recovered from SARS-CoV2 may contain anti-
+
+SARS-CoV2 IgG antibodies.  In a small, single-arm trial of convalescent plasma in COVID-19 
+
+patients with ARDS, all had clinical improvement with 3/5 patients weaning from the ventilator 
+
+(142).  Additional trials are ongoing to better define the safety and efficacy of this strategy. 
+
+Isolation of SARS-CoV2 specific neutralizing antibodies with clonal techniques is an appealing 
+
+strategy  to  provide  targeted  therapy,  potentially  with  lower  risk  of  adverse  events.    Strategies 
+
+currently under investigation include antibodies cloned from convalescent serum of individuals 
+
+recovered  from  SARS-CoV2  or  SARS-CoV1  and  synthetic  antibodies.    It  is  unclear  whether 
+
+differences  in  the  S  proteins  of  SARS-CoV1  and  SARS-CoV2  may  limit  the  effectiveness  of 
+
+antibodies cloned from patients convalescent to SARS-CoV1 (9).  Synthetic antibodies represent 
+
+an exciting, novel therapeutic avenue.  One strategy being explored is to fuse ACE2 to Fc IgG, 
+
+with  the  hypothesis  that  this  synthetic  antibody  would  serve  as  a  decoy  receptor,  preventing 
+
+cellular binding of the virion (143).   
+
+30 
+
+In a similar vein, studies are ongoing of decoy proteins that are designed to act as viral “sinks”.  
+
+There  is  preliminary  success  with  this  strategy  using  soluble  human  ACE2  (34)  (Central 
+
+Illustration). 
+
+Anti-Inflammatory Therapy 
+
+Advanced  stages  of  COVID-19  have  been  likened  to  cytokine  storm  syndromes  with  non-
+
+specific widespread immune activation (114). Elevated levels of inflammatory biomarkers, such 
+
+as IL-6 and hsCRP, identify patients at high risk of progressing to severe disease and death (53). 
+
+Immunomodulatory  and  anti-inflammatory  therapy  have  been  used,  despite  limited  data,  in 
+
+patients with evidence of hyperinflammation in an effort to curb pathologic immune activation.  
+
+Corticosteroids 
+
+Corticosteroids have been used in several, severe viral respiratory infections including influenza, 
+
+SARS-CoV  and  MERS-CoV  with  limited  benefit  and,  in  some  instances,  evidence  of  delayed 
+
+viral  clearance  and  increased  rates  of  secondary  infection  and  mortality  (144).  A  retrospective 
+
+analysis  of  84  patients  with  ARDS  secondary  to  SARS-CoV2  observed  an  association  with 
+
+improved survival in patients who received solumedrol (51). In the absence of robust evidence, 
+
+major  professional  society  guidelines  do  not  recommend  routine  use  of  corticosteroids  in 
+
+treatment  of  COVID-19  but  rather  restricting  its  use  to  patients  with  other  indications  for 
+
+steroids,  such  as  refractory  shock  or  advanced  ARDS  (41).    Clinical  trials  are  ongoing  to 
+
+examine  the  safety  and  efficacy  of  corticosteroids  in  hospitalized  non-critically  ill  COVID-19 
+
+patients  (Clinical  Trials.gov  ID:  NCT04273321)  and  in  those  with  ARDS  (Clinical  Trials.gov 
+
+ID: NCT04323592). 
+
+31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IL-6 Inhibitors 
+
+Elevation of IL-6 in patients with severe COVID-19 has prompted consideration of use of IL-6 
+
+inhibitors (Tocilizumab, Siltuximab) extrapolating from treatment of cytokine release syndrome 
+
+(145). Tociluzimab, a recombinant humanized monoclonal antibody, and Siltuximab, a chimeric 
+
+monoclonal  antibody,  both  bind  soluble  and  membrane  bound  IL-6  receptors  resulting  in 
+
+inhibition  of  IL-6-mediated  signaling.  In  one  preprint  case  series  from  China,  21  patients  with 
+
+severe  or  critical  COVID-19  treated  with  tocilizumab  experienced  a  salutary  effect  with 
+
+resolution  of  fever,  improved  oxygenation,  improvement  in  lung  opacities  on  chest  CT, 
+
+resolution  of  lymphopenia  and  a  reduction  in  CRP  levels  within  a  few  days  of  therapy  in  the 
+
+absence of any significant reported adverse events (146). In this preliminary report, 19 patients 
+
+were  discharged  alive  and  2  remained  hospitalized  at  the  time  the  case  series  was  published. 
+
+Several randomized clinical trials of tocilizumab in treatment of severe COVID-19 infection are 
+
+ongoing (NCT04317092; NCT04306705). 
+
+Azithromycin 
+
+Azithromycin, a macrolide antibiotic, has long been touted for its anti-inflammatory effect and 
+
+has been used as adjunctive therapy in treatment of community acquired pneumonia and chronic 
+
+obstructive  pulmonary  disease  exacerbations  (147).  Limited  data  suggest  that  adjunctive 
+
+azithromycin  in  moderate-severe  ARDS  is  associated  with  improved  outcomes  (148).  A  small 
+
+non-randomized  study  showed  that  combination  azithromycin  and  hydroxychloroquine  was 
+
+associated  with  more  effective  SARS-CoV2  clearance  in  COVID-19  patients  compared  with 
+
+either monotherapy with hydroxychloroquine or standard of care; however, numerous limitations 
+
+32 
+
+ 
+
+ 
+
+of this study render the data uninterpretable (140). QT interval monitoring is prudent especially 
+
+when used in combination with hydroxychloroquine. Several randomized clinical trials assessing 
+
+the  combination  of  hydroxychloroquine/chloroquine  with  azithromycin  across  the  severity 
+
+spectrum  of  COVID-19  are  ongoing  or  about  be  launched  (NCT04321278,  NCT04322396, 
+
+NCT04322123, NCT04324463). 
+
+Other Anti-Inflammatory Therapies 
+
+JAK-2  inhibitors  inhibit  receptor  mediated-endocytosis  leading  to  the  hypothesis  that  it  might 
+
+prevent cellular entry of the SARS-CoV2 (Figure 1).  Additionally, this class of agents have anti-
+
+inflammatory  effects  by  inhibiting  cytokine  release  (149).  An  agent  in  the  class,  baricitinib,  is 
+
+being  studied  in  an  open-label  non-randomized  pilot  study  in  patients  with  COVID-19 
+
+(NCT04320277).  Currently,  a  3-arm  randomized  control  trial  is  being  launched  to  compare 
+
+anakinra  monotherapy,  emapalumab  monotherapy  and  standard  of  care  (NCT04324021). 
+
+Anakinra is a recombinant monoclonal antibody that blocks IL-1 receptors. It has been used to 
+
+treat  autoimmune  conditions  including  juvenile  idiopathic  arthritis  as  well  as  recurrent 
+
+pericarditis. Emapalumab is a fully human anti-gamma interferon monoclonal antibody that has 
+
+been  approved  by  the  FDA  for  treatment  of  primary  hemophagocytic  lymphohistiocytosis,  a 
+
+disease  reminiscent  of  the  hyperinflammatory  state  seen  in  advanced  COVID-19.  Finally, 
+
+colchicine, a microtubule polymerization inhibitor and anti-inflammatory drug, is being tested in 
+
+a large randomized clinical trial of ambulatory COVID-19 patients (NCT04322682). 
+
+Other Therapies 
+
+Angiotensin Converting Enzyme Inhibitors & Angiotensin Receptor Blockers 
+
+33 
+
+ 
+
+ 
+
+ 
+
+ACE-2  receptor  mediated  endocytosis  of  SARS-CoV2  is  central  to  the  viral  life  cycle. 
+
+Conflicting data exist regarding the effect  of renin-angiotensin-aldosterone-inhibitors (RAASi), 
+
+including ACE-I and ARB, on ACE2 activity/levels in various human tissues and the resultant 
+
+susceptibility  to  infection  with  SARS-CoV2  (18).   The  totality  of  the  available  data  is 
+
+insufficient to recommend cessation of ACE-I/ARB in individuals with an existing indication for 
+
+life-prolonging  therapy  with  these  drugs  and  major  societies  have  strongly  recommended 
+
+continuation of ACE-I/ARB therapy. An open label randomized trial is on the way to examine 
+
+the effect of prophylactic ACE-I/ARB withdrawal in COVID-19 naive individuals with essential 
+
+hypertension  as  the  sole  indication  for  treatment  on  the  risk  of  infection  and  subsequent 
+
+complications (NCT04330300).   Based on the pre-clinical data described earlier in this review, 
+
+two  paired  trials  are  currently  underway  examining  losartan  therapy  in  COVID-19  who  are 
+
+ambulatory (NCT04311177) and hospitalized (NCT04312009).  
+
+ 
+
+Statins 
+
+The anti-inflammatory pleiotropic effects of statins have been cultivated in different pathologic 
+
+states.    Statins  have  been  shown  in  murine  models  of  acute  lung  injury  and  in  humans  to 
+
+attenuate  the  inflammatory  component  of  acute  lung  injury  (150,151).  A  multi-center 
+
+randomized trial of simvastatin in patients with versatile causes of ARDS showed no difference 
+
+as  compared  to  placebo  in  ventilator  free  days,  multi-organ  failure  and  mortality  (152).  A 
+
+subsequent study, subphenotyping the trial population in to hyper vs. hypoinflammatory ARDS, 
+
+found  a  statistically  significant 
+
+improvement 
+
+in  survival  with  simvastatin 
+
+in 
+
+the 
+
+hyperinflammatory group (153). A post-hoc analysis of the JUPITER trial observed a reduction 
+
+ 
+
+34 
+
+in  incident  pneumonia  with  rosuvastatin  (154).    The  benefit  of  statin  therapy  in  the 
+
+hyperinflammatory state in advanced COVID-19 is unknown. 
+
+Vaccines Against SARS-CoV2 
+
+As  discovery  of  a  safe  and  efficacious  vaccine  again  SARS-CoV2  is  clearly  the  aspiration  for 
+
+preventative  strategies,  intense  efforts  are  ongoing  employing  numerous  approaches  with 
+
+accelerated testing.  It is believed that all 4 structural proteins, E, M, N and S proteins, may serve 
+
+as  antigens  for  neutralizing  antibody  and  CD4+CD8+  T  cell  responses  (155).   Based  on  the 
+
+experience with SARS-CoV1 vaccine development, it seems that the most promising candidates 
+
+target 
+
+the  S  protein,  which 
+
+induces  humoral  and  protective  cellular 
+
+immunity  (8).  
+
+Encouragingly,  administration  of  full-length  or  the  ACE2-receptor  binding  domain  of  the  S 
+
+protein  of  SARS-CoV1  induced  highly  potent  neutralizing  antibodies  that  conveyed  protective 
+
+immunity in animal models (156,157). 
+
+Potential  delivery  strategies  include  inactivated  or  attenuated  virus,  subunit  vaccines,  viral 
+
+vectors, DNA or RNA-based vaccines (158).  Live attenuated viral vaccines are likely to induce 
+
+significant  immune  response  but  may  carry  risk  of  disease,  particularly  in  immunosuppressed 
+
+individuals.  Inactivated “whole” viral or subunit vaccines are relatively easy to develop, but do 
+
+not  induce  immediate  or  complete  immunity,  typically  requiring  multiple  doses  to  promote 
+
+humoral, but often not cellular, immunity.  Immunity may also wane over time, requiring booster 
+
+dosing.    Viral  vector-based  vaccines  would  employ  other  viruses,  such  as  the  vaccina  virus  (a 
+
+poxvirus used for the smallpox  vaccine) or adenovirus, to  display  SARS-CoV2 antigens.  This 
+
+strategy can promote robust cytotoxic T cell responses but may fail in the face of the pre-existing 
+
+35 
+
+ 
+
+ 
+
+ 
+
+immunity  to  or  toxicity  of  the  viral  vector  (159).   Nucleic  acid-based  strategies,  which  work 
+
+through delivery of DNA or RNA that are translated by host machinery to produce viral protein 
+
+antigens, are relatively simple to design but may be limited by toxicity and/or stability concerns.  
+
+Of  note,  at  this  time,  there  are  no  approved  DNA  or  RNA  vaccines  for  humans.    Most 
+
+approaches  to  SARS-CoV2  are  in  pre-clinical  development,  with  several  early  trials  of  RNA 
+
+(NCT04283461)  and  viral-vector  (NCT04299724,  NCT04313127,  NCT04276896)  vaccine 
+
+strategies ongoing. 
+
+Crisis Standards of Care and Ethical Resource Allocation 
+
+Estimates  suggest  that,  as  has  happened  in  Italy  and  Spain,  the  burden  of  COVID-19  will  far 
+
+outstrip the healthcare capacity  in the US and globally with insufficient availability of  hospital 
+
+and ICU bed capacity, healthcare providers and specific therapeutic or supportive interventions, 
+
+such as mechanical ventilation and renal replacement (160). For this reason, organizations, such 
+
+as the Italian Society of Anesthesia, Analgesia, Resuscitation and Intensive Care (SIAARTI) and 
+
+individual healthcare institutions are developing guidance for allocation of resources in the event 
+
+that adequate, additional resources cannot be obtained (161).  These efforts are building off of  a 
+
+set of principles established in the wake of the 2009 H1N1 pandemic.    
+
+At that time, the US  Department  of Health and  Human Services  commissioned  the  Institute of 
+
+Medicine (IOM) to provide expert guidance on implementing alternative standards of healthcare 
+
+in the setting of a disaster.  In their report, the IOM defined the principles of “crisis standards of 
+
+care”, defined as a substantial change in usual healthcare operations, including the level of care 
+
+possible  to  deliver,  in  the  setting  of  a  pervasive  or  catastrophic  disaster.(162)     Notably,  this 
+
+36 
+
+ 
+
+ 
+
+ 
+
+framework recognizes that “the formal declaration that crisis standards of care are  in operation 
+
+enables specific legal/regulatory powers and protection for healthcare providers in the necessary 
+
+task of allocating and using scarce medical resources.”  Appreciating the distress associated with 
+
+allocation of scarce medical resources, the IOM recommend that the process be guided by seven 
+
+ethical  principles:  fairness,  duty  to  care,  duty  to  steward  resources,  transparency,  consistency, 
+
+proportionality and accountability (162).   
+
+Working  with  these  principles,  ethicists  have  come  to  a  general  consensus  that  the  goal  is  to 
+
+maximize  benefit  while  maintaining  equity,  objectivity  and 
+
+transparency 
+
+(160,163).   
+
+Maximizing  benefit  ideally  involves  preserving  the  most  lives  as  well  as  the  most  life-years, 
+
+acknowledging the importance of prognosis.  While the practical application of these principles 
+
+is  challenging,  there  appears  to  be  general  agreement  across  the  literature  on  a  number  of 
+
+concepts  (160,163,164)       Most  recommend  development  of  a  triage  or  scoring  system  that 
+
+accounts for acute and pre-morbid prognosis in order to allocate scarce resources to those who 
+
+are most likely to benefit.  The scoring system  should  utilize objective clinical  information, in 
+
+order to minimize the need for clinical judgement and the risk of introducing inconsistency and 
+
+bias.  The use of the system - and the determination that stems from it - should be transparent to 
+
+providers,  patients  and  families.   Triage  should  be  applied  broadly  to  all  patients  requiring  a 
+
+particular resource, not just those suffering from the pandemic disease (e.g. applies to decision to 
+
+use  VA  ECMO  in  patients  with  myocarditis  due  to  COVID-19  and  cardiogenic  shock  from  a 
+
+non-COVID-19 etiology).  A random system (e.g. lottery) should be used to break “ties” in cases 
+
+with  a  similar  estimated  prognosis,  rather  than  a  first-come-first  serve  approach.    Importantly, 
+
+many  advocate  that  an  independent  triage  physician  make  the  determination  to  remove  the 
+
+37 
+
+ 
+
+ 
+
+burden from the bedside healthcare team.  The triage physician may be supported, as necessary, 
+
+by a triage committee, comprised of experts in the area of ethics and relevant medical fields.  
+
+Areas of controversy include whether there should be priority allowed for healthcare providers.  
+
+Some ethicists argue that they should not be prioritized as that are unlikely to recovery in a time 
+
+frame that would allow them  to  continue their professional  responsibilities.(163)  Others argue 
+
+that  granting  priority  recognizes  the  assumption  of  risk  and  also  encourages  ongoing 
+
+participation  in  patient  care  (160).     Along  the  same  line,  an  argument  has  also  been  made  to 
+
+prioritize research participation (160).   
+
+The  optimal  tool  for  prognostication  also  remains  elusive.    The  sequential  organ  failure 
+
+assessment (SOFA) score has been suggested as quantitative assessment of acute illness severity; 
+
+however, there is  a recognition  that this  tool may  not  be well calibrated  to  all populations  and 
+
+could lead to inaccurate assessments of prognosis (165,166).   
+
+The  value  of  pre-determination  of  this  framework  with  community  and  provider  engagement, 
+
+establishment of legal authority and logistic and operational preparedness is clear.  Nevertheless, 
+
+acknowledging the prospect of large-scale rationing of healthcare is heartbreaking and foreign to 
+
+most civilian healthcare providers in developed countries.   
+
+Summary 
+
+In  just  a  few  short  months,  SARS-CoV2  has  spread  across  the  world  with  distressing  speed, 
+
+threatening  global  economic  and  individual  health  and  well-being.    Many  regional  healthcare 
+
+38 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+systems  are  overwhelmed  and  under-resourced,  forcing  clinicians  and  administrators  to  make 
+
+previously unthinkable decisions regarding allocation of medical care.  However, in the wake of 
+
+this  devastation,  clinicians  and  scientists  have  rallied  together  to  rapidly  evolve  our 
+
+understanding  of  all  aspects  of  SARS-CoV2  infection,  from  the  basic  virology,  to  the  human 
+
+manifestations  to  therapeutic  and  preventative  strategies.    This  unprecedented  collective  effort 
+
+will, without a doubt, advance our ability to  prevent  the spread and optimally  care for patients 
+
+suffering from COVID-19.     
+
+Acknowledgments 
+
+manuscript.  
+
+ 
+
+The  authors  would  like  to  acknowledge  Andrew  Karaba,  MD,  PhD  for  his  review  of  the 
+
+39 
+
+ 
+
+ 
+
+ 
+
+Figure Legends 
+
+Figure 1: Putative SARS-CoV2 Life Cycle and Therapeutic Targets.   
+
+The SARS2-CoV2 virus binds to the ACE2 receptor on the host cell membrane.  Endocytosis is 
+
+believed  to  be  mediated,  in  part,  by  JAK-2.    Membrane  fusion  occurs  between  the  mature 
+
+endosome  and  virion  with  facilitation  by  the  transmembrane  serine  protease  2  (TMPRSS2) 
+
+resulting in release of the SARS-CoV2 RNA into the intracellular space.  The RNA is translated 
+
+by  host  machinery  to  produce  the  replicase  and  structural  proteins.    Host  and  SARS-CoV2 
+
+proteases cleave the replicase to in non-structural proteins, including the RNA-dependent RNA 
+
+polymerase (RdRp).  RdRp mediates SARS-CoV2 RNA replication and amplification.  SARS-
+
+CoV2  transmembrane  proteins  (S,  E  and  M)  are  shuttled  via  the  endoplasmic  reticulum  and 
+
+Golgi  apparatus  to  the forming viral  capsids.   Viral  assembly occurs with addition  of the viral 
+
+RNA  and  N  protein  through  association  with  the  transmembrane  viral  proteins.    Exocytosis 
+
+results in release of the newly synthesized viral particle.   
+
+ 
+
+40 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Central Illustration: Potential Mechanisms of Myocardial Injury in COVID-19 
+
+MI  denotes  myocardial  infarction;  ASCVD,  atherosclerotic  cardiovascular  disease;  DIC, 
+
+disseminated intravascular coagulation. 
+
+ 
+
+41 
+
+References 
+
+1. 
+
+Fehr AR, Perlman S. Coronaviruses: an overview of their replication and pathogenesis. Methods 
+
+in molecular biology 2015;1282:1-23. 
+
+2. 
+
+Zhu N, Zhang D, Wang W et al. A Novel Coronavirus from Patients with Pneumonia in China, 
+
+2019. The New England journal of medicine 2020;382:727-733. 
+
+3. 
+
+Cui J, Li F, Shi ZL. Origin and evolution of pathogenic coronaviruses. Nature reviews Microbiology 
+
+2019;17:181-192. 
+
+4. 
+
+Zhou P, Yang XL, Wang XG et al. A pneumonia outbreak associated with a new coronavirus of 
+
+probable bat origin. Nature 2020;579:270-273. 
+
+5. 
+
+Wu F, Zhao S, Yu B et al. A new coronavirus associated with human respiratory disease in China. 
+
+6. 
+
+Prentice E, McAuliffe J, Lu X, Subbarao K, Denison MR. Identification and characterization of 
+
+severe acute respiratory syndrome coronavirus replicase proteins. Journal of virology 
+
+Nature 2020;579:265-269. 
+
+2004;78:9977-86. 
+
+7. 
+
+Hoffmann M, Kleine-Weber H, Schroeder S et al. SARS-CoV-2 Cell Entry Depends on ACE2 and 
+
+TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell 2020. 
+
+8. 
+
+Du L, He Y, Zhou Y, Liu S, Zheng BJ, Jiang S. The spike protein of SARS-CoV--a target for vaccine 
+
+and therapeutic development. Nature reviews Microbiology 2009;7:226-36. 
+
+9. 
+
+Wrapp D, Wang N, Corbett KS et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion 
+
+conformation. Science 2020;367:1260-1263. 
+
+10. 
+
+Yan R, Zhang Y, Li Y, Xia L, Guo Y, Zhou Q. Structural basis for the recognition of SARS-CoV-2 by 
+
+full-length human ACE2. Science 2020;367:1444-1448. 
+
+11. 
+
+Shang J, Ye G, Shi K et al. Structural basis of receptor recognition by SARS-CoV-2. Nature 2020. 
+
+ 
+
+42 
+
+12. 
+
+Siu YL, Teoh KT, Lo J et al. The M, E, and N structural proteins of the severe acute respiratory 
+
+syndrome coronavirus are required for efficient assembly, trafficking, and release of virus-like 
+
+particles. Journal of virology 2008;82:11318-30. 
+
+13.  Walls AC, Park YJ, Tortorici MA, Wall A, McGuire AT, Veesler D. Structure, Function, and 
+
+Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell 2020. 
+
+14. 
+
+Bosch BJ, Smits SL, Haagmans BL. Membrane ectopeptidases targeted by human coronaviruses. 
+
+15. 
+
+Cheng A, Zhang W, Xie Y et al. Expression, purification, and characterization of SARS coronavirus 
+
+16. 
+
+Li W, Moore MJ, Vasilieva N et al. Angiotensin-converting enzyme 2 is a functional receptor for 
+
+Current opinion in virology 2014;6:55-60. 
+
+RNA polymerase. Virology 2005;335:165-76. 
+
+the SARS coronavirus. Nature 2003;426:450-4. 
+
+17. 
+
+Dijkman R, Jebbink MF, Deijs M et al. Replication-dependent downregulation of cellular 
+
+angiotensin-converting enzyme 2 protein expression by human coronavirus NL63. The Journal of 
+
+general virology 2012;93:1924-1929. 
+
+18. 
+
+Vaduganathan M, Vardeny O, Michel T, McMurray JJV, Pfeffer MA, Solomon SD. Renin-
+
+Angiotensin-Aldosterone System Inhibitors in Patients with Covid-19. The New England journal 
+
+19. 
+
+Clerkin KJ, Fried JA, Raikhelkar J et al. Coronavirus Disease 2019 (COVID-19) and Cardiovascular 
+
+of medicine 2020. 
+
+Disease. Circulation 2020. 
+
+20. 
+
+Brosnihan KB, Neves LA, Chappell MC. Does the angiotensin-converting enzyme (ACE)/ACE2 
+
+balance contribute to the fate of angiotensin peptides in programmed hypertension? 
+
+Hypertension 2005;46:1097-9. 
+
+21. 
+
+Tikellis C, Thomas MC. Angiotensin-Converting Enzyme 2 (ACE2) Is a Key Modulator of the Renin 
+
+Angiotensin System in Health and Disease. International journal of peptides 2012;2012:256294. 
+
+ 
+
+43 
+
+22. 
+
+Hamming I, Cooper ME, Haagmans BL et al. The emerging role of ACE2 in physiology and 
+
+disease. The Journal of pathology 2007;212:1-11. 
+
+23. 
+
+Vickers C, Hales P, Kaushik V et al. Hydrolysis of biological peptides by human angiotensin-
+
+converting enzyme-related carboxypeptidase. The Journal of biological chemistry 
+
+2002;277:14838-43. 
+
+24. 
+
+Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue distribution of ACE2 
+
+protein, the functional receptor for SARS coronavirus. A first step in understanding SARS 
+
+pathogenesis. The Journal of pathology 2004;203:631-7. 
+
+25.  Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. 
+
+26. 
+
+Imai Y, Kuba K, Rao S et al. Angiotensin-converting enzyme 2 protects from severe acute lung 
+
+Lancet 2020;395:470-473. 
+
+failure. Nature 2005;436:112-6. 
+
+27. 
+
+Yang P, Gu H, Zhao Z et al. Angiotensin-converting enzyme 2 (ACE2) mediates influenza H7N9 
+
+virus-induced acute lung injury. Scientific reports 2014;4:7027. 
+
+28. 
+
+Zou Z, Yan Y, Shu Y et al. Angiotensin-converting enzyme 2 protects from lethal avian influenza A 
+
+H5N1 infections. Nature communications 2014;5:3594. 
+
+29. 
+
+Kuba K, Imai Y, Rao S et al. A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS 
+
+coronavirus-induced lung injury. Nature medicine 2005;11:875-9. 
+
+30. 
+
+Crackower MA, Sarao R, Oudit GY et al. Angiotensin-converting enzyme 2 is an essential 
+
+regulator of heart function. Nature 2002;417:822-8. 
+
+31. 
+
+Lambert DW, Yarski M, Warner FJ et al. Tumor necrosis factor-alpha convertase (ADAM17) 
+
+mediates regulated ectodomain shedding of the severe-acute respiratory syndrome-coronavirus 
+
+(SARS-CoV) receptor, angiotensin-converting enzyme-2 (ACE2). The Journal of biological 
+
+chemistry 2005;280:30113-9. 
+
+ 
+
+44 
+
+32. 
+
+Gu H, Xie Z, Li T et al. Angiotensin-converting enzyme 2 inhibits lung injury induced by 
+
+respiratory syncytial virus. Scientific reports 2016;6:19840. 
+
+33. 
+
+Khan A, Benthin C, Zeno B et al. A pilot clinical trial of recombinant human angiotensin-
+
+converting enzyme 2 in acute respiratory distress syndrome. Critical care 2017;21:234. 
+
+34. 
+
+Monteil V KH, Prado P, Hagelkruys A, Wimmer RA, Stahl M, Leopoldi A, Garreta E, Hurtado del 
+
+Pozo C, Prosper F, Romero JP, Wirnsberger G, Zhang H, Slutsky AS, Conder R, Montserrat N, 
+
+Mirazimi A, Penninger J. Inhibition of SARS-CoV-2 infections in engineered human tissues using 
+
+35. 
+
+Huang C, Wang Y, Li X et al. Clinical features of patients infected with 2019 novel coronavirus in 
+
+clinical-grade soluble human ACE2. Cell 2020. 
+
+Wuhan, China. Lancet 2020;395:497-506. 
+
+36. 
+
+Lu R, Zhao X, Li J et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: 
+
+implications for virus origins and receptor binding. Lancet 2020;395:565-574. 
+
+37. 
+
+Chan JF, Yuan S, Kok KH et al. A familial cluster of pneumonia associated with the 2019 novel 
+
+coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 
+
+2020;395:514-523. 
+
+38. 
+
+van Doremalen N, Bushmaker T, Morris DH et al. Aerosol and Surface Stability of SARS-CoV-2 as 
+
+Compared with SARS-CoV-1. The New England journal of medicine 2020. 
+
+39. 
+
+Moriarty LF, Plucinski MM, Marston BJ et al. Public Health Responses to COVID-19 Outbreaks on 
+
+Cruise Ships - Worldwide, February-March 2020. MMWR Morb Mortal Wkly Rep 2020;69:347-
+
+40.  Wang W, Xu Y, Gao R et al. Detection of SARS-CoV-2 in Different Types of Clinical Specimens. 
+
+352. 
+
+Jama 2020. 
+
+ 
+
+45 
+
+41. 
+
+Alhazzani W, Moller MH, Arabi YM et al. Surviving Sepsis Campaign: Guidelines on the 
+
+Management of Critically Ill Adults with Coronavirus Disease 2019 (COVID-19). Critical care 
+
+medicine 2020. 
+
+42. 
+
+Li R, Pei S, Chen B et al. Substantial undocumented infection facilitates the rapid dissemination 
+
+of novel coronavirus (SARS-CoV2). Science 2020. 
+
+43. 
+
+Callaway E, Cyranoski D, Mallapaty S, Stoye E, Tollefson J. The coronavirus pandemic in five 
+
+powerful charts. Nature 2020;579:482-483. 
+
+44.  Wei WE LZ, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic Transmission of SARS-CoV-2 — 
+
+Singapore, January 23–March 16, 2020. MMWR Morb Mortal Wkly Rep  
+
+45.  Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 
+
+2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese 
+
+Center for Disease Control and Prevention. Jama 2020. 
+
+46. 
+
+Centers for Disease C. Severe Outcomes Among Patients with Coronavirus Disease 2019 (COVID-
+
+19) — United States. MMWR Morb Mortal Wkly Rep 2020;69:343-346. 
+
+47. 
+
+Lipsitch M, Swerdlow DL, Finelli L. Defining the Epidemiology of Covid-19 - Studies Needed. The 
+
+New England journal of medicine 2020;382:1194-1196. 
+
+48. 
+
+Guan WJ, Ni ZY, Hu Y et al. Clinical Characteristics of Coronavirus Disease 2019 in China. The 
+
+New England journal of medicine 2020. 
+
+49. 
+
+Surgery AAoO-HaN. 
+
+50. 
+
+Lauer SA, Grantz KH, Bi Q et al. The Incubation Period of Coronavirus Disease 2019 (COVID-19) 
+
+From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med 2020. 
+
+51.  Wu C, Chen X, Cai Y et al. Risk Factors Associated With Acute Respiratory Distress Syndrome and 
+
+Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med 
+
+2020. 
+
+ 
+
+46 
+
+52.  Wang D, Hu B, Hu C et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel 
+
+Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020. 
+
+53. 
+
+Zhou F, Yu T, Du R et al. Clinical course and risk factors for mortality of adult inpatients with 
+
+COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 2020;395:1054-1062. 
+
+54. 
+
+Guo T, Fan Y, Chen M et al. Cardiovascular Implications of Fatal Outcomes of Patients With 
+
+Coronavirus Disease 2019 (COVID-19). JAMA Cardiol 2020. 
+
+55. 
+
+Arentz M, Yim E, Klaff L et al. Characteristics and Outcomes of 21 Critically Ill Patients With 
+
+COVID-19 in Washington State. Jama 2020. 
+
+56. 
+
+Shi S, Qin M, Shen B et al. Association of Cardiac Injury With Mortality in Hospitalized Patients 
+
+With COVID-19 in Wuhan, China. JAMA Cardiol 2020. 
+
+57. 
+
+Chen N, Zhou M, Dong X et al. Epidemiological and clinical characteristics of 99 cases of 2019 
+
+novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020;395:507-513. 
+
+58. 
+
+Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based 
+
+on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med 2020. 
+
+59. 
+
+Cheng Y LR, Wang K, Zhang M, Wang Z, Dong L, Li J, Yao Y, Ge S, Xu G.  . Kidney disease is 
+
+associated with in-hospital death of patients with COVID-19. Kidney International 2020. 
+
+60. 
+
+Inciardi RM, Lupi L, Zaccone G et al. Cardiac Involvement in a Patient With Coronavirus Disease 
+
+2019 (COVID-19). JAMA Cardiol 2020. 
+
+61. 
+
+Fleet JC, Clinton SK, Salomon RN, Loppnow H, Libby P. Atherogenic diets enhance endotoxin-
+
+stimulated interleukin-1 and tumor necrosis factor gene expression in rabbit aortae. J Nutr 
+
+62. 
+
+Estabragh ZR, Mamas MA. The cardiovascular manifestations of influenza: a systematic review. 
+
+1992;122:294-305. 
+
+Int J Cardiol 2013;167:2397-403. 
+
+ 
+
+47 
+
+63. 
+
+Hu H, Ma F, Wei X, Fang Y. Coronavirus fulminant myocarditis saved with glucocorticoid and 
+
+human immunoglobulin. Eur Heart J 2020. 
+
+64. 
+
+Deng Y, Liu W, Liu K et al. Clinical characteristics of fatal and recovered cases of coronavirus 
+
+disease 2019 (COVID-19) in Wuhan, China: a retrospective study. Chin Med J (Engl) 2020. 
+
+65. 
+
+Hwang DM, Chamberlain DW, Poutanen SM, Low DE, Asa SL, Butany J. Pulmonary pathology of 
+
+severe acute respiratory syndrome in Toronto. Mod Pathol 2005;18:1-10. 
+
+66. 
+
+Luo WY, H.; Gou, J.; Li, X.; Sun, Y.; Li, J.; Liu, L. Clinical Pathology of Critical Patient with Novel 
+
+Coronavirus Pneumonia (COVID-19). Preprints 2020. 
+
+67. 
+
+Hematology ASo. COVID-19 and Coagulopathy: Frequently Asked Questions. 2020. 
+
+68. 
+
+Ruan S. Likelihood of survival of coronavirus disease 2019. Lancet Infect Dis 2020. 
+
+69. 
+
+Medicine JHU. Coronavirus Resource Center. 2020. 
+
+70. 
+
+Verity R, Okell LC, Dorigatti I et al. Estimates of the severity of coronavirus disease 2019: a 
+
+71. 
+
+Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in 
+
+model-based analysis. Lancet Infect Dis 2020. 
+
+Relation to COVID-19 in Italy. Jama 2020. 
+
+and the Republic of Korea. Clin Infect Dis 2020. 
+
+72. 
+
+Dudley JP, Lee NT. Disparities in Age-Specific Morbidity and Mortality from SARS-CoV-2 in China 
+
+73. 
+
+Kumar A, Thota V, Dee L, Olson J, Uretz E, Parrillo JE. Tumor necrosis factor alpha and interleukin 
+
+1beta are responsible for in vitro myocardial cell depression induced by human septic shock 
+
+serum. J Exp Med 1996;183:949-58. 
+
+74. 
+
+Oudit GY, Kassiri Z, Jiang C et al. SARS-coronavirus modulation of myocardial ACE2 expression 
+
+and inflammation in patients with SARS. Eur J Clin Invest 2009;39:618-25. 
+
+ 
+
+48 
+
+75. 
+
+Ding Y, He L, Zhang Q et al. Organ distribution of severe acute respiratory syndrome (SARS) 
+
+associated coronavirus (SARS-CoV) in SARS patients: implications for pathogenesis and virus 
+
+transmission pathways. The Journal of pathology 2004;203:622-30. 
+
+76. 
+
+To KF, Tong JH, Chan PK et al. Tissue and cellular tropism of the coronavirus associated with 
+
+severe acute respiratory syndrome: an in-situ hybridization study of fatal cases. The Journal of 
+
+pathology 2004;202:157-63. 
+
+77. 
+
+Ding Y, Wang H, Shen H et al. The clinical pathology of severe acute respiratory syndrome 
+
+(SARS): a report from China. The Journal of pathology 2003;200:282-9. 
+
+78. 
+
+Guillevin L. Virus-induced systemic vasculitides: new therapeutic approaches. Clin Dev Immunol 
+
+79. 
+
+Pagnoux C, Cohen P, Guillevin L. Vasculitides secondary to infections. Clin Exp Rheumatol 
+
+80. 
+
+Ding YQ, Wang HJ, Shen H et al. [Study on etiology and pathology of severe acute respiratory 
+
+syndrome]. Zhonghua Bing Li Xue Za Zhi 2003;32:195-200. 
+
+81. 
+
+Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor 
+
+prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost 2020;18:844-847. 
+
+82. 
+
+Levi M, van der Poll T, ten Cate H, van Deventer SJ. The cytokine-mediated imbalance between 
+
+coagulant and anticoagulant mechanisms in sepsis and endotoxaemia. Eur J Clin Invest 
+
+83. 
+
+Simmons J, Pittet JF. The coagulopathy of acute sepsis. Curr Opin Anaesthesiol 2015;28:227-36. 
+
+84. 
+
+Nakamura S, Imamura T, Okamoto K. Tissue factor in neutrophils: yes. J Thromb Haemost 
+
+2004;11:227-31. 
+
+2006;24:S71-81. 
+
+1997;27:3-9. 
+
+2004;2:214-7. 
+
+ 
+
+49 
+
+85. 
+
+van der Poll T, Buller HR, ten Cate H et al. Activation of coagulation after administration of 
+
+tumor necrosis factor to normal subjects. The New England journal of medicine 1990;322:1622-
+
+7. 
+
+86. 
+
+de Jonge E, Friederich PW, Vlasuk GP et al. Activation of coagulation by administration of 
+
+recombinant factor VIIa elicits interleukin 6 (IL-6) and IL-8 release in healthy human subjects. 
+
+Clin Diagn Lab Immunol 2003;10:495-7. 
+
+87. 
+
+Franco RF, de Jonge E, Dekkers PE et al. The in vivo kinetics of tissue factor messenger RNA 
+
+expression during human endotoxemia: relationship with activation of coagulation. Blood 
+
+88. 
+
+Levi M, van der Poll T, Buller HR. Bidirectional relation between inflammation and coagulation. 
+
+89. 
+
+Della Valle P, Pavani G, D'Angelo A. The protein C pathway and sepsis. Thromb Res 
+
+2000;96:554-9. 
+
+Circulation 2004;109:2698-704. 
+
+2012;129:296-300. 
+
+2002;87:218-23. 
+
+90. 
+
+Green J, Doughty L, Kaplan SS, Sasser H, Carcillo JA. The tissue factor and plasminogen activator 
+
+inhibitor type-1 response in pediatric sepsis-induced multiple organ failure. Thromb Haemost 
+
+91. 
+
+Cox D, Kerrigan SW, Watson SP. Platelets and the innate immune system: mechanisms of 
+
+bacterial-induced platelet activation. J Thromb Haemost 2011;9:1097-107. 
+
+92. 
+
+Gawaz M, Dickfeld T, Bogner C, Fateh-Moghadam S, Neumann FJ. Platelet function in septic 
+
+multiple organ dysfunction syndrome. Intensive Care Med 1997;23:379-85. 
+
+93. 
+
+Akca S, Haji-Michael P, de Mendonca A, Suter P, Levi M, Vincent JL. Time course of platelet 
+
+counts in critically ill patients. Critical care medicine 2002;30:753-6. 
+
+94. 
+
+Lee KH, Hui KP, Tan WC. Thrombocytopenia in sepsis: a predictor of mortality in the intensive 
+
+care unit. Singapore Med J 1993;34:245-6. 
+
+ 
+
+50 
+
+95. 
+
+Medina de Chazal H, Del Buono MG, Keyser-Marcus L et al. Stress Cardiomyopathy Diagnosis 
+
+and Treatment: JACC State-of-the-Art Review. J Am Coll Cardiol 2018;72:1955-1971. 
+
+96. 
+
+Corrales-Medina VF, Alvarez KN, Weissfeld LA et al. Association between hospitalization for 
+
+pneumonia and subsequent risk of cardiovascular disease. Jama 2015;313:264-74. 
+
+97. 
+
+Udell JA, Zawi R, Bhatt DL et al. Association between influenza vaccination and cardiovascular 
+
+outcomes in high-risk patients: a meta-analysis. Jama 2013;310:1711-20. 
+
+98. 
+
+Kwong JC, Schwartz KL, Campitelli MA et al. Acute Myocardial Infarction after Laboratory-
+
+Confirmed Influenza Infection. The New England journal of medicine 2018;378:345-353. 
+
+99.  Welt FGP, Shah PB, Aronow HD et al. Catheterization Laboratory Considerations During the 
+
+Coronavirus (COVID-19) Pandemic: From ACC's Interventional Council and SCAI. J Am Coll Cardiol 
+
+2020. 
+
+100. 
+
+Libby P, Loscalzo J, Ridker PM et al. Inflammation, Immunity, and Infection in Atherothrombosis: 
+
+JACC Review Topic of the Week. J Am Coll Cardiol 2018;72:2071-2081. 
+
+101. 
+
+Ridker PM, Everett BM, Thuren T et al. Antiinflammatory Therapy with Canakinumab for 
+
+Atherosclerotic Disease. The New England journal of medicine 2017;377:1119-1131. 
+
+102. 
+
+Libby P. Inflammation in atherosclerosis. Arterioscler Thromb Vasc Biol 2012;32:2045-51. 
+
+103. 
+
+Violi F, Cangemi R, Calvieri C. Pneumonia, thrombosis and vascular disease. J Thromb Haemost 
+
+2014;12:1391-400. 
+
+104.  Mogensen TH. Pathogen recognition and inflammatory signaling in innate immune defenses. 
+
+Clin Microbiol Rev 2009;22:240-73, Table of Contents. 
+
+105. 
+
+van de Veerdonk FL, Netea MG, Dinarello CA, Joosten LA. Inflammasome activation and IL-1beta 
+
+and IL-18 processing during infection. Trends Immunol 2011;32:110-6. 
+
+106. 
+
+Vallance P, Collier J, Bhagat K. Infection, inflammation, and infarction: does acute endothelial 
+
+dysfunction provide a link? Lancet 1997;349:1391-2. 
+
+ 
+
+51 
+
+107. 
+
+Sarkisian L, Saaby L, Poulsen TS et al. Prognostic Impact of Myocardial Injury Related to Various 
+
+Cardiac and Noncardiac Conditions. Am J Med 2016;129:506-514 e1. 
+
+108. 
+
+Lim W, Qushmaq I, Devereaux PJ et al. Elevated cardiac troponin measurements in critically ill 
+
+patients. Arch Intern Med 2006;166:2446-54. 
+
+109. 
+
+Sarkisian L, Saaby L, Poulsen TS et al. Clinical Characteristics and Outcomes of Patients with 
+
+Myocardial Infarction, Myocardial Injury, and Nonelevated Troponins. Am J Med 2016;129:446 
+
+110. 
+
+Thygesen K, Alpert JS, Jaffe AS et al. Fourth Universal Definition of Myocardial Infarction (2018). 
+
+e5-446 e21. 
+
+J Am Coll Cardiol 2018;72:2231-2264. 
+
+111. 
+
+Chapman AR, Shah ASV, Lee KK et al. Long-Term Outcomes in Patients With Type 2 Myocardial 
+
+Infarction and Myocardial Injury. Circulation 2018;137:1236-1245. 
+
+112.  Qin C, Zhou L, Hu Z et al. Dysregulation of immune response in patients with COVID-19 in 
+
+Wuhan, China. Clin Infect Dis 2020. 
+
+113. 
+
+Grupp SA, Kalos M, Barrett D et al. Chimeric antigen receptor-modified T cells for acute 
+
+lymphoid leukemia. The New England journal of medicine 2013;368:1509-1518. 
+
+114.  Mehta P, McAuley DF, Brown M et al. COVID-19: consider cytokine storm syndromes and 
+
+immunosuppression. Lancet 2020;395:1033-1034. 
+
+115. 
+
+Siddiqi H, Mehra, MR. COVID-19 Illness in Native and Immunosuppressed States: A Clinical-
+
+Therapeutic Staging Proposal. The Journal of Heart and Lung Transplantation 2020. 
+
+116. 
+
+Frey N, Porter D. Cytokine Release Syndrome with Chimeric Antigen Receptor T Cell Therapy. 
+
+Biol Blood Marrow Transplant 2019;25:e123-e127. 
+
+117.  Natanson C, Eichenholz PW, Danner RL et al. Endotoxin and tumor necrosis factor challenges in 
+
+dogs simulate the cardiovascular profile of human septic shock. J Exp Med 1989;169:823-32. 
+
+ 
+
+52 
+
+118. 
+
+Pathan N, Hemingway CA, Alizadeh AA et al. Role of interleukin 6 in myocardial dysfunction of 
+
+meningococcal septic shock. Lancet 2004;363:203-9. 
+
+119. 
+
+Goldhaber JI, Kim KH, Natterson PD, Lawrence T, Yang P, Weiss JN. Effects of TNF-alpha on 
+
+[Ca2+]i and contractility in isolated adult rabbit ventricular myocytes. Am J Physiol 
+
+1996;271:H1449-55. 
+
+120. 
+
+Krown KA, Yasui K, Brooker MJ et al. TNF alpha receptor expression in rat cardiac myocytes: TNF 
+
+alpha inhibition of L-type Ca2+ current and Ca2+ transients. FEBS Lett 1995;376:24-30. 
+
+121. 
+
+Hobai IA, Edgecomb J, LaBarge K, Colucci WS. Dysregulation of intracellular calcium transporters 
+
+in animal models of sepsis-induced cardiomyopathy. Shock 2015;43:3-15. 
+
+122. 
+
+Balligand JL, Ungureanu D, Kelly RA et al. Abnormal contractile function due to induction of 
+
+nitric oxide synthesis in rat cardiac myocytes follows exposure to activated macrophage-
+
+conditioned medium. J Clin Invest 1993;91:2314-9. 
+
+123. 
+
+Stanzani G, Duchen MR, Singer M. The role of mitochondria in sepsis-induced cardiomyopathy. 
+
+Biochim Biophys Acta Mol Basis Dis 2019;1865:759-773. 
+
+124.  Mulangu S, Dodd LE, Davey RT, Jr. et al. A Randomized, Controlled Trial of Ebola Virus Disease 
+
+Therapeutics. The New England journal of medicine 2019;381:2293-2303. 
+
+125. 
+
+Holshue ML, DeBolt C, Lindquist S et al. First Case of 2019 Novel Coronavirus in the United 
+
+States. The New England journal of medicine 2020;382:929-936. 
+
+126. 
+
+Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Gotte M. The antiviral compound remdesivir 
+
+potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome 
+
+coronavirus. The Journal of biological chemistry 2020. 
+
+127. 
+
+Sheahan TP, Sims AC, Leist SR et al. Comparative therapeutic efficacy of remdesivir and 
+
+combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nature communications 
+
+2020;11:222. 
+
+ 
+
+53 
+
+128. 
+
+Harrison C. Coronavirus puts drug repurposing on the fast track. Nature biotechnology 2020. 
+
+129. 
+
+Dong L, Hu S, Gao J. Discovering drugs to treat coronavirus disease 2019 (COVID-19). Drug 
+
+discoveries & therapeutics 2020;14:58-60. 
+
+130. 
+
+Chan KW, Wong VT, Tang SCW. COVID-19: An Update on the Epidemiological, Clinical, 
+
+Preventive and Therapeutic Evidence and Guidelines of Integrative Chinese-Western Medicine 
+
+for the Management of 2019 Novel Coronavirus Disease. The American journal of Chinese 
+
+medicine 2020:1-26. 
+
+131. 
+
+Cao B, Wang Y, Wen D et al. A Trial of Lopinavir-Ritonavir in Adults Hospitalized with Severe 
+
+Covid-19. The New England journal of medicine 2020. 
+
+132. 
+
+Zhang L, Lin D, Sun X et al. Crystal structure of SARS-CoV-2 main protease provides a basis for 
+
+design of improved alpha-ketoamide inhibitors. Science 2020. 
+
+133. 
+
+Chen H ZZ, Wang L, Huang Z, Gong F, Li X, Chen Y, Wu JJ. First Clinical Study Using HCV Protease 
+
+Inhibitor Danoprevir to Treat Naive and Experienced COVID-19 Patients. MedRxiv 2020. 
+
+134. 
+
+Savarino A, Gennero L, Sperber K, Boelaert JR. The anti-HIV-1 activity of chloroquine. Journal of 
+
+clinical virology : the official publication of the Pan American Society for Clinical Virology 
+
+2001;20:131-5. 
+
+135. 
+
+Savarino A, Gennero L, Chen HC et al. Anti-HIV effects of chloroquine: mechanisms of inhibition 
+
+and spectrum of activity. Aids 2001;15:2221-9. 
+
+136.  Mauthe M, Orhon I, Rocchi C et al. Chloroquine inhibits autophagic flux by decreasing 
+
+autophagosome-lysosome fusion. Autophagy 2018;14:1435-1455. 
+
+137. 
+
+Scott CC, Vacca F, Gruenberg J. Endosome maturation, transport and functions. Seminars in cell 
+
+138. 
+
+Vincent MJ, Bergeron E, Benjannet S et al. Chloroquine is a potent inhibitor of SARS coronavirus 
+
+& developmental biology 2014;31:2-10. 
+
+infection and spread. Virology journal 2005;2:69. 
+
+ 
+
+54 
+
+139. 
+
+Liu J, Cao R, Xu M et al. Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in 
+
+inhibiting SARS-CoV-2 infection in vitro. Cell discovery 2020;6:16. 
+
+140. 
+
+Gautret P, Lagier JC, Parola P et al. Hydroxychloroquine and azithromycin as a treatment of 
+
+COVID-19: results of an open-label non-randomized clinical trial. International journal of 
+
+antimicrobial agents 2020:105949. 
+
+141. 
+
+Gordon DE JG, Bouhaddou M, Xu J, et al. A SARS-CoV-2-Human Protein-Protein Interaction Map 
+
+Reveals Drug Targets and Potential Drug-Repurposing. BioRxiv 2020. 
+
+142. 
+
+Shen C, Wang Z, Zhao F et al. Treatment of 5 Critically Ill Patients With COVID-19 With 
+
+143. 
+
+Lei C FW, Zian K, Li T, Zhang S, Ding M, Hu S. Potent neutralization of 2019 novel coronavirus by 
+
+Convalescent Plasma. Jama 2020. 
+
+recombinant ACE2-Ig. BioRxiv 2020. 
+
+144. 
+
+Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 
+
+2019-nCoV lung injury. Lancet 2020;395:473-475. 
+
+145. 
+
+Le RQ, Li L, Yuan W et al. FDA Approval Summary: Tocilizumab for Treatment of Chimeric 
+
+Antigen Receptor T Cell-Induced Severe or Life-Threatening Cytokine Release Syndrome. The 
+
+oncologist 2018;23:943-947. 
+
+146. 
+
+Xu X HM, Li T, Sun W, Wang D, Fu B, Zhou Y, Zheng X, Yang Y, Li X, Zhang X, Pan A, Wei H. 
+
+Effective Treatment of Severe COVID-19 Patients with Tocilizumab. ChinaXiv 2020. 
+
+147. 
+
+Zimmermann P, Ziesenitz VC, Curtis N, Ritz N. The Immunomodulatory Effects of Macrolides-A 
+
+Systematic Review of the Underlying Mechanisms. Frontiers in immunology 2018;9:302. 
+
+148. 
+
+Kawamura K, Ichikado K, Takaki M, Eguchi Y, Anan K, Suga M. Adjunctive therapy with 
+
+azithromycin for moderate and severe acute respiratory distress syndrome: a retrospective, 
+
+propensity score-matching analysis of prospectively collected data at a single center. 
+
+International journal of antimicrobial agents 2018;51:918-924. 
+
+ 
+
+55 
+
+149. 
+
+Richardson P, Griffin I, Tucker C et al. Baricitinib as potential treatment for 2019-nCoV acute 
+
+respiratory disease. Lancet 2020;395:e30-e31. 
+
+150. 
+
+Jacobson JR, Barnard JW, Grigoryev DN, Ma SF, Tuder RM, Garcia JG. Simvastatin attenuates 
+
+vascular leak and inflammation in murine inflammatory lung injury. American journal of 
+
+physiology Lung cellular and molecular physiology 2005;288:L1026-32. 
+
+151. 
+
+Shyamsundar M, McKeown ST, O'Kane CM et al. Simvastatin decreases lipopolysaccharide-
+
+induced pulmonary inflammation in healthy volunteers. American journal of respiratory and 
+
+critical care medicine 2009;179:1107-14. 
+
+152.  McAuley DF, Laffey JG, O'Kane CM et al. Simvastatin in the acute respiratory distress syndrome. 
+
+The New England journal of medicine 2014;371:1695-703. 
+
+153. 
+
+Calfee CS, Delucchi KL, Sinha P et al. Acute respiratory distress syndrome subphenotypes and 
+
+differential response to simvastatin: secondary analysis of a randomised controlled trial. The 
+
+Lancet Respiratory medicine 2018;6:691-698. 
+
+154.  Novack V, MacFadyen J, Malhotra A, Almog Y, Glynn RJ, Ridker PM. The effect of rosuvastatin on 
+
+incident pneumonia: results from the JUPITER trial. CMAJ 2012;184:E367-72. 
+
+155. 
+
+Jiang S, He Y, Liu S. SARS vaccine development. Emerging infectious diseases 2005;11:1016-20. 
+
+156. 
+
+Bukreyev A, Lamirande EW, Buchholz UJ et al. Mucosal immunisation of African green monkeys 
+
+(Cercopithecus aethiops) with an attenuated parainfluenza virus expressing the SARS 
+
+coronavirus spike protein for the prevention of SARS. Lancet 2004;363:2122-7. 
+
+157. 
+
+Song Z, Xu Y, Bao L et al. From SARS to MERS, Thrusting Coronaviruses into the Spotlight. Viruses 
+
+158. 
+
+Shang W, Yang Y, Rao Y, Rao X. The outbreak of SARS-CoV-2 pneumonia calls for viral vaccines. 
+
+2019;11. 
+
+NPJ Vaccines 2020;5:18. 
+
+ 
+
+56 
+
+159.  Ura T, Okuda K, Shimada M. Developments in Viral Vector-Based Vaccines. Vaccines (Basel) 
+
+2014;2:624-41. 
+
+160. 
+
+Emanuel EJ, Persad G, Upshur R et al. Fair Allocation of Scarce Medical Resources in the Time of 
+
+Covid-19. The New England journal of medicine 2020. 
+
+161. 
+
+SIAARTI. Clinical Ethics Recommendations For the Allocation of Intensive Care Treatments, in 
+
+exceptional, Resource-Limited Circumstances. 2020. 
+
+162. 
+
+Crisis Standards of Care: A Systems Framework for Catastrophic Disaster Response. Washington 
+
+163. 
+
+Biddison LD, Berkowitz KA, Courtney B et al. Ethical considerations: care of the critically ill and 
+
+injured during pandemics and disasters: CHEST consensus statement. Chest 2014;146:e145S-
+
+(DC), 2012. 
+
+55S. 
+
+164. 
+
+Truog RD, Mitchell C, Daley GQ. The Toughest Triage - Allocating Ventilators in a Pandemic. The 
+
+New England journal of medicine 2020. 
+
+165. 
+
+Shahpori R, Stelfox HT, Doig CJ, Boiteau PJ, Zygun DA. Sequential Organ Failure Assessment in 
+
+H1N1 pandemic planning. Critical care medicine 2011;39:827-32. 
+
+166. 
+
+Khan Z, Hulme J, Sherwood N. An assessment of the validity of SOFA score based triage in H1N1 
+
+critically ill patients during an influenza pandemic. Anaesthesia 2009;64:1283-8. 
+
+ 
+
+57 
+
+ 
+
+ 
+
+ 
+
+Figure 1: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+58 
+
+ACE2 ReceptorSpike (S)Membrane (M)Envelope (E)Nucleocapsid (N)RNATMPRSS2Neutralizing(cid:9)AbExocytosis &Virion ReleaseSARS-CoV2BindingEndocytosisEndosome Maturationand Host/Viral Membrane FusionSARS-CoV2 mRNATranslation by HostMachineryProteolysisSARS-CoV2ProteasesSARS-CoV2ReplicaseRdRpChloroquine,(cid:9)Hydroxychloroquine(cid:9)&TMPRSS2(cid:9)Inhibitors(cid:9)(Camstat)Protease(cid:9)InhibitorsNucleoside(cid:9)Analogs(Remdesivir)Host NucleusSARS-CoV2Structural ProteinsRNA Replicationby RdRpHost Endoplasmic Reticulum &Golgi ApparatusViral AssemblyDecoy(cid:9)Protein(cid:9)orMolecule(Soluble(cid:9)ACE2)ExtracellularIntracellularSARS-CoV2Exposure to Host CellJAK-2(cid:9)InhibitorsSoluble ACE2Figure 2:  
+
+    
+
+ 
+
+ 
+
+59 
+
+Direct(cid:9)Viral(cid:9)Cardiomyocyte(cid:9)ToxicityMyocardial(cid:9)InjuryMicrovascularDysfunctionVasculitis/Vascular(cid:9)Endothelial(cid:9)InjuryHyperinflammatoryStateEpicardial(cid:9)plaque(cid:9)rupture(cid:9)(Type(cid:9)1(cid:9)MI)Oxygen(cid:9)supply/demand(cid:9)mismatch(cid:9)(Type(cid:9)2(cid:9)MI)Hypotension↑Metabolic(cid:9)demandsHypoxiaPre-existingASCVD++++Stress(cid:9)CardiomyopathyDIC/Microthrombi++++Envelope (E) 
+
+Spike (S) 
+
+RNA 
+
+Membrane (M) 
+
+TMPRSS2 
+
+SARS-CoV2 
+Exposure to Host Cell 
+
+Nucleocapsid (N) 
+
+Neutralizing 
+Ab 
+
+SARS-CoV2 
+Binding 
+ACE2 Receptor 
+
+Decoy Protein or 
+Molecule 
+(Soluble ACE2) 
+
+Soluble  
+ACE2 
+
+Exocytosis & 
+Virion Release 
+
+Extracellular 
+
+Intracellular 
+
+Endocytosis 
+
+JAK-2 Inhibitors 
+
+Protease Inhibitors 
+
+SARS-CoV2 
+Proteases 
+
+Proteolysis 
+
+SARS-CoV2 
+Replicase 
+
+Translation by Host 
+Machinery 
+
+RdRp 
+
+RNA Replication 
+by RdRp 
+
+Nucleoside  
+Analogs 
+(Remdesivir) 
+
+Viral Assembly 
+
+SARS-CoV2 mRNA 
+
+SARS-CoV2 
+Structural Proteins 
+
+Host Nucleus 
+
+Host Endoplasmic Reticulum & 
+Golgi Apparatus 
+
+Endosome Maturation 
+and Host/Viral  
+Membrane Fusion 
+
+Chloroquine,  
+Hydroxychloroquine & 
+TMPRSS2 Inhibitors (Camstat) 
+  
+
+Hypotension 
+
+Direct Viral 
+Cardiomyocyte Toxicity 
+
+↑Metabolic 
+demands 
+
+Oxygen supply/demand 
+mismatch (Type 2 MI) 
+
+Hypoxia 
+
+++ 
+
+Pre-existing 
+ASCVD 
+
+++ 
+
+Epicardial plaque 
+rupture (Type 1 MI) 
+
+Myocardial 
+Injury 
+
+DIC/ 
+Microthrombi 
+
+Vasculitis/ 
+Vascular Endothelial 
+Injury 
+
+Microvascular 
+Dysfunction 
+
+Stress 
+Cardiomyopathy 
+
+++ 
+
+++ 
+
+Hyperinflammatory 
+State 
+
+

@@ -1,0 +1,1052 @@
+Gao et al. Respiratory Research           (2020) 21:83 
+https://doi.org/10.1186/s12931-020-01352-w
+
+R E S E A R C H
+
+Open Access
+
+Prognostic value of NT-proBNP in patients
+with severe COVID-19
+Lei Gao1†, Dan Jiang2†, Xue-song Wen1, Xiao-cheng Cheng1, Min Sun1, Bin He1, Lin-na You1, Peng Lei1,
+Xiao-wei Tan1, Shu Qin1, Guo-qiang Cai1,3* and Dong-ying Zhang1*
+
+Abstract
+
+Background: The outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) in China has been declared a public health emergency of international concern. The
+cardiac injury is a common condition among the hospitalized patients with COVID-19. However, whether N
+terminal pro B type natriuretic peptide (NT-proBNP) predicted outcome of severe COVID-19 patients was unknown.
+Methods: The study initially enrolled 102 patients with severe COVID-19 from a continuous sample. After screening
+out the ineligible cases, 54 patients were analyzed in this study. The primary outcome was in-hospital death
+defined as the case fatality rate. Research information and following-up data were obtained from their medical
+records.
+
+Results: The best cut-off value of NT-proBNP for predicting in-hospital death was 88.64 pg/mL with the sensitivity
+for 100% and the specificity for 66.67%. Patients with high NT-proBNP values (> 88.64 pg/mL) had a significantly
+increased risk of death during the days of following-up compared with those with low values (≤88.64 pg/mL). After
+adjustment for potential risk factors, NT-proBNP was independently correlated with in-hospital death.
+Conclusion: NT-proBNP might be an independent risk factor for in-hospital death in patients with severe COVID-19.
+
+Trial registration: ClinicalTrials, NCT04292964. Registered 03 March 2020,
+
+Keywords: NT-proBNT, COVID-19, SARS-CoV-2, Outcome
+
+Background
+The outbreak of coronavirus disease 2019 (COVID-19)
+caused by severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) in China has been declared a public
+health emergency of international concern on 30 January
+2020 [1]. Despite lower case fatality rate, SARS-CoV-2
+has killed more people than SARS and MERS and the
+number keeps growing [2]. Epidemic studies have de-
+scribed that patients with severe COVID-19 were more
+likely to develop adverse clinical outcomes with more
+
+* Correspondence: 185161439@qq.com; zhangdongying@cqmu.edu.com
+†Lei Gao and Dan Jiang contributed equally to this work.
+1Department of Cardiovascular Medicine, The First Affiliated Hospital of
+Chongqing Medical University, Chongqing 400016, China
+Full list of author information is available at the end of the article
+
+complications including acute respiratory distress syn-
+drome, acute cardiac injury, acute kidney injury and
+shock [3, 4]. Investigating prognostic markers for severe
+patients provides insights for early therapeutic strategies.
+Cardiac injury is a common condition among the hos-
+pitalized patients with COVID-19. It was recently re-
+ported that 19.7% patients from a total of 416 cases with
+COVID-19 had cardiac injury with more adverse clinical
+outcomes compared to those without cardiac injury [5].
+Guo et al. also reported that COVID-19 patients with el-
+evated TnT levels had higher mortality [6]. A retrospect-
+ive, single-center case series of
+the 138 COVID-19
+patients study reported that 7.2 and 16.7% patients had
+complications of acute cardiac injury and arrhythmia, re-
+spectively [7]. The fraction of acute cardiac injury and
+
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+
+Gao et al. Respiratory Research           (2020) 21:83 
+
+Page 2 of 7
+
+arrhythmia was even higher in severe patients with the
+percentage of 22.2 and 44.4%, respectively. The patients
+with severe COVID-19 also showed higher creatine
+kinase-MB (CK-MB) and hypersensitive troponin I (hs-
+TnI) levels than others [7].
+
+A recent study demonstrated that the heart failure
+marker, N terminal pro B type natriuretic peptide (NT-
+increased significantly during the course of
+proBNP),
+hospitalization in those who ultimately died [6]. How-
+ever,
+there is no research concerning whether NT-
+proBNP predicted the outcome of severe COVID-19
+patients.
+
+Methods
+Subjects
+The study initially enrolled 102 patients with severe
+COVID-19 from a continuous sample in Hubei General
+Hospital during the management by national medical
+team. The study is a retrospective, observational registry
+with clinicaltrials.gov identifier NCT04292964. The
+study was also registered on Chinese medical research
+registration information system. All procedures were
+followed the instructions of
+local ethic committee
+(approval NO. 20200701). Criteria for severe conditions
+included respiratory rate ≥ 30/min or rest oxyhemoglo-
+bin saturation (SPO2) ≤93% or oxygenation index (arter-
+ial oxygen tension/ inspired oxygen fraction, PaO2/
+FiO2) ≤300 mmHg. All the data was collected using a
+same protocol by well-trained researchers with a double-
+blind method. Patients lacking NT-proBNP results (n =
+45) were excluded. Patients who had stroke (n = 2) and
+acute myocardial infarction (n = 1) were excluded. Other
+exclusion criteria including patients with malignant
+tumor (n = 0) and pregnancy (n = 0) were also taken ac-
+count. Finally, 54 patients with COVID-19 were studied
+in this research.
+
+Baseline data and follow-up
+Demographic data, clinical features and medical history
+were available and collected according to the patient rec-
+ord system. Data collection of laboratory results were
+defined using the first-time examination at admission
+(within 24 h after admission). All the laboratory data was
+tested in a same laboratory with the same standard. To
+observe the risk of
+in-hospital death, patients were
+followed up from admission to discharge (1 to 15 days).
+The primary outcome was in-hospital death defined as
+the case fatality rate. The follow-up data were collected
+from reviewing medical records by trained researchers
+using double-blind method.
+
+comparisons between NT-proBNP high group and low
+group were made by the independent-samples T-test
+(normally distributed continuous
+variables), Mann-
+Whitney U test
+(nonnormally distributed continuous
+variables) and chi-square test (categorical variables). The
+best NT-proBNP cut-off was that of the highest product
+of sensitivity and specificity for in-hospital death predic-
+in-hospital death
+tion. Cumulative survival curves of
+were estimated using the Kaplan-Meier product-limit
+estimation method with the log-rank test. Spearman cor-
+relation analysis was used to investigate the coefficients
+of NT-proBNP with selected covariates. Cox propor-
+tional hazards models were used to screening out the
+potential risk factors and analyzing the independent
+effect of NT-proBNP for in-hospital death. Statistical
+analyses were performed by SPSS 22.0 (SPSS, Chicago,
+IL, USA) and a two-sided P < 0.05 was considered statis-
+tically significant.
+
+Results
+Baseline characteristics
+Baseline characteristics of participants were divided
+into two groups by low and high NT-proBNP levels
+(NT-proBNP≤88.64 pg/mL and NT-proBNP> 88.64 pg/
+mL, Table 1) according to the cut-off value deter-
+mined in the ROC curve (Fig. 1). Patients in NT-
+proBNP high group were significantly older with
+more comorbidities of hypertension (HP) and coron-
+ary heart disease (CHD), higher levels of diastolic
+blood pressure (DBP), myohemoglobin (MYO), CK-
+MB, hs-TnI, blood urea, creatinine, white blood cell
+(WBC), C-Reactive Protein (CRP) and procalcitonin
+(PCT) and lower level of lymphocyte (LYM) than the
+participants in NT-proBNP low group. Other charac-
+teristics like sex, temperature, pulse rate, respiratory
+rate,
+and the history of
+chronic obstructive pulmonary disease (COPD) and
+diabetes showed no significance between two groups
+with the different levels of NT-proBNP (Table 1.).
+
+systolic blood pressure
+
+Receiver operator characteristic (ROC) curve for
+prediction in-hospital death
+Receiver operation characteristic (ROC) curves were
+shown in Fig. 1 to analyze the prognostic value and the
+best cut-off of NT-proBNP for prediction in-hospital
+death. The area under the curve (AUC) for in-hospital
+death was 0.909 (95%CI 0.799–0.970, P < 0.001). The
+best cut-off of NT-proBNP for predicting in-hospital
+death was 88.64 pg/mL with the sensitivity for 100% and
+the specificity for 66.67% (Fig. 1).
+
+Statistical analysis
+Data is presented as mean ± standard deviation,
+fre-
+quency (%) or median (interquartile ranges). Intergroup
+
+Cumulative survival curves of in-hospital death
+Cumulative survival rate curves between two groups
+categorized by NT-proBNP cut-off value were shown in
+
+Gao et al. Respiratory Research           (2020) 21:83 
+
+Page 3 of 7
+
+Table 1 Baseline characteristics of total and different degrees of NT-proBNP
+
+NT-proBNP≤88.64 pg/ml (n = 24)
+
+NT-proBNP> 88.64 pg/ml (n = 30)
+
+P
+
+Characteristics
+
+Male/Female (n)
+
+Age (years)
+
+Temperature (°C)
+
+Pulse (/min)
+
+Respire (/min)
+
+SBP (mmHg)
+
+DBP (mmHg)
+
+History of HP (n)
+
+History of CHD (n)
+
+History of COPD (n)
+
+History of DM (n)
+
+NT-proBNP (pg/ml)
+
+MYO (ng/ml)
+
+CK-MB (ug/L)
+
+Hs-TnI (ng/ml)
+
+Urea (mmol/L)
+
+Creatinine (umol/L)
+WBC (109/L)
+LYM (109/L)
+
+CRP (mg/L)
+
+PCT (ng/ml)
+
+Total (n = 54)
+
+24/30
+
+60.4 ± 16.1
+36.7 (36.5–36.9)
+82 (76–97)
+20 (19–21)
+128 (119–138)
+78 (70–83)
+
+12 (22.2%)
+
+9 (16.7%)
+
+2 (3.7%)
+
+8 (14.8%)
+137.30 (39.64–494.98)
+39.28 (26.26–86.84)
+1.04 (0.65–2.27)
+< 0.006 (< 0.006–0.022)
+4.8 (3.3–9.0)
+63 (44–77)
+5.42 (4.13–7.45)
+
+1.12 ± 0.52
+34.8 (5.3–61.0)
+0.063 (0.029–0.171)
+
+8/16
+
+51.6 ± 13.9
+36.8 (36.5–36.9)
+84 (76–97)
+20 (19–20)
+126 (115–134)
+73 (69–78)
+
+2 (8.3%)
+
+1 (4.2%)
+
+0
+
+3 (12.5%)
+37.28 (22.28–61.74)
+25.35 (14.04–35.20)
+0.63 (0.37–0.79)
+
+< 0.006 (< 0.006- < 0.006)
+3.4 (2.6–4.9)
+54 (41–69)
+5.89 (4.53–10.76)
+
+1.30 ± 0.43
+7.6 (5.0–34.8)
+0.038 (0.020–0.058)
+
+16/14
+
+67.4 ± 14.4
+36.6 (36.5–36.9)
+82 (76–96)
+20 (18–26)
+129 (120–144)
+80 (70–86)
+
+10 (33.3%)
+
+8 (26.7%)
+
+2 (6.7%)
+
+5 (16.7%)
+420.40 (199.63–919.88)
+82.53 (34.55–123.96)
+1.90 (1.08–3.78)
+0.021 (< 0.006–0.136)
+7.1 (4.4–9.9)
+79 (55–86)
+5.73 (4.50–8.20)
+
+0.98 ± 0.55
+54.3 (14.3–117.9)
+0.137 (0.049–0.468)
+
+18 (60.0%)
+
+0.142
+
+< 0.001
+
+0.670
+
+0.679
+
+0.209
+
+0.218
+
+0.040
+
+0.028
+
+0.027
+
+0.197
+
+0.668
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+0.001
+
+< 0.001
+
+0.016
+
+0.007
+
+0.021
+
+0.003
+
+< 0.001
+
+< 0.001
+
+In-hospital death (n)
+
+18 (33.3%)
+
+0
+
+Abbreviations: SBP Systolic blood pressure, DBP Diastolic blood pressure, HP Hypertension, CHD Coronary heart disease, COPD Chronic obstructive pulmonary
+disease, DM Diabetes mellitus, NT-proBNP N-terminal pro-brain natriuretic peptide, MYO Myoglobin, CK-MB creatine kinase-MB, Hs-TnI High-sensitivity troponin-I,
+WBC White blood cell, LYM Lymphocytes, CRP C-reactive protein, PCT Procalcitonin
+
+Fig. 1 The NT-proBNP for in-hospital death of coronavirus disease 2019 (COVID-19) by receiver operating characteristic (ROC) curves. The area
+under the curve (AUC) of NT-proBNP was 0.909. The best cutoff of NT-proBNP for prediction in-hospital death was 88.64 pg/mL with the
+sensitivity of 100% and the specificity of 66.67%. 95% CI, 95% confidence interval
+
+Gao et al. Respiratory Research           (2020) 21:83 
+
+Page 4 of 7
+
+Fig. 2 Kaplan-Meier plots showing the cumulative survival rate of COVID-19 patients who were stratified into two groups according to plasma
+NT-proBNP cutoff point at baseline. Dotted line, NT-proBNP ≤88.64 pg/ml, n = 24; Solid line, NT-proBNP > 88.64 pg/ml, n = 30; log-rank test for
+trend, P < 0.001)
+
+Fig. 2. Patients in high NT-proBNP (> 88.64 pg/mL)
+group had a significantly higher risk of death during the days
+of following-up than the low group (NT-proBNP≤88.64 pg/
+mL) (Fig. 2).
+
+Spearman correlation coefficients of NT-proBNP with
+selected covariates
+In present study, plasma NT-proBNP was positively
+correlated with age, urea, cardiac injury markers of
+MYO, CK-MB and hs-TnI and systematic inflammation
+makers of WBC, CRP, Hs-CRP and PCT (Supplemental
+Table. 1).
+
+Results of cox proportional hazards analyses of in-
+hospital death
+Cox proportional hazards regression analysis was used
+to evaluate potential associations between NT-proBNP
+and in-hospital death. Results of univariate analyses
+showed that
+the hazard ratio (HR) of NT-proBNP
+associated to in-hospital death was 1.369 (95% CI 1.217–
+1.541, P < 0.001) for an increase of 100 pg/mL. Mean-
+while, age, male, history of hypertension (HP), myoglobin
+(MYO), creatine kinase-MB (CK-MB), high-sensitivity
+troponin-I (Hs-TnI), urea, creatinine, white blood cell
+(WBC), lymphocytes (LYM), c-reactive protein (CRP) and
+procalcitonin (PCT) were correlated with the risk of in-
+hospital death (Table 2).
+
+Multivariate Cox proportional hazards
+
+regression
+analyses were used to evaluate the independent prognos-
+tic effect of NT-proBNP level. After adjusting for sex
+and age (Mode 1), the HR of NT-proBNP for in-hospital
+death was 1.323 (95% CI 1.119–1.563, P = 0.001) for an
+increase of 100 pg/mL. After adjusting for HP and CHD
+history (Mode 2), the HR was 1.342 (95% CI 1.185–
+1.520, P < 0.001). After adjusting for MYO, CK-MB and
+hs-TNI (Mode 3), the HR was 1.360 (95% CI 1.177–
+1.572, P < 0.001). After adjusting for urea and creatinine
+
+Table 2 Results of univariate Cox proportional-hazards
+regression analyzing the effect of baseline variables on in-
+hospital death
+
+Characteristics
+
+Sex
+
+Age, per 10 years
+
+History of HP
+
+History of CHD
+
+History of COPD
+
+History of DM
+
+Male
+
+Female
+
+no
+
+yes
+
+no
+
+yes
+
+no
+
+yes
+
+no
+
+yes
+
+NT-proBNP, per 100 pg/ml
+
+MYO, per 1 ng/ml
+CK-MB, per 1 μg/L
+
+Hs-TnI, per 1 ng/ml
+
+Urea, per 1 mmol/L
+
+Creatinine, per 1 umol/L
+WBC, per 1 × 109/L
+LYM, per 1 × 109/L
+
+CRP, per 1 mg/L
+
+PCT, per 0.1 ng/ml
+
+HR (95%CI)
+–
+
+0.348 (0.130–0.930)
+1.975 (1.309–2.981)
+–
+
+4.044 (1.604–10.200)
+–
+
+2.652 (0.992–7.092)
+–
+
+4.127 (0.945–18.024)
+–
+
+0.958 (0.277–3.314)
+1.369 (1.217–1.541)
+1.006 (1.003–1.008)
+1.259 (1.098–1.443)
+1.862 (1.273–2.722)
+1.134 (1.073–1.198)
+1.028 (1.013–1.043)
+1.150 (1.076–1.229)
+0.065 (0.017–0.249)
+1.021 (1.012–1.030)
+1.241 (1.142–1.349)
+
+P
+
+–
+
+–
+
+–
+
+–
+
+0.035
+
+0.001
+
+0.003
+
+0.052
+
+0.059
+
+0.947
+
+< 0.001
+
+< 0.001
+
+0.001
+
+0.001
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+Abbreviations: HP Hypertension, CHD Coronary heart disease, COPD Chronic
+obstructive pulmonary disease, DM Diabetes mellitus, NT-proBNP N-terminal
+pro-brain natriuretic peptide, MYO Myoglobin, CK-MB Creatine kinase-MB, Hs-
+TnI High-sensitivity troponin-I, WBC White blood cell, LYM Lymphocytes, CRP C-
+reactive protein, PCT Procalcitonin, HR hazards ratio, 95%CI 95%
+confidence interval
+
+Gao et al. Respiratory Research           (2020) 21:83 
+
+Page 5 of 7
+
+(Mode 4), the HR was 1.373 (95% CI 1.188–1.586, P <
+0.001). After adjusting for WBC and LYM (Mode 5), the
+HR was 1.248 (95% CI 1.097–1.419, P = 0.001). After
+adjusting for WBC, LYM and CRP (Mode 6), the HR
+was 1.230 (95% CI 1.003–1.509, P = 0.047). After adjust-
+ing for WBC, LYM and PCT (Mode 7), the HR was
+1.200 (95% CI 1.045–1.380, P = 0.010). In the process,
+the HRs of WBC and PCT in Mode 5 and 7 also showed
+significance for
+independently predicting in-hospital
+death while LYM show protective effect (Table 3, Fig. 3).
+
+Discussion
+The present study for the first time showed the relation-
+ship between plasma NT-proBNP level and the risk of
+in-hospital death in severe COVID-19 patients. Severe
+COVID-19 patients with high NT-proBNP levels tended
+to be older with increased cardiac injury markers and
+higher levels of systematic inflammation markers. Pa-
+tients with high NT-proBNP (> 88.64 pg/mL) level had
+lower cumulative survival rate. After adjusting for poten-
+tial cofounders in separate modes, NT-proBNP pre-
+sented as an independent risk factor of in-hospital death
+in patients with severe COVID-19.
+
+Previous studies have found that NT-proBNP is a
+powerful and independent predictor of mortality in
+community-acquired pneumonia (CAP) [8–10]. In these
+studies, the best cut-off values of NT-proBNP for predic-
+tion 30-day mortality were 1434.5 pg/mL and 1795.5 pg/
+mL, respectively [8, 10]. The elevated NT-proBNP in these
+cases was believed owing to the cardiac complications re-
+sulted from complex interactions among preexisting con-
+ditions, relative ischemia, up-regulation of the sympathetic
+systemic inflammation and direct pathogen-
+system,
+mediated damage to the cardiovascular system [11].
+
+However, the cutoff value of NT-proBNP to predict
+the adverse outcome of severe COVID-19 patients was
+far lower than the threshold to diagnose heart failure
+(450 pg/mL for < 50 years, 900 pg/mL for 50–75 years
+and 1800 pg/mL for > 75 years) [12] in present study. It
+was suggested that the prognostic effect of plasma NT-
+proBNP in severe COVID-19 patients could not fully
+ascribe to heart failure induced by the virus or hypoxia.
+Further understanding of physiological and pathological
+significance of plasma NT-proBNP elevation in severe
+COVID-19 patients might help clinicians make corre-
+to reduce the risks of adverse
+sponding decisions
+outcome.
+
+NT-proBNP is secreted in response to increased myo-
+cardial wall stress [13]. It is also controlled by acute
+injury and proinflammatory molecules such as
+renal
+lipopolysaccharide, interleukin 1, C-reactive protein, and
+cardiotrophin I, which are independent of ventricular
+function [14, 15]. It was consisted with the study finding
+that NT-proBNP level was positively correlated to the
+
+makers of cardiac injury, renal injury and systematic in-
+flammation. And these makers also constituted the risks
+of
+in-hospital death according to the univariate Cox
+proportional-hazards regression analysis. However, NT-
+proBNP was an independent risk factor after accounting
+these factors in multivariate Cox. The prognostic effect
+of NT-proBNP might be a specific index of reflecting
+the overall state of SARS-CoV-2 infection.
+
+Table 3 Results of multivariate Cox proportional-hazards
+regression analyzing the effect of baseline variables on in-
+hospital death
+
+Not Adjusted NT-proBNP, per 100 pg/ml
+
+Mode
+
+Mode 1
+
+NT-proBNP, per 100 pg/ml
+
+Female vs. Male
+
+Age, per 10 years
+
+Mode 2
+
+HP, yes vs. no
+
+CHD, yes vs. no
+
+Mode 3
+
+NT-proBNP, per 100 pg/ml
+
+NT-proBNP, per 100 pg/ml
+
+MYO, per 1 ng/ml
+CK-MB, per 1 μg/L
+
+Hs-TnI, per 0.1 ng/ml
+
+Mode 4
+
+NT-proBNP, per 100 pg/ml
+
+Urea, per 1 mmol/L
+
+Creatinine, per 1 umol/L
+
+Mode 5
+
+Mode 6
+
+NT-proBNP, per 100 pg/ml
+WBC, per 1 × 109/L
+LYM, per 1 × 109/L
+
+NT-proBNP, per 100 pg/ml
+WBC, per 1 × 109/L
+LYM, per 1 × 109/L
+
+CRP, per 1 mg/L
+
+Mode 7
+
+NT-proBNP, per 100 pg/ml
+WBC, per 1 × 109/L
+LYM, per 1 × 109/L
+
+PCT, per 0.1 ng/ml
+
+HR (95%CI)
+1.369 (1.217–1.541)
+
+P
+
+< 0.001
+
+1.323 (1.119–1.563)
+1.077 (0.330–3.518)
+1.176 (0.719–1.922)
+
+0.001
+
+0.902
+
+0.518
+
+1.342 (1.185–1.520)
+1.613 (0.591–4.406)
+1.219 (0.422–3.521)
+
+< 0.001
+
+0.351
+
+0.714
+
+1.360 (1.177–1.572)
+1.001 (0.996–1.005)
+1.119 (0.905–1.385)
+1.031 (0.574–1.855)
+
+< 0.001
+
+0.773
+
+0.299
+
+0.918
+
+1.373 (1.188–1.586)
+1.041 (0.936–1.158)
+0.999 (0.974–1.025)
+
+< 0.001
+
+0.460
+
+0.957
+
+1.248 (1.097–1.419)
+1.099 (1.015–1.190)
+0.163 (0.035–0.761)
+
+1.230 (1.003–1.509)
+1.036 (0.903–1.189)
+0.201 (0.033–1.221)
+1.011 (0.999–1.023)
+
+1.200 (1.045–1.380)
+1.088 (0.016–1.164)
+0.151 (0.029–0.778)
+1.110 (1.010–1.220)
+
+0.001
+
+0.021
+
+0.021
+
+0.047
+
+0.611
+
+0.081
+
+0.066
+
+0.010
+
+0.016
+
+0.024
+
+0.030
+
+Abbreviations: NT-proBNP N-terminal pro-brain natriuretic peptide, HP
+Hypertension, CHD Coronary heart disease, MYO Myoglobin, CK-MB Creatine
+kinase-MB, Hs-TnI High-sensitivity troponin-I, WBC White blood cell, LYM
+Lymphocytes, CRP C-reactive protein, PCT Procalcitonin, HR Hazards ratio;
+95%CI 95% confidence interval
+
+Gao et al. Respiratory Research           (2020) 21:83 
+
+Page 6 of 7
+
+Fig. 3 Forest plots of multivariate Cox proportional-hazards regression analyzing the effect of baseline variables on in-hospital death. HP,
+hypertension; CHD, coronary heart disease; MYO, myoglobin; CK-MB, creatine kinase-MB; Hs-TnI, high-sensitivity troponin-I; WBC, white blood cell;
+LYM, lymphocytes; CRP, c-reactive protein; PCT, procalcitonin; HR, hazards ratio
+
+The mechanism of SARS-CoV-2-induced cardiac in-
+jury was still unclear. From the result of autopsy by
+Xu and colleagues, a few interstitial mononuclear
+inflammatory infiltrates were observed in heart biopsy,
+indicating an inflammation induced cardiac injury
+[16]. Other factors including the SARS-CoV-2 infec-
+tion and invasion cardiomyocytes via the binding site
+of angiotensin-converting enzyme-related carboxypep-
+tidase (ACE2) [17], the pulmonary infection induced
+inadequate oxygen supply to the myocardium and the
+influences of cytokine storm syndrome [18–20] might
+also contribute to the cardiac injury [21]. All these
+contributes to the elevation of NT-proBNP and risks
+of poor prognosis in patients with COVID-19.
+
+The virus itself may also elevate the NT-proBNP
+level in COVID-19 patients. SARS-CoV-2 binds with
+ACE2, resulting the uncontrolled releasing of angio-
+tensin 2 (ANGII) and restricted synthesis of ANG1–7
+[22]. The latter exerts anti-inflammation effect to pro-
+tect tissue while ANGII plays in an opposite role and
+facilitates the secretion of NT-proBNP [22–24]. It in-
+dicated that NT-proBNP level might associated with
+the severity of
+leading an adverse
+outcome, which needs further verification.
+
+infection thus
+
+By investigating the prognostic effect of NT-proBNP
+level of severe COVID-19 patients at admission, it might
+be helpful to early identifying patients with poor progno-
+ses. However, this study was limited by sample size and
+a single test of NT-proBNP at admission. Larger studies
+with continuous monitoring of NT-proBNP are neces-
+sary to further confirm the prognostic effect of NT-
+proBNP in patients with severe COVID-19.
+
+Conclusion
+In conclusion, NT-proBNP might be an independent
+risk factor for in-hospital death in patients with severe
+COVID-19.
+
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s12931-020-01352-w.
+
+Additional file 1.
+
+Abbreviations
+COVID-19: Coronavirus disease 2019; SARS-CoV-2: Severe acute respiratory
+syndrome coronavirus 2; ROC: Receiver operation characteristic; HR: Hazard
+ratio; CAP: Community-acquired pneumonia; SBP: Systolic blood pressure;
+DBP: Diastolic blood pressure; HP: Hypertension; CHD: Coronary heart
+disease; COPD: Chronic obstructive pulmonary disease; DM: Diabetes
+mellitus; NT-proBNP: N-terminal pro-brain natriuretic peptide;
+MYO: Myoglobin; CK-MB: Creatine kinase-MB; Hs-TnI: High-sensitivity
+troponin-I; WBC: White blood cell; LYM: Lymphocytes; CRP: C-reactive
+protein; PCT: Procalcitonin; ACE2: Angiotensin-converting enzyme-related car-
+boxypeptidase; ANG: Angiotensin
+
+Acknowledgements
+We thank all the staffs working at the front-line to battle against SARS-CoV-2.
+We thank Doctor Liu Z.M. who worked at Hubei General Hospital for his
+great help concerning the current study.
+
+Author’s contributions
+G.L. and J.D. contributed to the study design, analyzing data and preparation
+manuscript. W.X., C.X., S.M., H.B., Y.L., L.P. and T.X. were involved in the
+acquisition of data. Q.S., C.G. and Z.D. worked on the study concept, design
+and final proof. All authors read and approved the final manuscript.
+
+Funding
+National Natural Science Foundation of China, 81570212; National Natural
+Science Foundation of China, 31800976; Chongqing Science and Health
+Joint Medical Research Project, 2018QNXM024.
+
+Gao et al. Respiratory Research           (2020) 21:83 
+
+Page 7 of 7
+
+16. Xu Z, et al. Pathological findings of COVID-19 associated with acute
+
+respiratory distress syndrome. Lancet Respir Med. 2020. https://doi.org/10.
+1016/S2213-2600(20)30076-X.
+
+17. Donoghue M, et al. A novel angiotensin-converting enzyme-related
+
+carboxypeptidase (ACE2) converts angiotensin I to angiotensin 1-9. Circ Res.
+2000;87:E1–9. https://doi.org/10.1161/01.res.87.5.e1.
+
+18. Chen C, Zhang XR, Ju ZY, He WF. Advances in the research of cytokine
+storm mechanism induced by Corona virus disease 2019 and the
+corresponding immunotherapies. Zhonghua Shao Shang Za Zhi. 2020;36:
+E005. https://doi.org/10.3760/cma.j.cn501120-20200224-00088.
+19. Xu K, et al. Management of corona virus disease-19 (COVID-19): the
+
+20.
+
+Zhejiang experience. Zhejiang Da Xue Xue Bao Yi Xue Ban. 2020;49:0.
+Tetro JA. Is COVID-19 receiving ADE from other coronaviruses? Microbes
+Infect. 2020;S1286-4579(1220):30034. https://doi.org/10.1016/j.micinf.2020.
+02.006.
+
+21. Wei ZY, Qian HY. Myocardial injury in patients with COVID-19 pneumonia.
+
+Zhonghua Xin Xue Guan Bing Za Zhi. 2020;48:E006. https://doi.org/10.3760/
+cma.j.issn.cn112148-20200220-00106.
+
+22. Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS. Angiotensin-converting
+enzyme 2 (ACE2) as a SARS-CoV-2 receptor: molecular mechanisms and
+potential therapeutic target. Intensive Care Med. 2020. https://doi.org/10.
+1007/s00134-020-05985-9 https://doi.org/10.1007/s00134-00020-05985-
+00139.
+Santos RAS, et al. The ACE2/angiotensin-(1-7)/MAS Axis of the renin-
+angiotensin system: focus on angiotensin-(1-7). Physiol Rev. 2018;98:505–53.
+https://doi.org/10.1152/physrev.00023.2016.
+
+23.
+
+24. Patel VB, Zhong J-C, Grant MB, Oudit GY. Role of the ACE2/Angiotensin 1–7
+Axis of the Renin-Angiotensin System in Heart Failure. Circ Res. 2016;118:
+1313–26. https://doi.org/10.1161/CIRCRESAHA.116.307708.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Availability of data and materials
+The raw data required to reproduce these findings cannot be shared at this
+time as the data also forms part of an ongoing study.
+
+Ethics approval and consent to participate
+The study has been performed in accordance with the Declaration of
+Helsinki and was approved by the Ethics Committee of the First Affiliated
+Hospital of Chongqing Medical University (Grant No. 20200701). All subjects
+were well informed.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare no conflict of interest.
+
+Author details
+1Department of Cardiovascular Medicine, The First Affiliated Hospital of
+Chongqing Medical University, Chongqing 400016, China. 2Department of
+Cardiovascular Medicine, The First Branch of the First Affiliated Hospital of
+Chongqing Medical University, Chongqing 400016, China. 3Traditional
+Chinese Medicine hospital Dianjiang Chongqing, Chongqing 408300, China.
+
+Received: 11 March 2020 Accepted: 2 April 2020
+
+References
+1.
+
+Lai C-C, Shih T-P, Ko W-C, Tang H-J, Hsueh P-R. Severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) and corona virus disease-2019
+(COVID-19): the epidemic and the challenges. Int J Antimicrob Agents. 2020:
+105924–4. https://doi.org/10.1016/j.ijantimicag.2020.105924.
+
+2. Mahase E. Coronavirus covid-19 has killed more people than SARS and
+
+3.
+
+4.
+
+5.
+
+6.
+
+MERS combined, despite lower case fatality rate. BMJ. 2020;368:m641.
+https://doi.org/10.1136/bmj.m641.
+Huang C, et al. Clinical features of patients infected with 2019 novel
+coronavirus in Wuhan, China. Lancet. 2020;395:497–506. https://doi.org/10.
+1016/s0140-6736(20)30183-5.
+Guan WJ, et al. Clinical characteristics of coronavirus disease 2019 in China.
+N Engl J Med. 2020. https://doi.org/10.1056/NEJMoa2002032.
+Shi S, et al. Association of Cardiac Injury with mortality in hospitalized
+patients with COVID-19 in Wuhan, China. JAMA Cardiol. 2020. https://doi.
+org/10.1001/jamacardio.2020.0950.
+Guo T, et al. Cardiovascular implications of fatal outcomes of patients with
+coronavirus disease 2019 (COVID-19). JAMA Cardiol. 2020. https://doi.org/10.
+1001/jamacardio.2020.1017.
+
+8.
+
+7. Wang D, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019
+Novel coronavirus-infected pneumonia in Wuhan, China. Jama. 2020.
+https://doi.org/10.1001/jama.2020.1585.
+Jeong KY, et al. Prognostic value of N-terminal pro-brain natriuretic peptide
+in hospitalised patients with community-acquired pneumonia. Emerg Med
+J. 2011;28:122–7. https://doi.org/10.1136/emj.2009.089383.
+Fernandez JF, Restrepo MI. Is N-terminal pro-B-type natriuretic peptide
+ready for 'prime time' in severe pneumonia? Respirology. 2013;18:889–90.
+https://doi.org/10.1111/resp.12134.
+
+9.
+
+10. Akpınar EE, et al. Do N-terminal pro-brain natriuretic peptide levels
+
+determine the prognosis of community acquired pneumonia? J Bras
+Pneumol. 2019;45:e20180417. https://doi.org/10.1590/1806-3713/e20180417.
+11. Restrepo MI, Reyes LF. Pneumonia as a cardiovascular disease. Respirology.
+
+2018;23:250–9. https://doi.org/10.1111/resp.13233.
+
+13.
+
+12. Hill SA, et al. Use of BNP and NT-proBNP for the diagnosis of heart failure in
+the emergency department: a systematic review of the evidence. Heart Fail
+Rev. 2014;19:421–38. https://doi.org/10.1007/s10741-014-9447-6.
+Saenger AK, et al. Specificity of B-type natriuretic peptide assays: cross-
+reactivity with different BNP, NT-proBNP, and proBNP peptides. Clin Chem.
+2017;63:351–8. https://doi.org/10.1373/clinchem.2016.263749.
+Shor R, et al. BNP in septic patients without systolic myocardial dysfunction.
+Eur J Intern Med. 2006;17:536–40.
+
+14.
+
+15. Vallabhajosyula S, et al. Natriuretic peptides to predict short-term mortality
+
+in patients with sepsis: a systematic review and meta-analysis. Mayo Clin
+Proc Innov Qual Outcomes. 2020;4:50–64. https://doi.org/10.1016/j.
+mayocpiqo.2019.10.008.
+
+

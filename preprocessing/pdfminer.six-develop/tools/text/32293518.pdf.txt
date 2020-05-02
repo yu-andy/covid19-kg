@@ -1,0 +1,366 @@
+Zeng et al. Critical Care          (2020) 24:148 
+https://doi.org/10.1186/s13054-020-2840-8
+
+R E S E A R C H L E T T E R
+
+Open Access
+
+Prognosis when using extracorporeal
+membrane oxygenation (ECMO) for
+critically ill COVID-19 patients in China: a
+retrospective case series
+Yingchun Zeng1†
+
+, Zhongxiang Cai2†, Yunyan Xianyu2†, Bing Xiang Yang3*, Ting Song1* and Qiaoyuan Yan4*
+
+the
+
+The World Health Organization (WHO) has character-
+ized the disease, coronavirus disease 2019 (COVID-19),
+as a pandemic on March 11, 2020 (www.who.int). As of
+March 11, the WHO had recorded a total of 118,326
+confirmed COVID-19 cases, with 4292 death cases
+cumulative mortality of
+(www.who.int). While
+COVID-19 is 3.63%, COVID-19 has resulted in more
+death cases than SARS and MERS combined [1].
+Within China, a total of 80,955 cases are confirmed,
+with 4257 severe cases in mainland China (www.nhc.
+gov.cn). In severe cases of COVID-19, patients ex-
+perience rapid disease progression and can quickly
+progress
+syndrome
+(ARDS) [2].
+
+respiratory distress
+
+to acute
+
+Based on this, when COVD-19 patients develop ARDS
+and mechanical ventilation cannot be improved, extra-
+corporeal membrane oxygenation (ECMO) can be used
+[3]. As mortality rates among critically ill COVID-19 pa-
+tients can be as high as 61.5% [4], ECMO may play a
+role in reducing mortality rates [5]. The indications of
+using ECMO are “For patients with severe ARDS, it is
+recommended to perform lung expansion. In the case of
+adequate human resources, prone positioning should be
+least 12 hours per day for
+recommended for at
+
+* Correspondence: yangbingxiang@163.com; song.ting@163.com;
+yanqiaoyuan@163.com
+†Yingchun Zeng, Zhongxiang Cai and Yunyan Xianyu contributed equally to
+this work.
+3School of Health Sciences, Wuhan University, Wuhan, Hubei Province, China
+1The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou,
+China
+4Union Hospital, Tongji Medical College, Huazhong University of Science and
+Technology, Wuhan, Hubei Province, China
+Full list of author information is available at the end of the article
+
+ventilation.
+
+protective
+failure
+persisted, then ECMO should be started as soon as
+possible.” [6]
+
+respiratory
+
+severe
+
+If
+
+Worldwide data on prognosis when using ECMO to
+treat critically ill patients with COVID-19 infection
+are not available, and whether ECMO plays a role in
+reducing patient mortality rates is currently unknown.
+This research letter provides the first evidence of
+prognosis in treating critically ill COVID-19 patients
+with ECMO in China. These preliminary data were
+collected from two medical centers of Wuhan, China
+(Table 1). These data could be of considerable value
+in judging whether ECMO should be recommended
+as a salvage therapy for critically ill COVID-19
+patients.
+
+To date, the role of ECMO in the management of
+COVID-19 is unpromising. Nearly half of the patients
+treated with ECMO died from septic shock and multiple
+organ failure. The observed late complications included
+bleeding and infection. While
+the World Health
+Organization (WHO) interim guidelines and China’s na-
+tional interim guidelines for the diagnosis and treatment
+of COVID-19 infection (sixth version) have made gen-
+eral recommendations for the use of ECMO for ARDS
+and critical COVID-19 infection [3, 5], the preliminary
+evidence available in mainland China does not support
+this general recommendation.
+
+Certainly, understanding the risk-to-benefit ratio of
+performing ECMO on critically ill COVID-19 patients is
+dynamic as the course of this novel disease unfolds. The
+Chinese government covers all costs to treat patients
+with the COVID-19 infection, so the cost analysis of
+to date unavailable in mainland China.
+ECMO is
+
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+
+Zeng et al. Critical Care          (2020) 24:148 
+
+Page 2 of 3
+
+Table 1 Clinical characteristics and ECMO outcomes for critically ill COVID-19 patients (N = 12)
+Variables
+
+Mean (SD)
+
+50.9 (13.5)
+
+Range
+35–76
+
+n
+
+11
+
+1
+
+1
+
+1
+
+1
+
+11
+
+10
+
+1
+
+12
+
+12
+
+12
+
+12
+
+10
+
+12
+
+3
+
+4
+
+5
+
+%
+
+91.7
+
+8.3
+
+8.3
+
+8.3
+
+8.3
+
+91.7
+
+83.3
+
+8.3
+
+100
+
+100
+
+100
+
+100
+
+83.3
+
+100
+
+25.0
+
+33.3
+
+41.7
+
+Age (years)
+
+Gender (male)
+
+Comorbidities
+
+Hypertension
+
+Heart disease
+
+Diabetes
+
+Dyspnea
+
+Fever
+
+Coma
+
+Treatment type
+
+ECMO
+
+Hyperthyroidism
+
+Key reason for ICU admittance
+
+Mechanical ventilation
+
+Antibiotic treatment
+
+Antiviral therapy
+
+Glucocorticoid therapy
+
+Supportive therapy based on symptoms
+
+Duration of ECMO use (days)
+
+ECMO prognosis
+
+Improving without ECMO
+
+Still alive with ECMO but two with coma
+
+Dying
+
+11.3 (7.8)
+
+3–28
+
+Abbreviations: ECMO extracorporeal membrane oxygenation, ICU intensive care unit
+
+However, an average ECMO procedure in the USA costs
+$73,122 USD,
+indicating that ECMO is a highly
+resource-demanding procedure [7]. Therefore, a further,
+larger sample size study and a comprehensive analysis of
+the medical value of using ECMO on COVID-19 pa-
+tients are urgently required. Based on the two cohort
+case series in this study, nearly half of the critically ill
+COVID-19 patients with ECMO were dying from septic
+shock and multiple organ failure. As anticipated by
+MacLaren et al. [3], COVID-19 is a pandemic; all health-
+care resources are stretched so that ECMO is not a ther-
+apy to be rushed to the frontline. Therefore,
+interim
+treatment guidelines [5, 6] of recommending ECMO for
+taken
+critically
+cautiously.
+
+ill COVID-19 patients
+
+should be
+
+Abbreviations
+ARDS: Acute respiratory distress syndrome; COVID-19: Coronavirus disease
+detected in 2019; ECMO: Extracorporeal membrane oxygenation
+
+Acknowledgements
+Thanks to all the participants involved in this study.
+
+Authors’ contributions
+YZ, manuscript writing; ZC, YXY, BXY, data collection and analysis; TS, QYY,
+manuscript revision. The authors read and approved the final manuscript.
+
+Funding
+None.
+
+Availability of data and materials
+The datasets used in the present study are available from the first author
+and corresponding authors on reasonable request.
+
+Ethics approval and consent to participate
+This study was approved by the institutional review board of Wuhan
+University School of Health Sciences. Informed consent was waived, as this
+study was conducted during a public health outbreak.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+None.
+
+Author details
+1The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou,
+China. 2Renmin Hospital of Wuhan University, Wuhan, Hubei Province, China.
+3School of Health Sciences, Wuhan University, Wuhan, Hubei Province, China.
+4Union Hospital, Tongji Medical College, Huazhong University of Science and
+Technology, Wuhan, Hubei Province, China.
+
+Zeng et al. Critical Care          (2020) 24:148 
+
+Page 3 of 3
+
+Received: 9 March 2020 Accepted: 19 March 2020
+
+2.
+
+4.
+
+5.
+
+6.
+
+References
+1. Mahase E. Coronavirus: covid-19 has killed more people than SARS and
+
+MERS combined, despite lower case fatality rate. BMJ. 2020;368:m641.
+https://doi.org/10.1136/bmj.m641.
+Jiang C, Yang F, Zou H, et al. Chinese expert consensus on supportive
+treatment of extracorporeal membrane oxygenation novel coronavirus
+pneumonia. Chin J Emerg Med. 2020;29(00):E009. https://doi.org/10.3760/
+cma.j.issn.1671-0282.2020.0009 [in Chinese].
+
+3. MacLaren G, Fisher D, Brodie D. Preparing for the most critically ill patients
+
+with COVID-19: the potential role of extracorporeal membrane oxygenation.
+JAMA Published online February 19, 2020. doi:https://doi.org/10.1001/jama.
+2020.2342.
+Yang X, Yu Y, Xu J, et al. (2020). Clinical course and outcomes of critically ill
+patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered,
+retrospective, observational study. Lancet Respir Med. Published online
+February 21, 2020. doi: https://doi.org/10.1016/S2213-2600(20)30079-5.
+Liew MF, Siow WT, MacLaren G, et al. Preparing for COVID-19: early
+experience from an intensive care unit in Singapore. Crit Care. 2020;24:83.
+https://doi.org/10.1186/s13054-020-2814-x.
+Diagnosis and treatment guideline for COVID-19 infection (trial version 6)
+http://www.nhc.gov.cn, Accessed 18 Feb 2020. [in Chinese].
+
+7. Mishra V, Svennevig JL, Bugge JF, et al. Cost of extracorporeal membrane
+
+oxygenation: evidence from the Rikshospitalet University Hospital, Oslo,
+Norway. Eur J Cardiothorac Surg. 2010;37(2):339–42. https://doi.org/10.1016/
+j.ejcts.2009.06.059.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+

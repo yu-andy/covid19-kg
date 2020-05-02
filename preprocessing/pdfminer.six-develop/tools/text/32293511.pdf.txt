@@ -1,0 +1,215 @@
+Treweek et al. Trials          (2020) 21:327 
+https://doi.org/10.1186/s13063-020-04304-3
+
+E D I T O R I A L
+
+Open Access
+
+COVID-19 randomised trial protocols: rapid
+publication without barriers
+Shaun Treweek1*, Peter Jüni2, Tianjing Li3, Jonathan Collin4, Matthias Briel5, An-Wen Chan2, Karla Hemming6,
+William J. Meurer7, Matthew R. Sydes8 and Jeremy M. Grimshaw9
+
+Keyword: COVID-19
+
+We are living in extraordinary times. COVID-19 is hav-
+ing a profound effect on every aspect of our lives. Most
+who read this will do so from their own homes. It will
+have been weeks since many of us were at our normal
+place of work, and it is likely to be many weeks, probably
+months, before we are back there. Videoconferencing is
+becoming second nature for us all.
+
+Research into COVID-19 is exploding, as it needs to,
+and this includes randomised trials. Between 23 January
+2020 and 8 March 2020, there were 382 new registered
+COVID-19 trials on the World Health Organisation
+International Clinical Trials Registry Platform (ICTRP)
+[1]. The ICTRP COVID-19 trial list had grown to 586 by
+31 March 2020 [2]. Most are based in China, but the
+COVID-19 pandemic is now global, and trials are mov-
+ing with it. Governments and the public are clamouring
+for safe and effective treatments. Without rigorous, pro-
+randomised trials, we risk exposing many
+spective,
+people to treatments that might not work. Now more
+than ever, we need trialists to predefine and publicly
+post their designs and analyses.
+
+For transparency, for clear reporting, and to avoid du-
+plication of effort, researchers need to know details
+about these trials, and they need to know quickly. Trials
+is proud of its record of publishing trial protocols, but
+the process can be time-consuming in normal times,
+and these are far from normal times.
+
+Trials wants
+
+for
+COVID-19 trials that have ethical approval much faster
+
+to make publishing protocols
+
+* Correspondence: streweek@mac.com
+1University of Aberdeen, Aberdeen, UK
+Full list of author information is available at the end of the article
+
+and much simpler. Starting immediately, Trials is imple-
+menting a simplified process for handling COVID-19
+trial protocols. We understand that funding may be lim-
+ited or difficult to secure at this time. BMC, the pub-
+lisher of Trials, has a robust commitment to ensuring
+that all work is published without barriers for authors
+who may lack funding, especially important during the
+COVID-19 outbreak.
+If you anticipate difficulty in
+speedily covering the cost of article-processing charges,
+please state this in your initial inquiry and request a fee
+waiver. The process is outlined in Table 1.
+
+This process ensures rapid publication of a one-page
+structured summary (based on Consolidated Standards
+of Reporting Trials for abstracts [4]), which will be
+indexed by PubMed. The full protocol will be attached
+as an additional file and assigned a separate DOI (digital
+object identifier) via Figshare [5]. In the interest of ex-
+pediting dissemination of this material, the familiar Tri-
+als formatting and structure will not be necessary for
+this additional file. This will make full protocols quickly
+available to other trialists and to trial funders. Registry
+entries could also link back to the structured summary.
+
+The
+
+changes
+
+current pandemic
+
+everything. For
+COVID-19 trial protocols, transparency and speed must
+take precedence. Our editorial processes have been
+streamlined, and authors will receive direct support from
+us to ready their structured summary for publication.
+
+We do, however, urge trialists to ensure that their
+studies are well designed and well reported. Good design
+and reporting are needed no less in times of pandemics.
+We also encourage authors to submit their full protocol
+in the normal way for review to ensure reporting
+
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+
+Treweek et al. Trials          (2020) 21:327 
+
+Page 2 of 2
+
+Table 1 New handling process for COVID-19 trial protocols
+What authors do
+
+What we do
+
+Visit https://trialsjournal.biomedcentral.com/covid-19 [3].
+Download the structured summary and follow the links to contact us stating
+your interest in submitting a COVID-19 structured summary and protocol.
+The trial must already have ethical approval.
+Please also state if you anticipate difficulty in covering the article-processing
+charge.
+
+Submit structured summary to Editorial Manager (https://www.
+editorialmanager.com/trls/) using the Letter article type, with the full protocol
+uploaded as an additional file (English language preferred, but we will accept
+any language), following advice from Trials.
+
+We send instructions and feedback for rapid submission. Every effort
+will be made to respond within 24 h.
+
+Review and approval from the Protocol Editor. Typesetting by
+production, and publication without copyediting or proofing.
+
+according to the Standard Protocol Items: Recommenda-
+tions for Interventional Trials guideline [6].
+
+All of us will look back on the COVID-19 pandemic
+and ask ourselves what we did to help. As a journal dedi-
+cated to randomised trials, what Trials can do is publish
+information about COVID-19 trials rapidly, without bar-
+riers and without adding to researchers’ workload. This
+will be the journal’s contribution.
+
+4.
+
+5.
+
+6.
+
+Hopewell S, Clarke M, Moher D, Wager E, Middleton P, Altman DG, Schulz
+KF, CONSORT Group. CONSORT for reporting randomised trials in journal
+and conference abstracts. Lancet. 2008;371:281–3.
+Trials Figshare. https://springernature.figshare.com/trls. Accessed 27 March
+2020.
+Chan AW, Tetzlaff JM, Altman DG, Laupacis A, Gøtzsche PC, Krleža-Jerić K,
+Hróbjartsson A, Mann H, Dickersin K, Berlin J, Doré C, Parulekar W,
+Summerskill W, Groves T, Schulz K, Sox H, Rockhold FW, Rennie D, Moher D.
+SPIRIT 2013 statement: defining standard protocol items for clinical trials.
+Ann Intern Med. 2013;158(3):200–7.
+
+Acknowledgements
+Not applicable.
+
+Authors’ contributions
+ST led the writing of this editorial, and all of the other authors (PJ, TL, JC, MB,
+AWC, KH, WJM, MRS and JMG) contributed equally with comments and
+feedback. All authors read and approved the final manuscript.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Funding
+Not applicable.
+
+Availability of data and materials
+Not applicable.
+
+Ethics approval and consent to participate
+Not applicable.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+ST, PJ, TL and JMG are Editors-in-Chief of Trials. JC is an employee of BMC.
+MB, AWC, KH, WJM and MRS are Senior Editors of Trials.
+
+Author details
+1University of Aberdeen, Aberdeen, UK. 2University of Toronto, Toronto,
+Canada. 3University of Colorado Denver, Denver, USA. 4BMC, London, UK.
+5University of Basel, Basel, Switzerland. 6University of Birmingham,
+Birmingham, UK. 7University of Michigan, Ann Arbor, USA. 8University College
+London, London, UK. 9Ottawa Health Research Institute, Ottawa, Canada.
+
+References
+1.
+
+Centre for Evidence-Based Medicine, University of Oxford. Oxford COVID-19
+evidence service. https://www.cebm.net/oxford-covid-19/covid-19-
+registered-trials-and-analysis/. Accessed 31 March 2020.
+International Clinical Trials Registry Platform (ICTRP). The ICTRP search portal.
+https://www.who.int/ictrp/search/en/. Accessed 31 March 2020.
+COVID-19 randomised trial protocols: rapid publication without barriers.
+Trials. https://trialsjournal.biomedcentral.com/covid-19. Accessed 27 March
+2020.
+
+2.
+
+3.
+
+

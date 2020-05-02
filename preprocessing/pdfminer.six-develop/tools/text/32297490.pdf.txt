@@ -1,0 +1,208 @@
+Monaldi Archives for Chest Disease 2020; volume 90:1315
+
+                                
+
+COVID-19 pandemic: what consequences for cardiac rehabilitation?
+
+Carlo Vigorito1, Pompilio Faggiano2, Gian Francesco Mureddu3
+1University of Naples Federico II; 2Spedali Civili, Brescia; 3S. Giovanni-Addolorata Hospital, Rome, Italy
+
+The ongoing COVID-19 pandemic spreading all around the
+world has stressed over its capabilities and determined profound
+changes  in  the  health  systems  in  all  countries  and  has  caused
+hundreds of thousand deaths. Health professionals have been called
+to  a  tremendous  effort  to  deal  with  this  emergency,  often
+contaminating or succumbing themselves to the disease.
+
+Patients with pre-existing cardiovascular disease infected with
+COVID-19  have  an  increased  risk  of  severe  disease  and  worse
+outcome, including death. Patients with COVID-19 infections have
+profound involvement not only of the pulmonary system, but also
+variegate involvement of other organs (multi organ failure, MOF),
+particularly  of  cardiovascular  system  (mainly  through  acute
+hypoxic  myocardial  injury,  myocarditis,  arterial  and  venous
+thromboembolism) [1]. Intensive or sub-intensive care units have
+carried  the  greatest  load,  but  several  hospital  wards  have  been
+reconverted  to  COVID  units,  particularly  internal  medicine  or
+specialties, like cardiology or pneumology, to face the growing
+wave of the disease. 
+
+This revolutionary transformation has had a strong implication
+for  cardiology.  Many  cardiology  units  or  Coronary  Care  Units
+(CCU) have been downsized and induced to allocate dedicated
+space  and  personnel  to  emergency  COVID  units  or  ICU.  But
+COVID-19  storm  has  also  had  a  deep  impact  for  cardiac
+rehabilitation (CR): some CR units have been closed and medical
+or nurse staff moved to COVID units, others have seen a reduction
+of  beds  or  staff,  thus  limiting  their  operative  capabilities.  To
+understand how Italian CR units are being re-modulated in this
+pandemia,  the  Italian  Association  of  Cardiac  Prevention  and
+Rehabilitation  (IACPR)  has  launched  an  online  survey  on  the
+impact of COVID-19 on their activity, whose results will be the
+basis  for  prospecting  different  actions  at  national  level  and  to
+understand the best way to reorganize the activities during and after
+the  storm  of  the  disease  [2].  COVID-19  has  had  profound
+implications  on  the  organization  of  CR  also  in  other  European
+countries,  in  many  cases  reducing  or  stopping  CR  programs
+(Hansen D, and Wilhelm M, personal communications). 
+
+Received for publication: 14 April 2020.
+Accepted for publication: 14 April 2020.
+
+©Copyright: the Author(s), 2020
+Licensee PAGEPress, Italy
+Monaldi Archives for Chest Disease 2020; 90:1315
+doi: 10.4081/monaldi.2020.1315
+
+This article is distributed under the terms of the Creative Commons
+Attribution Noncommercial License (by-nc 4.0) which permits any
+noncommercial use, distribution, and reproduction in any medium,
+provided the original author(s) and source are credited.
+
+Still operative CR units have to adapt their organization and
+programs according to the local health systems and to the different
+burden of the disease, with many differences among Italian regions.
+IACPR  has  issued  general  recommendations  for  CR  activities
+during COVID-19 pandemia [3]. In general, active CR centers have
+seen in these days a reduced referral to residential CR from the
+traditional  prevalent  source  (cardiac  surgery,  PTCA  or  other
+planned interventions usually referred to CR such as Pacemaker,
+ICD/CRT implantations), since all these elective activities have
+been postponed in large part. As far as Phase 2 outpatients CR,
+many elective in-hospital activities or outpatient sessions or visits
+have been postponed in the last 2 months. In addition, reduction of
+ACS admissions to CCU has occurred, since many patients refuse
+hospitalization or do not reach the hospital in time, or die at home.
+While the total admission to CCU has been largely reduced, the
+proportion of STEMI vs NSTEMI has increased, indicating that
+only  the  worse ACS  patients,  those  with  worse  symptoms,  are
+reaching the hospital, while many patients with fewer symptoms
+prefer to stay at home. Similarly, many heart failure (HF) patients
+avoid hospital admission even if the clinical status is worsening.
+However, In those patients who are referred and admitted to CR,
+the organization, provision and delivery of rehabilitative programs
+must  be  remodulated  in  COVID-19  era,  according  to  the
+recommendations recently issued by the CR section of European
+Association  of  Preventive  Cardiology  (EAPC)  [4].  The  more
+relevant of these recommendations are establishing priorities for
+referral  to  CR,  increase  patients  turnover,  adopt  appropriate
+precautions  during  training  (masks,  distancing,  avoid  group
+exercises), shorten the programs, keep track of discharged patients
+and follow them with remote assessment.
+
+In the medium time scenario, the challenge for CR units will
+be to be prepared to face for some time a population of patients at
+higher cardiovascular risk than usual: this will be composed of
+patients with ACS (STEMI or NSTEMI) or with worsening HF not
+hospitalized for the acute event, due to missed diagnosis or patient
+refusal.  Many  of  these  patients  may  have  had  reduced  out  of
+hospital attention from the practitioner or the specialist, which at
+this time are mostly focused on COVID-19 treatment, leading to
+inadequate secondary prevention, with poor drug adherence and
+traditional  risk  factors  control,  thus  allowing  progression  of
+underlying cardiovascular disease. In addition, many ACS patients
+may have had a late admission to CCU due temporary shortage of
+ambulance  availability,  leading  to  delayed  or  unsuccessful
+revascularization. Occasionally, some patients are having systemic
+thrombolysis, 
+revascularization.
+Accordingly, all these circumstances may most likely lead to the
+growth of a ACS population resembling that of pre-PTCA era, with
+more frequent STEMI, left ventricular systolic dysfunction and/or
+HF,  poorer  physical  function  for  longer  inactivity  and  poorer
+prognosis. CR strategies and programs should therefore be tailored
+on the peculiarities of these patients, who are at higher risk and with
+the majority of them being elderly and often frail.
+
+than  percutaneous 
+
+rather 
+
+                          [Monaldi Archives for Chest Disease 2020; 90:1315]                                          [page 205]
+
+Non-commercial use only                             Editorial
+
+In addition, beyond these organizative aspects, there are other
+implications of this pandemic on CR. First of all, CR units should
+develop  strategies  on  how  to  handle  cardiac  patients  who  have
+developed  COVID-19  infection  during  admission  in  medical  or
+surgical  units  for ACS,  HF,  cardiac  surgery,  etc.,  and  thereafter
+discharged and referred to CR. Of course, strict rules should be
+established  for  these  referrals,  that  should  be  reserved  only  to
+infected  patients  after  COVID-19  swabs  are  negative  and  chest
+imaging recovered, and to those at higher risk, who need residential
+CR  for  stabilization  of  an  acute  coronary  event  and  for  whom
+immediate return at home may be dangerous. Of interest, while the
+acute  cardiovascular  complications  of  COVID-19  infection  are
+recognized, 
+term  consequences  on
+cardiovascular  recovery  after  an  acute  event  are  still  largely
+unknown. Coronavirus infection may largely affect cardiovascular
+and other systems, and these aspects may complicate the clinical
+handling and even the modalities of rehabilitative programs or drug
+strategies  in  these  patients. A  closer  link  with  other  specialists
+(mainly lung and thrombosis specialists) will allow to face up to
+these unprecedented clinical scenarios.
+
+its  medium 
+
+long 
+
+to 
+
+Another side of the coin is how to deal with patients, unlikely
+but possible, developing COVID-19 infection during residential CR.
+In  this  setting,  CR  Units  should  be  prepared  to  implement  all
+protections for health professionals, patients, contact and relatives,
+including isolating the infected, stopping rehabilitative program,
+and  to  make  difficult  choices  on  the  best  discharge  destination
+(home quarantine, cardiology or COVID wards,) depending from
+the more severe cardiologic or pneumologic clinical damage. 
+
+In summary, COVID-19 infection outbreak is having, and will
+likely have for a long period, a profound impact on CR organization
+and  provision  of  CR  programs.  Cardiology  and  Cardiac
+Rehabilitation scientific societies should be prepared to face this
+new challenge, particularly by re-educating cardiac patients to refer
+to  cardiologic  services  in  case  of  worsening  of  the  underlying
+
+disease,  and  reinforcing  the  need  of  maintaining  secondary
+prevention despite all difficulties, in order to reduce as much as
+possible the negative functional and prognostic impact of COVID-
+19 infection in cardiovascular patients. 
+
+References
+
+1. Huang  C,  Wang Y,  Li  X,  et  al.  Clinical  features  of  patients
+infected with 2019 novel coronavirus in Wuhan, China. Lancet
+2020;395:497-506.
+2. Italian  Association 
+
+for  Cardiovascular  Prevention  and
+Rehabilitation (AICPR). Survey on the impact of the Covid-19
+pandemic on the activities of the Cardiac Rehabilitation Centers
+in Italy. Available from: https://forms.office.com/Pages/Response
+Page.aspx?id=bID-cE2T2E2SHNVefPPPiHDQ81J5XqVOnn
+KORzuh9WdUMFNQQlVBTllBQlpYMUlRUTJBWUQ4WDk
+zWC4u
+
+3. Italian  Association 
+
+for  Cardiovascular  Prevention  and
+Rehabilitation (AICPR). [Raccomandazioni AICPR per le attività
+di cardiologia riabilitativa e preventiva nella fase di emergenza
+pandemica da COVID-19].[in Italian]. Available from: http://
+www.iacpr.it/uploaded_images/areacovid/RACCOMANDAZIO
+NI_AICPR_PER_LE_ATTIVITA_DI_CARDIOLOGIA.pdf 
+4. European Society of Cardiology [Internet]. Recommendations on
+how  to  provide  cardiac  rehabilitation  activities  during  the
+COVID-19 pandemic. Released by: Secondary Prevention and
+Rehabilitation Section of the European Association of Preventive
+Cardiology  (EAPC),  April  7,  2020.  Available  from:  https://
+www.escardio.org/Education/Practice-Tools/CVD-prevention-
+toolbox/recommendations-on-how-to-provide-cardiac-rehabi
+litation-activities-during-the-c 
+
+[page 206]                                           [Monaldi Archives for Chest Disease 2020; 90:1315]                          
+
+Non-commercial use only

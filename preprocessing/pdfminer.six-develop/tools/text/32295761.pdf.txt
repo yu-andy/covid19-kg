@@ -1,0 +1,234 @@
+Early release, published at www.cmaj.ca on April 15, 2020. Subject to revision.
+ 
+
+COMMENTARY     MENTAL HEALTH
+
+Mitigating the psychological effects of COVID-19 
+on health care workers
+
+Peter E. Wu MD MSc, Rima Styra MD MEd, Wayne L. Gold MD
+
+n Cite as: CMAJ 2020. doi: 10.1503/cmaj.200519; early-released April 15, 2020
+
+A lthough  tremendous  efforts  are  being  made  to  investi-
+
+gate  the  pathophysiology,  clinical  outcomes  and  treat-
+ment  of  coronavirus  disease  2019  (COVID-19),  the  psy-
+chological  effects  of  this  pandemic  on  health  care  workers 
+cannot be overlooked. 
+
+Experience from the 2003 severe acute respiratory syndrome 
+(SARS) outbreak and early reports related to COVID-19 show that 
+health care workers experience considerable anxiety, stress and 
+fear.1,2 The psychological effects related to the current pandemic 
+are  driven  by  many  factors,  including  uncertainty  about  the 
+duration of the crisis, lack of proven therapies or a vaccine, and 
+potential shortages of health care resources, including personal 
+protective equipment. Health care workers are also distressed by 
+the effects of social distancing balanced against the desire to be 
+present  for  their  families,  and  the  possibility  of  personal  and 
+family  illness.  All  of  these  concerns  are  amplified  by  the  rapid 
+availability  of  information  and  misinformation  on  the  Internet 
+and social media.
+
+Health  care  workers  may  experience  psychological  distress 
+from  providing  direct  care  to  patients  with  COVID-19,  knowing 
+someone  who  has  contracted  or  died  of  the  disease,  or  being 
+required to undergo quarantine or isolation.1–3 Mitigation strate-
+gies  for  all  scenarios  are  vital  to  ensure  psychological  wellness 
+and in turn ensure a healthy and robust clinical workforce.
+
+Not  surprisingly,  providers  caring  for  patients  with  COVID-19 
+are among those at greatest risk of psychologic distress. A survey 
+of  1257  nurses  and  physicians  caring  for  patients  with  the  dis-
+ease in China found that these providers (41.5% of respondents) 
+had  significantly  more  depression,  anxiety,  insomnia  and  dis-
+tress  than  providers  who  did  not  care  directly  for  patients.1 
+Another  observational  study  of  180  health  care  workers  provid-
+ing  direct  care  for  patients  with  COVID-19  found  substantial 
+ levels of anxiety and stress that adversely influenced sleep qual-
+ity  and  self-efficacy.4  Importantly,  those  who  reported  a  strong 
+social support network had a lower degree of stress and anxiety, 
+and a higher level of self-efficacy.4 A qualitative study of medical 
+residents during the 2003 SARS outbreak in Toronto showed that 
+anxieties  around  personal  safety  and  risk  of  contagion  to  loved 
+ones  conflicted  with  their   professional  duty  to  care.5  This  high-
+lights the complexity of issues faced by health care workers and 
+
+KEY POINTS
+• Health care workers may experience considerable psychologic 
+distress as a result of the COVID-19 pandemic due to providing 
+direct patient care, vicarious trauma, quarantine or self-
+isolation.
+
+• Strong leadership with clear, honest and open communication
+
+is needed to offset fears and uncertainties.
+
+• Provision of adequate resources (e.g., medical supplies) and 
+
+mental health supports will bolster individual self-efficacy and 
+confidence.
+
+• Leveraging online technology will allow delivery of psychosocial 
+
+supports while preserving physical distancing.
+
+• Emphasizing the altruism of working in health care and serving 
+of the greater good will help health care workers to be reminded 
+of their purpose in a time of crisis.
+
+the  dissonance  they  are  required  to  reconcile.  Providers  not 
+directly  caring  for  patients  with  COVID-19  are  not  immune  to 
+ psychologic effects and may have vicarious trauma at levels simi-
+lar  to  the  general  public.6  It  has  been  postulated  that  this  may 
+relate to their concerns for patients with the disease, their at-risk 
+colleagues,6 and for themselves and their families.
+
+A letter to the editor of Psychiatry and Clinical Neurosciences7 
+and a qualitative study conducted in a teaching hospital during 
+the SARS outbreak8 described measures to mitigate the psycho-
+social impact on health care workers and identified themes that 
+commonly arose in other studies exploring this issue. Clear and 
+rapid  hospital  communication  was  helpful  to  address  the  reac-
+tions  of  health  care  workers  based  on  uncertainty  or  fear.8  Fre-
+quent  communication,  without  being  overly  reassuring,  was 
+identified as helpful.5,7,8 Leadership at the hospital level, infection 
+prevention  and  control  services,  and  other  supervising  bodies 
+need  to  be  transparent  and  flexible,  acknowledge  uncertainty 
+and provide clear evidence-based plans that will bolster workers’ 
+trust, confidence and self-efficacy. This includes direction about 
+hospital  processes  and  appropriate  provision  of  supplies  and 
+equipment, particularly in the face of potential shortages.2,5,7,8 
+
+Psychiatric support was offered to health care workers during 
+the SARS outbreak, at first informally and then through confidential 
+
+© 2020 Joule Inc. or its licensors 
+
+CMAJ 
+
+1
+
+All editorial matter in CMAJ represents the opinions of the authors and not necessarily those of the Can adian Medical Association or its subsidiaries.Box 1: Resources for support of health care workers
+•  Canadian Medical Association: Provincial Physician Health Program. 
+
+Available: www.cma.ca/provincial-physician-health-program
+•  Canadian Psychological Association: Psychology works for 
+COVID-19. Psychologists giving back to front line service 
+providers. Available: https://cpa.ca/corona-virus/psychservices/
+
+•  Canadian Medical Association: Maintaining your and your 
+
+family’s well-being during a pandemic. Available: www.cma.ca/
+maintaining-your-and-your-familys-well-being-during-pandemic
+
+telephone lines and drop-in centres.8 The current need for physical 
+distancing necessitates adjustments to these supportive interven-
+tions by leveraging today’s technology (e.g., online video and audio 
+capabilities). At the end of March 2020, mental health workers in 
+Ontario established free confidential services via online registration 
+for  health  care  workers  who  care  for  patients  with  COVID-19.9 
+ System-level  changes  (i.e.,  safe  hospital  policies  and  adequate 
+resource provision) are likely to have more far-reaching effects than 
+individual support, especially since capacity to counsel large num-
+bers  of  affected  health  care  workers  may  be  limited.  Box  1  lists 
+select resources for health care workers who are seeking psycho-
+logical support.
+
+A rapid review of existing evidence found that health care work-
+ers who are self-isolating or under quarantine report symptoms of 
+posttraumatic stress disorder, depression, stigmatization and fear 
+of  financial  loss.3  Failure  to  ensure  appropriate  support  could 
+result in underreporting of symptoms and increase the risk of in-
+hospital  transmission  from  those  who  work  while  sick  against 
+advice. A strong social support network can offset feelings of isola-
+tion.3  Video  calls  and  virtual  meetings  allow  for  maintenance  of 
+social relations while preserving physical distancing. Other miti-
+gating interventions include delivery of general and medical sup-
+plies,  limiting  isolation  to  the  shortest  duration  necessary,  and 
+emphasizing that altruism and serving of the greater good are core 
+values  of  the  profession.3  Medical  students  across  Canada  are 
+showing altruism as they offer their services (e.g., running errands, 
+delivering groceries and providing child care) to health care work-
+ers in need,10 as well as volunteering to assist with contact trac-
+ing.11 All these interventions can reduce the effect of quarantine or 
+isolation and help to preserve wellness and fitness in health care 
+workers so that they can return to work when able.
+
+Supporting health care workers in all aspects is vital to sustain-
+ing a healthy workforce during the pandemic in Canada. Taking care 
+of ourselves is vital so that we may continue to take care of others.
+
+References
+  1.  Lai  J,  Ma  S,  Wang  Y,  et  al.  Factors  associated  with  mental  health  outcomes 
+among health care workers exposed to coronavirus disease 2019. JAMA Netw 
+Open 2020;3:e203976.
+
+  2.  Styra R, Hawryluck L, Robinson S, et al. Impact on health care workers employed 
+in  high-risk  areas  during  the  Toronto  SARS  outbreak.  J  Psychosom  Res 
+2008;64:177-83.
+
+  3.  Brooks SK, Webster RK, Smith LE, et al. The psychological impact of quarantine 
+and how to reduce it: rapid review of the evidence. Lancet 2020; 395:912-20.
+
+  4.  Xiao H, Zhang Y, Kong D, et al. The effects of social support on sleep quality of 
+medical  staff  treating  patients  with  coronavirus  disease  2019  (COVID-19)  in 
+January and February 2020 in China. Med Sci Monit 2020;26:e923549.
+
+  5.  Rambaldini G, Wilson K, Rath D, et al. The impact of severe acute respiratory 
+syndrome on medical house staff: a qualitative study. J Gen Intern Med 2005;20: 
+381-5.
+
+  6.  Li Z, Ge J, Yang M, et al. Vicarious traumatization in the general public, members, 
+and  non-members  of  medical  teams  aiding  in  COVID-19  control.  Brain Behav 
+Immun 2020 Mar. 10;pii:S0889-1591(20)30309-3.
+
+  7. 
+
+Imai H. Trust is a key factor in the willingness of health professionals to work 
+during the COVID-19 outbreak: experience from the H1N1 pandemic in Japan 
+2009 [letter]. Psychiatry Clin Neurosci 2020 Feb. 27. [Epub ahead of print]. doi: 
+10.1111/pcn.12995.
+
+  8.  Maunder R, Hunter J, Vincent L, et al. The immediate psychological and occu-
+pational  impact  of  the  2003  SARS  outbreak  in  a  teaching  hospital.  CMAJ 
+2003;168:1245-51.
+
+  9.  King  A.  Hundreds  of  mental  health  workers  offer  free  therapy  to  Ontario’s 
+frontline COVID-19 staff. CBC News 2020 Mar. 26. Available: www.cbc.ca/news/
+canada/toronto/free-therapy-covid-19-health-workers-1.5510435  (accessed 
+2020 Apr. 6).
+
+10.  Vendeville G. As COVID-19 battle escalates, U of T students offer busy health-
+care  workers  help  on  the  home  front.  U  of  T  News  2020  Mar.  19.  Available:  
+https://uoft.me/5f0 (accessed 2020 Apr. 6).
+
+11.  Edwardson  L.  University  of  Calgary  medical  students  quadruple  province’s 
+COVID-19  contact-tracing  capacity.  CBC  News  2020  Mar.  25.  Available:  www.
+cbc.ca/news/canada/calgary/u-of-c-covid-19-contact-tracing-1.5509022?__vfz 
+=medium%3Dsharebar (accessed 2020 Apr. 6).
+
+Competing interests: None declared.
+
+This article has not been peer reviewed. 
+
+Affiliations: Division of General Internal Medicine (Wu, Gold), Divi-
+sion  of  Infectious  Diseases  (Gold)  and  Department  of  Psychiatry 
+(Styra),  University  Health  Network;  Department  of  Medicine  (Wu, 
+Gold) and Department of Psychiatry (Styra), University of Toronto, 
+Toronto, Ont. 
+
+Contributors: Peter Wu wrote the original draft of the manuscript. 
+All of the authors contributed to the conception of the work, curated 
+the data, critically revised the manuscript for important intellectual 
+content,  gave  final  approval  of  the  version  to  be  published  and 
+agreed to be accountable for all aspects of the work.  
+
+Correspondence to: Peter Wu, peter.wu@uhn.ca
+
+2 
+
+CMAJ 
+
+COMMENTARY

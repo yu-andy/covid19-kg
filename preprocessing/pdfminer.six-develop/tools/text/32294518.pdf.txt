@@ -1,0 +1,54 @@
+Journal Pre-proof
+
+A COMPREHENSIVE ANALYSIS OF GENOME COMPOSITION AND
+CODON USAGE PATTERNS OF EMERGING CORONAVIRUSES
+
+Fernando L. Tort (Visualization) (Investigation) (Data curation),
+Mat´ıas Castells (Visualization) (Investigation) (Data curation), Juan
+Cristina (Conceptualization) (Methodology) (Data curation) (Writing
+- review and editing)
+
+PII:
+
+DOI:
+
+S0168-1702(20)30168-4
+
+https://doi.org/10.1016/j.virusres.2020.197976
+
+Reference:
+
+VIRUS 197976
+
+To appear in:
+
+Virus Research
+
+Received Date:
+
+29 February 2020
+
+Revised Date:
+
+8 April 2020
+
+Accepted Date:
+
+8 April 2020
+
+Please cite this article as: Tort FL, Castells M, Cristina J, A COMPREHENSIVE ANALYSIS
+OF GENOME COMPOSITION AND CODON USAGE PATTERNS OF EMERGING
+CORONAVIRUSES, Virus Research (2020),
+doi: https://doi.org/10.1016/j.virusres.2020.197976
+
+This is a PDF ﬁle of an article that has undergone enhancements after acceptance, such as
+the addition of a cover page and metadata, and formatting for readability, but it is not yet the
+deﬁnitive version of record. This version will undergo additional copyediting, typesetting and
+review before it is published in its ﬁnal form, but we are providing this version to give early
+visibility of the article. Please note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal
+pertain.
+
+© 2020 Published by Elsevier.
+
+

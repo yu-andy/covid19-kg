@@ -1,0 +1,230 @@
+Structured thoracic computed tomography 
+report for COVID-19 pandemic
+Relatório estruturado de tomografia computadorizada de  
+tórax para a pandemia do COVID-19
+
+Hamilton Shoji1, Eduardo Kaiser Ururahy Nunes Fonseca1, Gustavo Borges da Silva Teles1,  
+Rodrigo Bastos Duarte Passos1, Elaine Yanata1, Murilo Marques Almeida Silva1,  
+Marcelo Buarque de Gusmão Funari1, Roberto Sasdelli Neto1, Walther Yoshiharu Ishikawa1, 
+Rodrigo Caruso Chate1, Gilberto Szarf1
+
+1 Hospital Israelita Albert Einstein, São Paulo, SP, Brazil.
+
+DOI: 10.31744/einstein_journal/2020ED5720
+
+By  the  end  of  2019,  a  novel  coronavirus  (severe  acute  respiratory  syndrome 
+coronavirus  2  or  SARS-CoV-2)  was  identified  as  the  etiologic  agent  of  an 
+outbreak  of  pneumonia  in  the  city  of  Wuhan,  province  of  Hubei,  in  China. 
+The virus had a rapid dissemination, with person-to-person transmission and 
+cases soon identified throughout the world. The disease was called COVID-19 
+(coronavirus disease 2019), with several new outbreaks related to community 
+transmission. It is now classified as pandemic.(1-4)
+
+We have observed an increase in requests of chest computed tomography 
+(CT)  since  the  first  records  of  cases  in  Brazil;  therefore,  in  a  near  future, 
+the  current  installed  capacity  of  the  system  to  analyze  and  produce  the  CT 
+reports may be exceeded. It is crucial to highlight that the definite diagnosis 
+of COVID-19 is made by real-time polymerase chain reaction (RT-PCR), and 
+a normal (negative) chest CT does not rule out diagnosis. However, currently, 
+the  RT-PCR  result  has  taken  longer  than  CT  reports  to  be  available,  so  CT 
+has  taken  an  important  role  in  a  comprehensive  assessment  of  patients,  for 
+demonstrating  high  sensitivity  (although  low  specificity),  to  detect  the  most 
+frequent pulmonary findings of the disease.
+
+In  this  high  demand  urgency  context  to  provide  results,  it  is  advisable 
+that  the  content  of  the  radiological  report  be  very  objective  and  as  clear  as 
+possible  for  the  requesting  physicians  from  the  emergency  department.  The 
+most relevant pieces of information to be conveyed are presence (or not) of 
+pulmonary involvement, if the findings are compatible with infectious process, 
+and, in positive cases, if the changes are suggestive of viral etiology, particularly 
+COVID-19,  even  if  there  is  overlapping  of  findings  with  other  infectious 
+diseases (including other viruses). We also included an approximate estimate 
+of  extent  of  pulmonary  involvement  by  the  disease  (visual  analysis),  which 
+has been considered useful by them in management of patients, together with 
+other clinical data and physical examination. In our Institution, involvement 
+of >50% of parenchyma(5) has been used as an additional criterion to decide 
+for hospitalization.
+
+In a structured report, we initially describe if there are pulmonary changes 
+or not, and if they are suggestive of a pulmonary infectious process. In case 
+
+1
+
+How to cite this article:
+Shoji H, Fonseca EK, Teles GB, Passos 
+RB, Yanata E, Silva MM, et al. Structured 
+thoracic computed tomography report for 
+COVID-19 pandemic. einstein (São Paulo). 
+2020;18:eED5720. http://dx.doi.org/10.31744/
+einstein_journal/2020ED5720
+
+Corresponding author:
+Eduardo Kaiser Ururahy Nunes Fonseca 
+Avenida Albert Einstein, 627/701 – Morumbi
+Zip code: 05652-900 – São Paulo, SP, Brazil
+Phone: (55 11) 2151-1233 
+E-mail: edukaiser_unf@hotmail.com
+
+Copyright 2020
+
+This content is licensed  
+under a Creative Commons  
+Attribution 4.0 International License.
+
+ISSN: 1679-4508 | e-ISSN: 2317-6385Official Publication of the Instituto Israelita  de Ensino e Pesquisa Albert EinsteinEDITORIALeinstein (São Paulo). 2020;18:1-3of  alterations,  if  the  features  are  in  accordance  or  not 
+with  the  more  typical  pattern  described  in  COVID-19: 
+including  ground-glass  opacities,  sometimes  with 
+superimposed  interlobular  septal  thickening  (crazy 
+paving),  consolidations  and  reversed  halo,  presenting 
+a  bilateral  multilobar  distribution,  predominantly 
+peripheral,  with  mild  predilection  for  the  posterior 
+regions  and  lower  lobes.(6-10)  In  these  cases,  we  have 
+highlighted  in  our  reports  that  “the  possibility  of 
+COVID-19  should  be  considered  in  the  differential 
+diagnoses”,  and  also  included  the  estimated  extent  of 
+parenchyma  involvement  (greater  or  lesser  than  50%).(5)  
+Figure 1 shows a case with typical imaging findings of 
+COVID-19 and the model of provided report.
+
+In  patients  with 
+
+findings  more 
+suggestive  of  other  type  of  infection  which  obviously 
+
+tomographic 
+
+must  not  be  neglected  amidst  the  pandemic,  we  have 
+described the changes and concluded as follows: “Such 
+findings  are  compatible  with  pulmonary  infectious 
+process, and its characteristics are not typically observed 
+in  cases  of  pulmonary  involvement  by  COVID-19; 
+other  etiologic  agents  should  be  initially  considered 
+in  the  differential  diagnosis.”  As  examples  of  changes 
+described  in  the  literature  as  uncommon  in  cases  of 
+COVID-19, which increase the probability of infection 
+by  other  agents,  we  underline  numerous  centrilobular 
+micronodules  with  tree-in-bud  pattern,  relatively  well-
+defined  solid  nodules,  cavities,  predominant  central 
+parenchyma involvement, mainly affecting the airways.(6-9)  
+Figure 2 displays an example of one of those cases and 
+its respective report, with final diagnosis of tuberculosis 
+after complete investigation.
+
+Figure 1. Computed tomography image of a confirmed case of COVID-19 with typical findings and its respective report
+
+Figure 2. Computed tomography images of a case with initial clinical suspicion of COVID-19 and its respective report, with tomographic findings suggestive of infectious 
+process, but with characteristics that are not usual in COVID-19. After performing ancillary investigations, the diagnosis was pulmonary tuberculosis
+
+2
+
+einstein (São Paulo). 2020;18:1-3Shoji H, Fonseca EK, Teles GB, Passos RB, Yanata E, Silva MM, Funari MB, Sasdelli Neto R, Ishikawa WY, Chate RC, Szarf GIn  the  subgroup  of  patients  with  no  tomographic 
+evidence of pulmonary infectious process, we clearly and 
+explicitly report the following phrase: “Absence of focal 
+pulmonary  opacities  suggestive  of  active  parenchymal 
+infectious process.”
+
+Next,  other  additional  relevant  findings  are  briefly 
+included,  emphasizing  the  presence  or  not  of  lymph 
+node enlargement, pleural effusion, as well as pulmonary 
+nodules, emphysema, chronic interstitial disease, aneurysms 
+and marked atheromatous disease.
+
+Developing structured reports in radiology, primarily 
+those  oriented  to  certain  diseases,  provides  several 
+benefits,  including  clarity  in  conveying  information  to 
+requesting physicians and use of a common terminology, 
+enabling all those involved to be familiar with specific 
+terms used for each disease. Moreover, this later enables 
+collecting  data  for  epidemiological  purposes,  quality 
+control  and  research.(11,12)  Other  advantages  comprise 
+increased radiologist productivy with less burden.(12)
+
+Implementing  a  structured  report  should  be 
+beneficial,  particularly  in  the  current  scenario  of 
+COVID-19  pandemic,  for  increasing  productivity  of 
+radiologists  and  enabling  better  understanding  of  the 
+requesting physicians, with a potential positive impact 
+in management of patients.(13)
+
+AUTHORS’ INFORMATION
+ 
+❚
+Shoji H: http://orcid.org/0000-0002-3701-4647
+Fonseca EK: http://orcid.org/0000-0002-0233-0041
+Teles GB: http://orcid.org/0000-0002-5405-5029
+Passos RB: http://orcid.org/0000-0003-2428-2287
+Yanata E: http://orcid.org/0000-0001-7493-2976
+Silva MM: http://orcid.org/0000-0003-3748-5649
+Funari MB: http://orcid.org/0000-0002-6369-3612
+Sasdelli Neto R: http://orcid.org/0000-0003-0337-9469
+Ishikawa WY: http://orcid.org/0000-0002-5909-5126
+Chate RC: http://orcid.org/0000-0002-4193-7647
+Szarf G: http://orcid.org/0000-0002-1941-7899
+
+REFERENCES
+ 
+❚
+1.  National Health Commission of the People’s Republic of China. New coronavirus 
+cases rise to 571 in Chinese mainland [Internet]. China: 2020 [cited 2020 Mar 
+16]. Available from: http://en.nhc.gov.cn/2020-01/23/c_76004.htm
+
+2.   World Health Organization (WHO). Novel Coronavirus – Republic of Korea (ex-
+China) [Internet]. Geneva: WHO; 2020 [cited 2020 Mar 16]. Available from: 
+https://www.who.int/csr/don/21-january-2020-novel-coronavirus-republic-of-
+korea-ex-china/en/ 
+
+3.   European  Centre  for  Disease  Prevention  and  Control  [ECDC].  Geographical 
+distribution of 2019-nCov cases. Situation update worldwide, as of 27 March 
+2020  [Internet].  ECDC;  2020  [cited  2020  Mar  16].  Available  from:  https://
+www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+
+4.   Centers for Disease Control and Prevention [CDC]. Coronavirus Disease 2019 
+(COVID-19).  Cases  in  U.S  [Internet].  USA:  CDC;  2020  [cited  2020  Mar  16]. 
+Available from: https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html 
+5.   Zhao  W,  Zhong  Z,  Xie  X,  Yu  Q,  Liu  J.  Relation  between  chest  CT  findings 
+and  clinical  conditions  of  coronavirus  disease  (COVID-19)  pneumonia:  a 
+multicenter  study.  AJR  Am  J  Roentgenol.  2020  Mar  3:1-6.  doi:  10.2214/
+AJR.20.22976. 
+
+6.   Bai HX, Hsieh B, Xiong Z, Halsey K, Choi WC, Tran TM, et al. Performance 
+of radiologists in differentiating COVID-19 from viral pneumonia on chest CT. 
+Radiology. 2020 Mar 10:200823. doi.org/10.1148/radiol.2020200823
+
+7.   Ng  MY,  Lee  EY,  Yang  J,  Yang  F,  Li  X,  Wang  H,  et  al.  Imaging  profile  of  the 
+covid-19 infection: radiologic findings and literature review. Radiol Cardiothorac 
+Imaging. 2020;2(1):e200034.
+
+8.   Chung  M,  Bernheim  A,  Mei  X,  Zhang  N,  Huang  M,  Zeng  X,  et  al.  CT 
+Imaging  Features  of  2019  Novel  coronavirus  (2019-nCoV).  Radiology. 
+2020;295(1):202-7.
+
+9.   Kong  W,  Agarwal  PP.  Chest  Imaging  Appearance  of  COVID-19  Infection. 
+
+Radiol Cardiothorac Imaging. 2020;2(1):e200028.
+
+10.  Rodriguez-Morales AJ, Cardona-Ospina JA, Gutiérrez-Ocampo E, Villamizar-
+Peña R, Holguin-Rivera Y, Escalera-Antezana JP, Alvarado-Arnez LE, Bonilla-
+Aldana DK, Franco-Paredes C, Henao-Martinez AF, Paniz-Mondolfi A, Lagos-
+Grisales GJ, Ramírez-Vallejo E, Suárez JÁ, Zambrano LI, Villamil-Gómez WE, 
+Balbin-Ramon  GJ,  Rabaan  AA,  Harapan  H,  Dhama  K,  Nishiura  H,  Kataoka 
+H,  Ahmad  T,  Sah  R;  Latin  American  Network  of  Coronavirus  Disease 
+2019-COVID-19  Research  (LANCOVID-19).  Electronic  address:  https:  //
+www.lancovid.org.  Clinical,  laboratory  and  imaging  features  of  COVID-19: 
+a  systematic  review  and  meta-analysis.  Travel  Med  Infect  Dis.  2020  Mar 
+13:101623. Review. doi: 10.1016/j.tmaid.2020.101623. 
+
+11.  Noumeir  R.  Benefits  of  the  DICOM  structured  report.  J  Digit  Imaging. 
+
+2006;19(4):295-306.
+
+12.  Ganeshan D, Duong PT, Probyn L, Lenchik L, McArthur TA, Retrouvey M, et al. 
+Structured Reporting in Radiology. Acad Radiol. 2018;25(1):66-73. Review.
+13.  Simpson  S,  Kay  FU,  Abbara  S,  Bhalla  S,  Chung  JH,  Chung  M,  Henry  TS,  et 
+al.  Radiological  Society  of  North  America  Expert  Consensus  Statement  on 
+Reporting Chest CT Findings Related to COVID-19. Endorsed by the Society of 
+Thoracic  Radiology,  the  American  College  of  Radiology,  and  RSNA.  Radiology: 
+Cardiothoracic Imaging. 2020;2:2:1-24. https://doi.org/10.1148/ryct.2020200152
+
+3
+
+einstein (São Paulo). 2020;18:1-3Structured thoracic computed tomography report for COVID-19 pandemic 

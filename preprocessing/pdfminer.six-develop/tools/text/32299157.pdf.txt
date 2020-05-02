@@ -1,0 +1,1456 @@
+행동변화를 고려한 코로나바이러스감염증-19 수리모델링 및 감염 전파 양상 예측 
+
+Prediction of COVID19 transmission dynamics using mathematical model considering 
+
+behavior changes 
+
+Soyoung Kim1, Yu Bin Seo2, Eunok Jung1 
+
+1 Department of mathematics, Konkuk University, Seoul, Republic of Korea 
+
+2 Division of Infectious Diseases, Department of Internal Medicine, Hallym University College of 
+
+Medicine, Chuncheon, Republic of Korea 
+
+Author details 
+
+Soyoung Kim  
+
+soykim211@gmail.com 
+
+ORCID 0000-0003-4918-1087 
+
+Yu Bin Seo  
+
+yubinseo@gmail.com 
+
+ORCID 0000-0001-5183-1996 
+
+Eunok Jung 
+
+junge@konkuk.ac.kr 
+
+ORCID 0000-0002-7411-3134 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department of mathematics, Konkuk University, Seoul, Republic of Korea  
+
+Division  of  Infectious  Diseases,  Department  of  Internal  Medicine,  Hallym  University  College  of 
+
+Medicine, Chuncheon, Republic of Korea 
+
+Department of mathematics, Konkuk University, Seoul, Republic of Korea  
+
+Prediction of COVID19 transmission dynamics 
+
+Running title 
+
+Funding Sources 
+
+Project, Ministry of Health & Welfare 
+
+ 
+
+Korea  National  Research  Foundation  (NRF),  Konkuk  University,  Korean  Health  Technology  R&D 
+
+Epub ahead of printDepartment of mathematics, Konkuk University 
+
+120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea  
+
+Corresponding author 
+
+Eunok Jung  
+
+junge@konkuk.ac.kr 
+
++82-10-9973-4163 
+
+ 
+
+Epub ahead of print1 
+
+2 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+Prediction  of  COVID-19  transmission  dynamics  using  a  mathematical  model  considering 
+
+behavior changes 
+
+3 
+
+ 
+
+Abstract 
+
+Objectives:  Since  the  report  of  the  first  confirmed  case  in  Daegu  on  February  18,  2020,  local 
+
+transmission  of  COVID-19  in  the  Republic  of  Korea  has  continued.  In  this  study,  we  aimed  to 
+
+identify the pattern of  local transmission of COVID-19 using mathematical modeling and predict 
+
+the epidemic size and the timing of the end of the spread.  
+
+Methods:  We  modeled  the  COVID-19  outbreak  in  the  Republic  of  Korea  by  applying  a 
+
+mathematical  model  of  transmission  that  factors  in  behavioral  changes.  We  used  the  Korea 
+
+Centers  for  Disease  Control  and  Prevention  data  of  daily  confirmed  cases  in  the  country  to 
+
+estimate  the  nationwide  and  Daegu/Gyeongbuk  area-specific  transmission  rates  as  well  as 
+
+behavioral change parameters using a least-squares method. 
+
+Results:  The  number  of  transmissions  per  infected  patient  was  estimated  to  be  about  10  times 
+
+higher  in  the  Daegu/Gyeongbuk  area  than  the  average  of  nationwide.  Using  these  estimated 
+
+parameters, our models predicts that about 13,800 cases will occur nationwide and 11,400 cases 
+
+in the Daegu/Gyeongbuk area until mid-June. 
+
+Conclusion:  We  mathematically  demonstrate  that  the  relatively  high  per-capita  rate  of 
+
+transmission  and  the  low  rate  of  changes  in  behavior  have  caused  a  large-scale  transmission  of 
+
+COVID-19 in the Daegu/Gyeongbuk area in the Republic of Korea. Since the outbreak is expected 
+
+to continue until May, nonpharmaceutical interventions that can be sustained over the long term 
+
+are required.  
+
+23 
+
+Keywords 
+
+24 
+
+COVID-19, Mathematical modeling, Behavior changes, Parameter estimation, Model prediction 
+
+25 
+
+ 
+
+ 
+
+ 
+
+1 
+
+Epub ahead of print26 
+
+Introduction 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+37 
+
+38 
+
+39 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+48 
+
+In  December  2019,  a  case  of  pneumonia  of  unknown  cause  occurred  in  Wuhan  City,  China  and 
+
+was identified as a novel coronavirus infection in January 2020. Originating from Wuhan City, the 
+
+virus  then  spread  to  every  region  in  China.  Since  the  report  of  the  first  confirmed  case  outside 
+
+China  in  Thailand  on  January  13,  the  virus  has  been  spreading  worldwide.  On  January  30,  the 
+
+World  Health  Organization  (WHO)  declared  the  outbreak  a  public  health  emergency  of 
+
+international concern (1). According to the WHO situation reports No. 48, a total of 53 countries 
+
+so  far,  including  the  Republic  of  Korea,  Italy,  and  Japan  are  showing  community  transmission; 
+
+there have been 80,859 confirmed cases in China and 24,727 confirmed cases outside of China as 
+
+of March 8, 2020 (2).  
+
+In  the  Republic  of  Korea,  after  the  first  confirmed  case  of  COVID-19  on  January  20,  2020,  the 
+
+epidemic has continued to spread. Prior to February 18, most confirmed cases were imported or a 
+
+result  of  transmission  via  close  contact  with  a  confirmed  patient,  but  since  February  18,  local 
+
+transmission  has  led  to  a  spread  throughout  the  entire  nation  following  outbreaks  in  religious 
+
+communities  and  social  welfare  facilities.  On  February  23,  the  Korea  Centers  for  Disease  Control 
+
+and  Prevention  (KCDC)  raised  the  infectious  disease  alert  level  to  “red,”  the  highest  level,  and 
+
+declared that it would implement a  containment policy  including patient detection  and  isolation 
+
+along  with  strategies  to  prevent  and  minimize  local  transmission  (3).  The  government  is  actively 
+
+intervening  by  tracking  and  controlling  those  who  have  been  in  close  contact  and  conducting 
+
+disease  prevention  activities,  while  the  public  is  making  efforts  to  prevent  the  transmission 
+
+through  social  distancing  and  improvements  in  personal  hygiene.  Figure  1  shows  the  infectious 
+
+disease  alert  level  and  nonpharmaceutical  interventions  set  in  place  by  the  government  from 
+
+February 18 to March 10. 
+
+49 
+
+50 
+
+ 
+
+Figure 1 Timeline of COVID-19 epidemic 
+
+2 
+
+ 
+
+Epub ahead of print51 
+
+ 
+
+52 
+
+53 
+
+54 
+
+55 
+
+56 
+
+57 
+
+58 
+
+59 
+
+60 
+
+61 
+
+62 
+
+63 
+
+64 
+
+68 
+
+69 
+
+70 
+
+71 
+
+72 
+
+73 
+
+74 
+
+75 
+
+76 
+
+77 
+
+78 
+
+79 
+
+80 
+
+81 
+
+ 
+
+ 
+
+We applied a mathematical model that factors in the behavioral changes  that were implemented 
+
+in the population since local transmission began on February 18 to estimate the transmission rate. 
+
+The  model  predicts  the  final  size  and  the  timing  of  the  end  of  the  epidemic  as  well  as  the 
+
+maximum  number  of  isolated  individuals.  While  the  number  of  confirmed  cases  continues  to 
+
+increase nationwide, the number of cases in the Daegu/Gyeongbuk area accounts for about 90% 
+
+of  all  cases  in  the  Republic  of  Korea,  and  the  incidence  rate  per  100,000  population  in  the 
+
+Daegu/Gyeongbuk area, at 132.96 cases on average (Daegu 232.42, Gyeongbuk 41.95), is at least 
+
+nine times higher than the national average of 14.49 (as of March 10, 2020) (4). Our mathematical 
+
+transmission  model, 
+
+therefore,  discriminates  between 
+
+the  national 
+
+level  and 
+
+the 
+
+Daegu/Gyeongbuk  area.  We,  thus,  analyzed  the  pattern  of  COVID-19  local  transmission  in  the 
+
+Republic  of  Korea  by  mathematical  modeling  and  simulations  and  estimated  the  relative  risk  by 
+
+comparing  epidemiological  parameters  between  the  national  level  and  the  Daegu/Gyeongbuk 
+
+area. 
+
+65 
+
+ 
+
+67 
+
+Data 
+
+66 
+
+Materials and methods 
+
+We  used  the  data  from  the  KCDC  daily  press  releases  (5)  and  the  daily  confirmed  cases  from 
+
+February 18, when the 31st case was confirmed, to March 10. The daily case data from February 
+
+18 to March 1 were updated at 9:00 am, while from March 2, data were updated at 0:00 am. We 
+
+calculated the number of cases by region based on the initially reported cases. As an estimate of 
+
+the total population, we used the resident registration data as of February, 2020, provided by the 
+
+Korean Statistical Information Service (KOSIS) (6).  
+
+Mathematical model 
+
+We constructed a mathematical model of COVID-19 transmission based on the SEIR model with a 
+
+hospital-quarantined group. A behavior-changed group, strives to reduce the transmission rate by 
+
+social distancing and other measures, is also considered in this work. For the behavioral changes 
+
+of  the  susceptible  group,  we  modified  the  model  of  prevalence-based  behavioral  change 
+
+proposed  by  Perra  et  al.  (global,  prevalence-based  spread  of  the  fear  of  the  disease)  to  fit  the 
+
+situation  in  the  Republic  of  Korea  (7).  The  total  population  ( 𝑁 )  consists  of  susceptible  ( 𝑆 ), 
+
+3 
+
+Epub ahead of printbehavior-changed susceptible  (𝑆𝐹),  virus-exposed  (𝐸), infectious  (𝐼), hospital-quarantined  (𝑄),  and 
+
+recovered (𝑅) individuals. Figure 2 shows the flow diagram of COVID-19 transmission according to 
+
+our model.  
+
+ Figure 2 Flow diagram of COVID19 transmission dynamics 
+
+ 
+
+As the number of confirmed cases  increases, the susceptible population moves to the behavior-
+
+changed susceptible group as people strive to improve personal hygiene, for example by wearing 
+
+a  mask,  and  practice  social  distancing,  for  example  by  refraining  from  mass  gatherings  or 
+
+meetings, in awareness or fear of the spread of  the virus. Both the normal susceptible group (𝑆) 
+
+that  did  not  implement  any  changes  in  behavior  as  well  as  the  behavior-changed  susceptible 
+
+group  (𝑆𝐹)  can  be  exposed  to  the  virus  via  contact  with  infected  patients,  but  we  assumed  that 
+
+the probability of transmission is decreased in the behavior-changed susceptible group.  
+
+Individuals who were exposed to the virus via contact with infectious patients move to the virus-
+
+exposed  group  (𝐸)  and  develop  symptoms  (𝐼)  after  the  virus  incubation  period.  After  symptoms 
+
+onset, infectious  individuals (𝐼) visit the hospital, become confirmed and  quarantined  (𝑄). Finally, 
+
+they  move  to  the  recovered  group  (𝑅)  after  a  recovery  period.  In  this  study,  we  assumed  that 
+
+individuals  are  hospital  quarantined  after  a  confirmation  and,  thus,  cannot  infect  others.  Our 
+
+mathematical  model  of  COVID-19  transmission  can  be  described  with  the  following  differential 
+
+100 
+
+101 
+
+102 
+
+ 
+
+equations: 
+
+𝑑𝑆
+𝑑𝑡
+𝑑𝑆𝐹
+𝑑𝑡
+
+𝑑𝐸
+𝑑𝑡
+
+𝐼
+𝑁
+
+𝐼
+𝑁
+
+= −𝛽
+
+𝑆 − 𝛽𝐹(1 − 𝑒−𝜏𝑄)𝑆, 
+
+= 𝛽𝐹(1 − 𝑒−𝜏𝑄)𝑆 − 𝛿𝛽
+
+𝑆𝐹, 
+
+𝐼
+𝑁
+
+= 𝛽
+
+𝑆 + 𝛿𝛽
+
+𝑆𝐹 − 𝜅𝐸, 
+
+𝐼
+𝑁
+
+4 
+
+82 
+
+83 
+
+84 
+
+85 
+
+86 
+
+87 
+
+88 
+
+89 
+
+90 
+
+91 
+
+92 
+
+93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+98 
+
+99 
+
+ 
+
+ 
+
+Epub ahead of print𝑑𝐼
+𝑑𝑡
+
+𝑑𝑄
+𝑑𝑡
+
+= 𝜅𝐸 − 𝛼𝐼, 
+
+= 𝛼𝐼 − 𝛾𝑄, 
+
+𝑑𝑅
+𝑑𝑡
+
+= 𝛾𝑄, 
+
+𝑁 = 𝑆 + 𝑆𝐹 + 𝐸 + 𝐼 + 𝑄 + 𝑅. 
+
+103 
+
+104 
+
+105 
+
+106 
+
+107 
+
+108 
+
+109 
+
+112 
+
+113 
+
+114 
+
+115 
+
+116 
+
+110 
+
+ 
+
+111 
+
+Results 
+
+We set the incubation period of the virus to 4.1 days, referring to the KCDC regular briefing on 
+
+February 16 (8), and the mean period from symptom onset to confirm and isolation to 4 days (9). 
+
+Period  from  isolation  to  recovery  was  set  to  14  days,  which  was  the  mean  of  16  discharged 
+
+patients  according  to  the  detailed  information  on  confirmed  cases  reported  until  February  19. 
+
+Mortality was not included in the present model as it was difficult to calculate the exact value at 
+
+this  point.  Table  1  shows  the  description  and  values  of  the  parameters  used  in  the  model.  To 
+
+define the initial value of the model, we used the 31st case confirmed on February 18 as 𝑄(0). 
+
+To estimate the transmission rate and the rate of individuals moving from the susceptible to the 
+
+behavior-changed susceptible group, we used a least-squares fitting method that minimizes the 
+
+sum of the squares of the differences between the cumulative cases data and the model curve. 
+
+The estimated values for all parameters, for the Daegu/Gyeongbuk area and nationwide, are 
+
+presented in Table 1. Table 1 Parameter description and values 
+
+Symbol 
+
+Description 
+
+Daegu, 
+
+Reference 
+
+Value 
+
+Nationwide 
+
+Gyeongbuk 
+
+Transmission rate of COVID-19 disease 
+
+7.0591 
+
+6.1841 
+
+Data-fitted 
+
+4.8106 
+
+4.0850 
+
+Data-fitted 
+
+𝛽 
+
+𝛽𝐹 
+
+1/𝜏 
+
+𝛿 
+
+𝜅 
+
+𝛼 
+
+𝛾 
+
+ 
+
+Transmission rate of the awareness/fear of the 
+
+disease 
+
+Characteristic number of confirmed individuals 
+
+reported in the news 
+
+Transmission reduction ratio of behavior-
+
+changed individuals 
+
+Progression rate 
+
+Isolation rate 
+
+Recovery rate 
+
+5 
+
+1000 
+
+Assumed 
+
+0.02 
+
+1/4.1 
+
+1/4 
+
+1/14 
+
+Assumed 
+
+(8) 
+
+(9) 
+
+(5) 
+
+Epub ahead of print117 
+
+ 
+
+118 
+
+119 
+
+120 
+
+121 
+
+122 
+
+123 
+
+ 
+
+Figure 3 shows the nationwide  (left) and Daegu/Gyeongbuk (right) confirmed cases data  (circle) 
+
+from  February  18  to  March  10  together  with  the  model  estimation  (solid  curve).  The  top  two 
+
+graphs show the number of cumulative confirmed cases and the bottom two show the number of 
+
+new confirmed cases per day. 
+
+ 
+
+124 
+
+Table 1 Parameter description and values 
+
+Symbol 
+
+Description 
+
+Daegu, 
+
+Reference 
+
+Value 
+
+Nationwide 
+
+Gyeongbuk 
+
+Transmission rate of COVID-19 disease 
+
+7.0591 
+
+6.1841 
+
+Data-fitted 
+
+4.8106 
+
+4.0850 
+
+Data-fitted 
+
+𝛽 
+
+𝛽𝐹 
+
+1/𝜏 
+
+𝛿 
+
+𝜅 
+
+𝛼 
+
+𝛾 
+
+ 
+
+Transmission rate of the awareness/fear of the 
+
+disease 
+
+Characteristic number of confirmed individuals 
+
+reported in the news 
+
+Transmission reduction ratio of behavior-
+
+changed individuals 
+
+Progression rate 
+
+Isolation rate 
+
+Recovery rate 
+
+6 
+
+1000 
+
+Assumed 
+
+0.02 
+
+1/4.1 
+
+1/4 
+
+1/14 
+
+Assumed 
+
+(8) 
+
+(9) 
+
+(5) 
+
+Epub ahead of print125 
+
+ 
+
+128 
+
+ 
+
+126 
+
+129 
+
+130 
+
+131 
+
+132 
+
+133 
+134 
+
+135 
+
+136 
+
+137 
+
+ 
+
+ 
+
+127 
+
+Figure 3 Data fitting results 
+
+ 
+
+We predicted the timing of the end of the COVID-19 outbreak and the total number of confirmed 
+
+patients using the estimated parameters described above and obtained the following results. The 
+
+end point of the COVID-19 outbreak is defined as a date that the number of expected daily new 
+
+case is less than 1. The graph on the left in  
+
+Figure 4 shows the number of cumulative confirmed cases over time, while the graph on the right 
+
+shows  the  number  of  isolated  patients  over  time.  The  predicted  values  of  nationwide  cases  are 
+
+represented by the black solid line and the Daegu/Gyeongbuk cases by the red dashed line.  
+
+7 
+
+Epub ahead of printFigure 4 Model prediction using estimated parameters 
+
+According  to  the  model,  approximately  13,800  cases  are  expected  to  occur  nationwide,  and  the 
+
+date of the  last  confirmed case  will be June 14.  In the Daegu/Gyeongbuk region, approximately 
+
+11,400 cases are expected to occur until May 27. The proportion of Daegu/Gyeongbuk cases by 
+
+the  end  of  the  outbreak  is  estimated  at  82.70%.  The  number  of  cumulative  cases  per  100,000 
+
+people  is  predicted  to  be  26.68  nationwide  and  224.64  in  the  Daegu/Gyeongbuk  area.  The 
+
+number  of  isolated  patients,  both  nationwide  and  in  Daegu/Gyeongbuk,  will  peak  on  March  11 
+
+and then start to decrease. The maximum number of isolated individuals predicted by the model 
+
+is 4,656 nationwide, of which 4,167 are predicted to be located in the Daegu/Gyeongbuk area.  
+
+149 
+
+ 
+
+150 
+
+Table 2 Model predictions 
+
+Maximum 
+
+number of 
+
+isolated 
+
+individuals 
+
+Peak of 
+
+isolated 
+
+individuals 
+
+Final size of 
+
+epidemic 
+
+Final incidence 
+
+rate per 
+
+100,000 
+
+End of 
+
+outbreak 
+
+Nationwide 
+
+4,625 
+
+March 11, 2020 
+
+13,830* 
+
+26.49 
+
+June 14, 2020 
+
+4,167 
+
+March 11, 2020 
+
+11,438* 
+
+224.64 
+
+May 27, 2020 
+
+151 
+
+* Except 30 cases before February 18, 2020 
+
+Assuming  that  the  period  from  symptom  onset  to  isolation  is  identical  for  the  cases  in  the 
+
+Daegu/Gyeongbuk area and those occurring nationwide, our model estimates the per-capita rate 
+
+of transmission (𝛽/𝑁) to be at least 8.9 times higher in the Daegu/Gyeongbuk area, with 1.3616e-
+
+7 per infected patient nationwide and 1.2145e-6 around Daegu/Gyeongbuk. The transmission rate 
+
+8 
+
+140 
+
+ 
+
+138 
+139 
+
+141 
+
+142 
+
+143 
+
+144 
+
+145 
+
+146 
+
+147 
+
+148 
+
+Region 
+
+Daegu/Gye
+
+ongbuk 
+
+152 
+
+ 
+
+153 
+
+Discussion 
+
+154 
+
+155 
+
+156 
+
+157 
+
+ 
+
+Epub ahead of print158 
+
+159 
+
+160 
+
+161 
+
+162 
+
+163 
+
+164 
+
+165 
+
+166 
+
+167 
+
+168 
+
+169 
+
+170 
+
+171 
+
+172 
+
+173 
+
+174 
+
+175 
+
+176 
+
+177 
+
+178 
+
+179 
+
+180 
+
+183 
+
+184 
+
+185 
+
+186 
+
+187 
+
+of  the  behavioral  changes  implemented  in  the  Daegu/Gyeongbuk  area  is  also  estimated  to  be 
+
+lower than that of the national average.  
+
+In  the  early  stages  of  the  outbreak,  the  period  from  symptom  onset  to  isolation  was  at  least  5 
+
+days,  but  recently,  most  patients  are  confirmed  and  isolated  within  1-2  days  of  symptom  onset 
+
+due to the active screening of close contacts by the KCDC. However, as there are still reports of 
+
+cases of transmission after more than 5 days from symptom onset, we set the mean period from 
+
+onset to isolation to 4 days in our model. The rate of reduction in transmission  in the behavior-
+
+changed group significantly affects the model results. Since the rate of reduction in transmission 
+
+that results from the currently implemented social distancing policies has never been studied, we 
+
+factored  in  the  number  of  people  working  at  home  and  the  delayed  start  of  classes  and 
+
+concluded  that  the  transmission  rate  will  decrease  by  about  1/50  or  more.  In  our  model,  a 
+
+decrease in the parameter 𝛿 results in a decrease in the total number of confirmed cases and the 
+
+duration of the outbreak.  
+
+In  the  present  study,  we  assumed  that  the  susceptible  group  that  implemented  behavioral 
+
+changes maintains a low transmission rate. However, when schools open again after March 24, an 
+
+increase in the number of contacts and  a desensitization of the behavior-changed group with  a 
+
+decreasing number of patients may lead to another cluster outbreak stemming from unconfirmed 
+
+positive cases. 
+
+Since  this  model  assumes  that  patients  are  isolated  at  diagnosis  and  cannot  spread  the  virus 
+
+further, the recovery period and mortality rate do not affect the total number of patients, but they 
+
+only affect the calculation of the number of isolated patients and the required inpatient beds. The 
+
+number of daily isolated patients increases with an increasing recovery period and decreases with 
+
+an increasing mortality rate.  
+
+181 
+
+ 
+
+182 
+
+Conclusion 
+
+The  COVID-19  pandemic  is  characterized  by  large-scale  cluster  outbreaks  in  specific  areas.  A 
+
+large-scale  outbreak  within  a  region  beyond  the  capacity  of  local  hospitals  can  lead  to  some 
+
+confirmed  patients  having  to  self-quarantine,  during  which  they  might  infect  other  people.  It  is, 
+
+thus, necessary to predict the number of isolated patients over time through modeling to identify 
+
+the number of beds required in advance and establish a response strategy. 
+
+ 
+
+9 
+
+Epub ahead of print188 
+
+189 
+
+190 
+
+191 
+
+192 
+
+193 
+
+194 
+
+195 
+
+196 
+
+197 
+
+198 
+
+202 
+
+203 
+
+204 
+
+205 
+
+206 
+
+207 
+
+208 
+
+211 
+
+212 
+
+213 
+
+214 
+
+199 
+
+Conflict of interests  
+
+200 
+
+Not applicable. 
+
+201 
+
+Acknowledgements 
+
+HG18C0080). 
+
+209 
+
+ 
+
+210 
+
+Author’s Contributions 
+
+While  in  the  Republic  of  Korea,  a  large-scale  outbreak  occurred  in  the  Daegu/Gyeongbuk  area, 
+
+the results of our mathematical model show that up to about 1,000 confirmed cases may occur in 
+
+regions outside Daegu/Gyeongbuk as well. As part of the government’s active intervention policy, 
+
+powerful  non-pharmaceutical  interventions  such  as  postponing  the  start  of  classes  in 
+
+elementary/middle/high schools and reducing mass gatherings are being implemented. However, 
+
+given  that  the  outbreak  is  expected  to  continue  through  June,  it  will  be  difficult  to  sustain  the 
+
+strengthened  non-pharmaceutical  interventions.  Therefore,  even  after  schools  open  again,  it  will 
+
+be  necessary  to  suggest  sustainable  nonpharmaceutical  intervention  guidelines,  for  example 
+
+reinforcing  personal  hygiene  practices  such  as  mask  wearing  and  hand  washing,  encouraging 
+
+people  to  avoid  close  contact  and  visit  a  medical  center  quickly  after  suspicious  symptoms 
+
+develop, and shortening the time from symptom onset to isolation.  
+
+This  work  was  supported  by  a  Korea  National  Research  Foundation  (NRF)  grant  funded  by  the 
+
+Korean  government  (MEST;  grant  no.  NRF-2019R1A6A3A01091838)  awarded  to  Kim  and  by  a 
+
+Korea NRF grant funded by the MEST (grant no. NRF-2017R1A2B2004651) awarded to Jung. This 
+
+paper  was  written  as  part  of  Konkuk  University's  research  support  program  for  its  faculty  on 
+
+sabbatical  leave  in  2019.  The  research  presented  here  was  also  supported  by  a  grant  from  the 
+
+Korean Health Technology R&D Project, Ministry of Health & Welfare, Republic of Korea (grant no. 
+
+SK  collected  the  data,  constructed  the  mathematical  modeling,  drafted  the  manuscript,  and 
+
+approved the final manuscript as submitted. YBS provided revisions to the scientific content of the 
+
+manuscript.  EJ  conceptualized  and  designed  the  study,  and  critically  reviewed  and  revised  the 
+
+manuscript. All authors have approved the final manuscript as submitted. 
+
+215 
+
+ 
+
+216 
+
+ORCID 
+
+ 
+
+217 
+
+Soyoung Kim 0000-0003-4918-1087 
+
+10 
+
+Epub ahead of print218 
+
+Yu Bin Seo 0000-0001-5183-1996 
+
+219 
+
+Eunok Jung 0000-0002-7411-3134 
+
+220 
+
+ 
+
+221 
+
+References 
+
+222 
+
+1. 
+
+Statement  on  the  second  meeting  of  the  International  Health  Regulations  (2005) 
+
+Emergency  Committee  regarding  the  outbreak  of  novel  coronavirus  (2019-nCoV).  The 
+
+World Health Organization, 2020. 
+
+225 
+
+2. 
+
+World  Health  Organization. 
+
+Situation 
+
+reports-48. 
+
+2020. 
+
+Retrieved 
+
+from 
+
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200308-
+
+sitrep-48-covid-19.pdf?sfvrsn=16f7ccef_4 
+
+228 
+
+3. 
+
+Korea Center for Disease Control and Prevention. Brief report of government Meeting for 
+
+COVID-19  spread  in  Korea  [in  Korean,  translated  by  the  author].  2020.  Retrieved  from 
+
+http://ncov.mohw.go.kr/upload/viewer/skin/doc.html?fn=1582449957863_2020022
+
+3182559.hwp&rs=/upload/viewer/result/202004/ 
+
+232 
+
+4. 
+
+Korea Center for Disease Control and Prevention. Korean Situation Report of COVID-19 on 
+
+March  9 
+
+[in  Korean, 
+
+translated  by 
+
+the 
+
+author].  2020.  Retrieved 
+
+from 
+
+https://is.cdc.go.kr/upload_comm/syview/doc.html?fn=158371642528200.pdf&rs=/
+
+upload_comm/docu/0015/ 
+
+236 
+
+5. 
+
+KCDC  press  [in  Korean,  translated  by  the  author].  Korea  Center  for  Disease  Control  and 
+
+Prevention, 
+
+2020. 
+
+Retrieved 
+
+from  
+
+https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015 
+
+239 
+
+6. 
+
+Korean  Statistical  Information  Service.  Resident  Registration  Population  by  Administrative 
+
+District  and  Age  [in  Korean,  translated  by  the  author].  Statistics  Korea.  Retrieved  from 
+
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04006&conn_path=I2 
+
+242 
+
+7. 
+
+Perra  N,  Balcan  D,  Goncalves  B,  Vespignani  A.  Towards  a  characterization  of  behavior-
+
+disease  models. 
+
+PLoS  One. 
+
+2011;6(8):e23084. 
+
+Epub 
+
+2011/08/10. 
+
+doi: 
+
+10.1371/journal.pone.0023084.  PubMed  PMID:  21826228;  PubMed  Central  PMCID: 
+
+223 
+
+224 
+
+226 
+
+227 
+
+229 
+
+230 
+
+231 
+
+233 
+
+234 
+
+235 
+
+237 
+
+238 
+
+240 
+
+241 
+
+243 
+
+244 
+
+245 
+
+PMCPMC3149628. 
+
+ 
+
+11 
+
+Epub ahead of print246 
+
+8. 
+
+Korea Center for Disease Control and Prevention. Korean Situation Report of COVID-19 on 
+
+February  16 
+
+[in  Korean, 
+
+translated  by 
+
+the  author].  2020.  Retrieved 
+
+from 
+
+https://is.cdc.go.kr/upload_comm/syview/doc.html?fn=158184011101700.hwp&rs=
+
+/upload_comm/docu/0015/ 
+
+247 
+
+248 
+
+249 
+
+250 
+
+ 
+
+ 
+
+12 
+
+Epub ahead of print(cid:41)(cid:76)(cid:74)(cid:88)(cid:85)(cid:72)(cid:3)(cid:20)(cid:3)(cid:55)(cid:76)(cid:80)(cid:72)(cid:79)(cid:76)(cid:81)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:38)(cid:50)(cid:57)(cid:44)(cid:39)(cid:16)(cid:20)(cid:28)(cid:3)(cid:72)(cid:83)(cid:76)(cid:71)(cid:72)(cid:80)(cid:76)(cid:70)Epub ahead of print(cid:41)(cid:76)(cid:74)(cid:88)(cid:85)(cid:72)(cid:3)(cid:21)(cid:3)(cid:41)(cid:79)(cid:82)(cid:90)(cid:3)(cid:71)(cid:76)(cid:68)(cid:74)(cid:85)(cid:68)(cid:80)(cid:3)(cid:82)(cid:73)(cid:3)(cid:38)(cid:50)(cid:57)(cid:44)(cid:39)(cid:20)(cid:28)(cid:3)(cid:87)(cid:85)(cid:68)(cid:81)(cid:86)(cid:80)(cid:76)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:3)(cid:71)(cid:92)(cid:81)(cid:68)(cid:80)(cid:76)(cid:70)(cid:86)Epub ahead of print(cid:41)(cid:76)(cid:74)(cid:88)(cid:85)(cid:72)(cid:3)(cid:22)(cid:3)(cid:39)(cid:68)(cid:87)(cid:68)(cid:73)(cid:76)(cid:87)(cid:3)(cid:85)(cid:72)(cid:86)(cid:88)(cid:79)(cid:87)(cid:86)Epub ahead of print(cid:41)(cid:76)(cid:74)(cid:88)(cid:85)(cid:72)(cid:3)(cid:23)(cid:3)(cid:48)(cid:82)(cid:71)(cid:72)(cid:79)(cid:3)(cid:83)(cid:85)(cid:72)(cid:71)(cid:76)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:88)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:83)(cid:68)(cid:85)(cid:68)(cid:80)(cid:72)(cid:87)(cid:72)(cid:85)(cid:86)Epub ahead of print

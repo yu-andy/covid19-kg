@@ -1,0 +1,421 @@
+J Bras Pneumol. 2020;46(2):e20200121
+https://dx.doi.org/10.36416/1806-3756/e20200121
+
+CONTINUING EDUCATION: 
+EDUCAÇÃO CONTINUADA: 
+COMUNICAÇÃO BREVE
+PICTORIAL ESSAY
+ENSAIO PICTÓRICO
+EDITORIAL
+CASE REPORT
+RELATO DE CASO
+SPECIAL ARTICLE
+ARTIGO ESPECIAL
+REVIEW ARTICLE
+ARTIGO DE REVISÃO
+CARTA AO EDITOR
+LETTER TO THE EDITOR
+ORIGINAL ARTICLE
+SUPPLEMENTAL MATERIAL 
+MATERIAL SUPLEMENTAR 
+IMAGES IN PULMONARY MEDICINE
+CONTINUING EDUCATION: IMAGING
+SCIENTIFIC METHODOLOGY
+METODOLOGIA CIENTÍFICA
+EDUCAÇÃO CONTINUADA: IMAGENS
+ARTIGO ORIGINAL
+IMAGENS EM PNEUMOLOGIA
+CORRESPONDENCE
+CORRESPONDÊNCIA
+
+Presentation of pulmonary infection on CT 
+in COVID-19: initial experience in Brazil
+
+Rodrigo Caruso Chate1
+Rodrigo Bastos Duarte Passos1
+Hamilton Shoji1
+
+, Gilberto Szarf1
+
+, Eduardo Kaiser Ururahy Nunes Fonseca1
+
+,  
+
+, Gustavo Borges da Silva Teles1
+
+,  
+
+1. Grupo de Imagem Cardiotorácica, 
+Departamento de Diagnóstico por 
+Imagem, Hospital Israelita Albert 
+Einstein, São Paulo (SP) Brasil. 
+
+Submitted: 19 March 2020.
+Accepted: 19 March 2020.
+
+Study carried out by the Grupo de 
+Imagem Cardiotorácica, Departamento de 
+Diagnóstico por Imagem, Hospital Israelita 
+Albert Einstein, São Paulo (SP) Brasil.
+
+ABSTRACT
+
+The  disease  caused  by  the  new  coronavirus  (SARS-CoV-2),  designated  COVID-19, 
+emerged  in  late  2019  in  China,  in  the  city  of  Wuhan  (Hubei  province),  and  showed 
+exponential growth in that country. It subsequently spread to all continents, and infection 
+with  SARS-CoV-2  is  now  classified  as  a  pandemic.  Given  the  magnitude  achieved, 
+scientific interest in COVID-19 has also grown in the international literature, including its 
+manifestations on imaging studies, particularly on CT. To date, no case series have been 
+published in Brazil. Therefore, our objective was to describe the CT findings in an initial 
+series of 12 patients.
+
+Keywords: Coronavirus infections; Coronavirus; Multidetector computed tomography.
+
+In late 2019, a new coronavirus—severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2)—was identified as 
+the causative agent of an outbreak of pneumonia in China, 
+in the city of Wuhan (Hubei province). An association was 
+found between the first cases and a local food market 
+that sold live animals, where most of such patients had 
+been on business or visiting.
+
+of  COVID-19,  have  been  in  areas  where  widespread 
+transmission has been documented, or have had potential 
+exposure due to participation in events or have been in 
+places where cases of COVID-19 have been reported. 
+Among the most commonly reported clinical manifestations 
+of  COVID-19  are  fever,  fatigue,  dry  cough,  anorexia, 
+myalgia, dyspnea, and sputum production.(7)
+
+The spread of the new coronavirus was rapid, resulting 
+in an epidemic, with the main form of transmission being 
+person-to-person, either via the airways or by touching 
+contaminated  surfaces  and  then  the  eyes,  nose,  or 
+mouth. The epidemic hit other continents, and the disease 
+was called coronavirus disease 2019 (COVID-19). New 
+cases started being reported in other countries, initially 
+in individuals who had travelled to China and in people 
+who had had contact with them, and outbreaks related 
+to local transmission were subsequently documented.(1-4) 
+COVID-19 is currently considered a pandemic.
+
+The spectrum of clinical presentation of COVID-19 is 
+wide, ranging from absence of symptoms to critical disease. 
+Most respiratory infections are mild, but severe or critical 
+forms have been also described, especially in the elderly 
+and individuals with comorbidities, who can present with 
+dyspnea, hypoxemia, extensive pulmonary involvement on 
+imaging studies, respiratory failure, shock, and multiple 
+organ failure. The estimated COVID-19 mortality in China 
+was 2.3%, most cases having occurred in elderly patients 
+or patients with comorbidities (cardiovascular disease, 
+diabetes  mellitus,  chronic  lung  disease,  hypertension, 
+and  cancer).(5)  However,  the  reported  mortality  rates 
+vary in different populations; in Italy, for example, where 
+the mean age of the affected population is higher, the 
+currently reported mortality rate is approximately 5.8%.(6)
+
+The possibility of COVID-19 should be considered in 
+symptomatic patients who, in the past 14 days, have 
+had close contact with a suspected or confirmed case 
+
+The  diagnosis  of  COVID-19  is  confirmed  through 
+detection of SARS-CoV-2 RNA by reverse-transcriptase 
+polymerase chain reaction (RT-PCR) from nasopharyngeal 
+or oropharyngeal swab samples. However, if RT-PCR is 
+negative and clinical suspicion is high, the recommendation 
+is  that  RT-PCR  testing  be  performed  again,  including 
+on swabs from other respiratory sites. It is also worth 
+highlighting the value of testing for other viruses that 
+can clinically present in a similar way.
+
+Multiple  articles  have  been  published  reporting  CT 
+findings  in  COVID-19,  even  in  patients  with  negative 
+RT-PCR results, arousing interest in the role of CT in the 
+current clinical scenario. The American College of Radiology 
+and the Brazilian College of Radiology recommend that 
+chest CT be used in hospitalized patients with pneumonia 
+symptoms and with specific clinical indications for CT; it 
+is important to point out that neither of them recommend 
+using  CT  for  screening  of  COVID-19  or  as  the  test  of 
+choice for diagnosing COVID-19.(8,9)
+
+Chest CT can help in the diagnosis of COVID-19, but it 
+cannot confirm or exclude it alone. When RT-PCR is used 
+as a reference, chest CT has high sensitivity (97%) but 
+low specificity (25%), given the overlap of findings with 
+those of respiratory infections of different etiologies.(10)
+
+The  most  commonly  observed  CT  findings  in  cases 
+of  COVID-19  are  pulmonary  ground-glass  opacities 
+and, occasionally, consolidations, with a predominantly 
+peripheral distribution, sometimes associated with fine 
+reticulation (forming the crazy-paving pattern), vascular 
+
+Correspondence to:
+Rodrigo Caruso Chate. Hospital Israelita Albert Einstein, Avenida Albert Einstein, 627/701, CEP 05652-900, São Paulo, SP, Brasil.
+Tel.: 55 11 2151-2452. E-mail: rodrigo.chate@einstein.br
+Financial support: None.
+
+1/4
+
+ISSN 1806-3713© 2020 Sociedade Brasileira de Pneumologia e TisiologiaBRIEF COMMUNICATIONPresentation of pulmonary infection on CT in COVID-19: initial experience in Brazil
+
+thickening,  and  the  reversed  halo  sign.  Central 
+parenchymal involvement or the presence of nodules, 
+cavitation, lymph node enlargement, or pleural effusion 
+are  less  common.(11-13)  It  has  been  suggested  that 
+the reversed halo sign, described by some authors, 
+indicates that organizing pneumonia might be one of 
+the mechanisms of lung injury.(14,15)
+
+The objective of the present study was to describe the 
+major CT findings in the first case series of COVID-19 in 
+Brazil. In this initial experience in Brazil, involving the 
+first 12 patients with a confirmed diagnosis of COVID-19 
+(based on RT-PCR results) who underwent chest CT at 
+our facility, the following CT features were observed: 
+ground-glass opacities, in 12 patients (100%); crazy-
+paving pattern, in 7 (58%); alveolar consolidation, in 
+4 (33%); reversed halo sign, in 1 (8%); and pleural 
+effusion, in 1 (8%). Nodules, cavitation, and lymph 
+node enlargement were not identified in our sample.
+
+We observed involvement of both lungs in 11 patients 
+(92%) and a peripheral predominance in 9 patients 
+(75%); the changes affected mainly the lower lobes 
+in  8  patients  (67%),  were  multilobar  and  relatively 
+diffuse in 3 patients (25%), and predominated in the 
+left lower lobe in 1 patient (8%).
+
+Figure 1 illustrates a typical case and demonstrates 
+the  evolution  of  the  findings,  whereas  Figure  2 
+demonstrates not only the major changes caused by 
+the  disease  but  also  another  possible  but  relatively 
+uncommon finding (small pleural effusion).
+
+this type of opacity is low. However, of course, chest 
+X-rays can be useful in monitoring inpatients, including 
+those  who  are  in  the  ICU,  because  it  is  a  widely 
+available,  rapid,  and  inexpensive  test  that  enables 
+more frequent (often daily) monitoring of the extent 
+of the pulmonary involvement in the disease.
+
+It  has  been  demonstrated  that  asymptomatic 
+individuals  can  present  with  pulmonary  findings 
+(clinical-radiological dissociation), but less frequently 
+than do symptomatic patients and, in general, with 
+less extensive involvement and predominant ground-
+glass  opacities.  In  contrast,  symptomatic  patients 
+more  commonly  present  with  pulmonary  findings, 
+with predominant consolidations and more extensive 
+parenchymal involvement.(16)
+
+Despite the variety of presentations, it has generally 
+been reported that, in the first 4 days after symptom 
+onset, the ground-glass opacity pattern predominates. 
+Between  days  5  and  8  after  symptom  onset,  there 
+is  an  increase  in  the  extent  of  the  pulmonary 
+involvement,  with  the  presence  of  crazy-paving 
+pattern and consolidations. Between days 9 and 13 
+after symptom onset, when CT findings are usually at 
+their peak, consolidations are noted to predominate; 
+after day 14, the process of consolidation resorption 
+begins and the crazy-paving pattern tends to resolve, 
+although ground-glass opacities may persist.(17) The 
+resolution  of  the  findings  is  usually  relatively  slow, 
+taking approximately 30 days, and scarring changes 
+in the lung parenchyma have been described.
+
+Because  the  major  imaging  finding  in  COVID-19 
+is  ground-glass  opacities,  chest  X-ray  plays  a  less 
+important role in the imaging evaluation of patients, 
+given that the sensitivity of chest X-rays for detecting 
+
+The  major  CT  features  identified  in  the  first  12 
+Brazilian  patients  evaluated  at  our  facility  are  very 
+similar to those being described in the literature and 
+fundamentally include bilateral multifocal ground-glass 
+
+A
+
+C
+
+B
+
+D
+
+Figure 1. Axial images (in A to C) and coronal reconstructions (in D) of chest CT scans of a 44-year-old man with clinical 
+findings suggestive of COVID-19 (fever, sore throat, and frequent dry cough), demonstrating the most commonly described 
+pattern: numerous bilateral multifocal ground-glass opacities, associated with fine reticulation and interlobular septal 
+thickening (crazy-paving pattern), involving various lung lobes and being predominantly peripheral in distribution in the 
+parenchyma and a little more extensive in the posterior regions of the lower lobes. The patient had a positive RT-PCR 
+result for COVID-19 on the day he underwent the first CT scan (images on the left in each pair) and was hospitalized. A 
+second CT scan, which was performed three days later (images on the right in each pair) because he continued to have 
+fever spikes and dry cough, demonstrated an increase in the number and extent of pulmonary opacities.
+
+2/4
+
+J Bras Pneumol. 2020;46(2):e20200121
+
+Chate RC, Fonseca EKUN, Passos RBD, Teles GBS, Shoji H, Szarf G
+
+A
+
+D
+
+B
+
+E
+
+C
+
+F
+
+Figure 2. Chest CT scans of different patients illustrating the spectrum of findings of COVID-19 in our sample. In A, a 
+61-year-old male patient with peripheral and posterior ground-glass opacities in the lower lobes (blue arrows in the right 
+lower lobe), as well as a focus of parenchymal opacification in the lingula. In B and C, a 41-year-old male patient with 
+extensive ground-glass opacities associated with septal thickening and fine reticulation (crazy-paving) in the right upper 
+lobe, in addition to other small scattered foci in the upper and lower left lobes. In D, an 85-year-old male patient with 
+ground-glass opacities, associated with fine reticulation and thickening of some interlobular septa, extending mostly into 
+the periphery of the left lower lobe, but also present in the lingula and in the right lower lobe. In E and F, a 42-year-old 
+male patient with ground-glass opacities and bilateral foci of consolidation, predominantly in the most posterior regions 
+of the lower lobes. The patient also had bilateral minimal pleural effusion (arrows), a relatively uncommon finding in 
+patients with COVID-19. In addition, signs suggestive of hepatic steatosis were identified.
+
+opacities, sometimes associated with fine reticulation 
+and septal thickening (crazy-paving pattern), in general 
+involving several lung lobes and being predominantly 
+peripheral in distribution in the parenchyma. The low 
+incidence of pleural effusion and the absence of other 
+findings, such as lymph node enlargement, nodules, 
+and cavitary lesions, are in line with recent international 
+experiences.(10-17)
+
+The most common CT findings in COVID-19 overlap 
+with those observed in pulmonary infections caused by 
+
+other agents (particularly other viruses), and, ideally, 
+the definitive diagnosis of COVID-19 should be based 
+on RT-PCR results. Nevertheless, given the magnitude 
+achieved  by  COVID-19  in  recent  months,  with  the 
+disease being classified as a pandemic by the World 
+Health Organization, it is essential that clinicians and 
+radiologists be familiar with the most common imaging 
+presentations of COVID-19, as well as with the expected 
+evolution of the findings, so that they can contribute 
+to earlier identification of cases and thus to reducing 
+the consequences and mortality of the disease.
+
+REFERENCES
+
+1.  National  Health  Commission  of  the  People’s  Republic  of  China 
+[homepage  on  the  Internet].  Beijing:  The  Commission;  c2020 
+[updated 2020 Jan 23; cited 2020 Mar 16]. New coronavirus cases 
+rise  to  571  in  Chinese  mainland  [about  9  screens].  Available  from: 
+http://en.nhc.gov.cn/2020-01/23/c_76004
+
+2.  World  Health  Organization  [homepage  on  the  Internet].  Geneva: 
+WHO;  c2020  [updated  2020  Jan  21;  cited  2020  Mar  16].  Novel 
+Coronavirus  –  Republic  of  Korea  (ex-China)  [about  4  screens]. 
+Available  from:  https://www.who.int/csr/don/21-january-2020-novel-
+coronavirus-republic-of-korea-ex-china/en/
+
+3.  European  Centre  for  Disease  Prevention  and  Control  (ECDC) 
+[homepage on the Internet]. Solna, Sweden: ECDC; c2020 [updated 
+2020  Mar  16;  cited  2020  Mar  16].  Geographical  distribution  of 
+2019-nCov  cases.  Available  from:  https://www.ecdc.europa.eu/en/
+geographical-distribution-2019-ncov-cases
+
+4.  Centers  for  Disease  Control  and  Prevention  [homepage  on  the 
+Internet].  Atlanta:  CDC;  c2020  [updated  2020  Mar  16;  cited  2020 
+Mar 16]. 2019 Novel Coronavirus (2019-nCoV) in the US. Available 
+from: https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html
+5.  Wu  Z,  McGoogan  JM.  Characteristics  of  and  Important  Lessons 
+From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: 
+
+Summary of a Report of 72 314 Cases From the Chinese Center for 
+Disease  Control  and  Prevention  [published  online  ahead  of  print, 
+2020  Feb  24].  JAMA.  2020;10.1001/jama.2020.2648.  https://doi.
+org/10.1001/jama.2020.2648
+
+6.  Grasselli  G,  Pesenti  A,  Cecconi  M.  Critical  Care  Utilization  for 
+the  COVID-19  Outbreak  in  Lombardy,  Italy:  Early  Experience  and 
+Forecast During an Emergency Response [published online ahead of 
+print, 2020 Mar 13]. JAMA. 2020;10.1001/jama.2020.4031. https://
+doi.org/10.1001/jama.2020.4031
+
+7.  Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Characteristics of 
+138  Hospitalized  Patients  With  2019  Novel  Coronavirus-Infected 
+Pneumonia  in  Wuhan,  China  [published  online  ahead  of  print,  2020 
+Feb 7]. JAMA. 2020;e201585. https://doi.org/10.1001/jama.2020.1585
+8.  American  College  of  Radiology  (ACR)  [homepage  on  the  Internet]. 
+Reston, VA: ACR; c2020 [cited 2020 Mar 16]. ACR Recommendations 
+for  the  use  of  Chest  Radiography  and  Computed  Tomography 
+(CT)  for  Suspected  COVID-19  Infection.  Available  from:  https://
+www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/
+Recommendations-for-Chest-Radiography-and-CT-for-Suspected-
+COVID19-Infection
+
+9.  Colégio  Brasileiro  de  Radiologia  e  Diagnóstico  por  Imagem  (CBR) 
+
+J Bras Pneumol. 2020;46(2):e20200121
+
+3/4
+
+Presentation of pulmonary infection on CT in COVID-19: initial experience in Brazil
+
+[homepage  on  the  Internet].  São  Paulo:  CBR;  c2020  [cited  2020 
+Mar  16].  Recomendações  de  uso  de  métodos  de  imagem  para 
+pacientes  suspeitos  de  infecção  pelo  COVID-19.  [Adobe  Acrobat 
+from:  https://cbr.org.br/wp-content/
+document,  4p.].  Available 
+uploads/2020/03/CBR_Recomenda%C3%A7%C3%B5es-de-uso-
+de-m%C3%A9todos-de-imagem_16-03-2020.pdf
+
+10.  Ai T, Yang Z, Hou H, Zhan C, Chen C, Lv W, et al. Correlation of Chest 
+CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in 
+China:  A  Report  of  1014  Cases  [published  online  ahead  of  print, 
+2020  Feb  26].  Radiology.  2020;200642.  https://doi.org/10.1148/
+radiol.2020200642
+
+11.  Bai  HX,  Hsieh  B,  Xiong  Z,  Halsey  K,  Choi  JW,  Tran  TML,  et  al. 
+Performance  of  radiologists  in  differentiating  COVID-19  from 
+viral  pneumonia  on  chest  CT  [published  online  ahead  of  print, 
+2020  Mar  10].  Radiology.  2020;200823.  https://doi.org/10.1148/
+radiol.2020200823
+
+12.  Ng  M-Y,  Lee  EY,  Yang  J,  Yang  F,  Li  X,  Wang  H,  et  al.  Imaging 
+Profile of the COVID-19 Infection: Radiologic Findings and Literature 
+Review. Radiol Cardiothorac Imaging. 2020;2(1):e200034. https://doi.
+org/10.1148/ryct.2020200034
+
+13.  Chung M, Bernheim A, Mei X, Zhang N, Huang M, Zeng X, et al. CT 
+Imaging Features of 2019 Novel Coronavirus (2019-nCoV). Radiology. 
+2020;295(1):202–207. https://doi.org/10.1148/radiol.2020200230
+14.  Kong  W,  Agarwal  PP.  Chest  Imaging  Appearance  of  COVID-19 
+Infection.  Radiol  Cardiothorac  Imaging.  2020;2(1):e200028.  https://
+doi.org/10.1148/ryct.2020200028
+
+15.  Wu  Y,  Xie  YL,  Wang  X.  Longitudinal  CT  Findings  in  COVID-19 
+Pneumonia: Case Presenting Organizing Pneumonia Pattern. Radiol 
+Cardiothorac  Imaging.  2020;2(1):e200031.  https://doi.org/10.1148/
+ryct.2020200031
+
+16.  Inui  S,  Fujikawa  A,  Jitsu  M,  Kunishima  N,  Watanabe  S,  Suzuki  Y, 
+et  al.  Chest  CT  Findings  in  Cases  from  the  Cruise  Ship  “Diamond 
+Princess”  with  Coronavirus  Disease  2019  (COVID-19)  [published 
+online  ahead  of  print,  2020  Mar  17].  Radiol  Cardiothorac  Imaging. 
+2020;2(2) https://doi.org/10.1148/ryct.2020200110
+
+17.  Pan  F,  Ye  T,  Sun  P,  Gui  S,  Liang  B,  Li  L,  et  al.  Time  Course  of 
+Lung  Changes  On  Chest  CT  During  Recovery  From  2019  Novel 
+Coronavirus (COVID-19) Pneumonia [published online ahead of print, 
+2020  Feb  13].  Radiology.  2020;200370.  https://doi.org/10.1148/
+radiol.2020200370
+
+4/4
+
+J Bras Pneumol. 2020;46(2):e20200121
+
+

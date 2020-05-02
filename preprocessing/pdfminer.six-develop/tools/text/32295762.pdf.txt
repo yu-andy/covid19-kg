@@ -1,0 +1,106 @@
+Early release, published at www.cmaj.ca on April 15, 2020. Subject to revision.
+ 
+
+PRACTICE  |  CLINICAL IMAGES
+
+Chest CT imaging of an early Canadian case  
+of COVID-19 in a 28-year-old man
+
+Navneet Singh MD PhD, Jennifer Fratesi MD
+
+n Cite as: CMAJ 2020. doi: 10.1503/cmaj.200431; early-released April 15, 2020
+
+A 28-year-old man with asthma presented to the emergency 
+
+department on Mar. 16, 2020, with chest discomfort, non-
+productive cough and dyspnea despite use of a salbutamol 
+inhaler. He had no travel or contact history. He reported 3 to 5 days 
+of antecedent fevers, myalgias and arthralgias, and use of acetamin-
+ophen. Physical examination showed normal basilar breath sounds 
+and scattered wheezes. His vital signs were stable (36.8°C,  periph-
+eral oxygen saturation [SpO2] 100%, 85 beats/min and blood pres-
+sure  130/79 mm Hg).  His  bloodwork  was  normal  except  for  his 
+C-reactive  protein  (32  [normal  <  11]  mg/L)  and  lymphocytes 
+(0.4 [normal 1.5–4] × 103 cells/µL). 
+
+A  computed  tomography  (CT)  scan  of  the  patient’s  chest 
+(Figure  1)  showed  the  typical  appearance  of  COVID-19 
+pneumonia,  according  to  a  recent  Radiology  Society  of  North 
+America  expert  consensus  statement  on  chest  CT  findings  of 
+coronavirus disease 19 (COVID-19), including bilateral peripheral 
+and  rounded  ground-glass  opacities  and  regions  of  peripheral 
+consolidation.1  The  radiologic  differential  included  bilateral 
+pneumonia caused by typical or atypical pathogens, drug toxicity 
+and organizing pneumonia.
+
+A subsequent nasopharyngeal swab, taken in the emergency 
+department immediately after the CT scan, was positive for COVID-
+19  by  reverse  transcription  polymerase  chain  reaction  (RT-PCR; 
+Seegene Allplex 2019-nCoV Assay), detecting RNA-dependent RNA 
+polymerase (RdRp), envelope and nucleocapsid genes. The patient 
+was admitted to a general medical ward, received oseltamivir and 
+made a full recovery without admission to an intensive care unit.
+
+Routine screening or diagnosis with CT scanning for COVID-19 is 
+not recommended owing to cost, resource constraints during a pan-
+demic and risk of spreading infection.2 However, CT may be used to 
+expedite care in symptomatic patients with a negative or pending 
+swab, and in those with worsening respiratory status or developing 
+complications such as empyema or acute respiratory distress syn-
+drome. One recent study of 601 patients showed chest CT scanning 
+to be 97% sensitive, but only 25% specific compared with RT-PCR 
+testing,3 which is both sensitive and specific (95%–97%).4 Our Can-
+adian case highlights CT imaging features of COVID-19 consistent 
+with the international experience.5
+
+Competing interests: None declared. 
+
+This article has been peer reviewed.
+
+The authors have obtained patient consent.
+
+Figure 1: Chest computed tomography scan of a 28-year-old man, showing 
+multifocal bilateral peripheral rounded and ill-defined ground-glass opacities 
+(A and B) with regions of rounded consolidation in the lower lobes (C and D).
+
+References
+1. 
+
+Simpson S, Kay FU, Abbara S, et al. Chest CT findings related to COVID-19. Endorsed 
+by the Society of Thoracic Radiology, the American College of Radiology, and RSNA. 
+Radiology: Cardiothoracic Imaging 2020 Mar. 25. doi.org/10.1148/ryct.2020200152.
+ACR  Recommendations  for  the  use  of  chest  radiography  and  computed 
+tomography (CT) for suspected COVID-19 infection. Reston (VA): American Col-
+lege of Radiology; updated 2020 Mar. 22. Available: www.acr.org/Advocacy-and 
+-Economics/ACR -Position-Statements/Recommendations-for-Chest-Radiography 
+-and-CT-for-Suspected -COVID19-Infection (accessed 2020 Mar. 17).
+Ai T, Yang Z, Hou H, et al. Correlation of chest CT and RT-PCR testing in Coronavirus 
+disease 2019 (COVID-19) in China: a report of 1014 cases.  Radiology 2020 Feb. 
+26:200642. doi: 10.1148/radiol.2020200642.
+
+2. 
+
+3. 
+
+4.  Mossa-Basha M, Meltzer CC, Kim DC, et al. Radiology department preparedness for 
+COVID-19: Radiology Scientific Expert Panel. Radiology 2020 Mar. 16:200988. doi: 
+10.1148/radiol.2020200988.
+Shi H, Han X, Jiang N, et al. Radiological findings from 81 patients with COVID-
+19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis 2020 Feb. 
+24. doi.org/10.1016/ S1473-3099(20)30086-4.
+
+5. 
+
+Affiliations: Department of Medical Imaging, Faculty of Medicine, Uni-
+versity of Toronto; Toronto General Hospital, Joint Department of Medi-
+cal Imaging-University Health Network, Toronto, Ont. 
+
+Correspondence to: Navneet Singh, navneet.singh@utoronto.ca
+
+© 2020 Joule Inc. or its licensors  
+
+CMAJ 
+
+1
+
+

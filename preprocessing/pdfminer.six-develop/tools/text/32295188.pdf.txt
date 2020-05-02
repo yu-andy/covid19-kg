@@ -1,0 +1,719 @@
+Review
+Coronavirus Diseases (COVID-19) Current Status and
+Future Perspectives: A Narrative Review
+
+Francesco Di Gennaro 1
+Vincenzo Racalbuto 2, Nicola Veronese 4
+
+, Damiano Pizzol 2,*
+
+and Lee Smith 5
+
+, Claudia Marotta 1
+
+, Mario Antunes 3,
+
+1
+
+5
+
+IRCCS Istituto Neurologico Mediterraneo NEUROMED, 86077 Pozzilli, Italy;
+cicciodigennaro@yahoo.it (F.D.G.); marotta.claudia@gmail.com (C.M.)
+Italian Agency for Development Cooperation, Khartoum 79371, Sudan; vincenzo.racalbuto@aics.gov.it
+
+2
+3 Department of Surgery, Central Hospital of Beira, Beira 2102, Mozambique; majomantu@gmail.com
+4 Geriatric Unit, Department of Internal Medicine and Geriatrics, University of Palermo, 90100 Palermo, Italy;
+
+ilmannato@gmail.com
+The Cambridge Centre for Sport and Exercise Sciences, Anglia Ruskin University, Cambridge CB1 1PT, UK;
+Lee.Smith@anglia.ac.uk
+
+* Correspondence: damianopizzol8@gmail.com; Tel.: +39-366-8731237
+
+Received: 1 April 2020; Accepted: 12 April 2020; Published: 14 April 2020
+
+Abstract: At the end of 2019 a novel virus, severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2), causing severe acute respiratory syndrome expanded globally from Wuhan, China.
+In March 2020 the World Health Organization declared the SARS-Cov-2 virus a global pandemic.
+We performed a narrative review to describe existing literature with regard to Corona Virus Disease
+2019 (COVID-19) epidemiology, pathophysiology, diagnosis, management and future perspective.
+MEDLINE, EMBASE and Scopus databases were searched for relevant articles. Although only when
+the pandemic ends it will be possible to assess the full health, social and economic impact of this
+global disaster, this review represents a picture of the current state of the art. In particular, we focus
+on public health impact, pathophysiology and clinical manifestations, diagnosis, case management,
+emergency response and preparedness.
+
+Keywords: coronavirus; COVID-19; pathogenesis; preparedness; emergency; pandemic
+
+1. Introduction
+
+At the end of 2019, a series of pneumonia cases of unknown cause emerged in Wuhan (Hubei,
+China) [1]. A few weeks later, in January 2020, deep sequencing analysis from lower respiratory tract
+samples identiﬁed a novel virus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as
+causative agent for that observed pneumonia cluster [2]. On February 11th, 2020, the World Health
+Organization (WHO) Director-General, Dr. Tedros Adhanom Ghebreyesus, named the disease caused
+by the SARS-CoV-2 as “COVID-19”, and by March 11th, 2020 when the number of countries involved
+was 114, with more than 118,000 cases and over 4000 deaths, the WHO declared the pandemic status [3].
+Corona Virus Disease 2019 (COVID-19) is an RNA virus, with a typical crown-like appearance
+under an electron microscope due to the presence of glycoprotein spikes on its envelope [4]. It is
+not the ﬁrst time that a coronavirus causing an epidemic has been a signiﬁcant global health threat:
+in November 2019, an outbreak of coronaviruses (CoVs) with severe acute respiratory syndrome
+(SARS)-CoV started in the Chinese province of Guangdong and again, in September 2012 the Middle
+East respiratory syndrome (MERS)-Co V appeared [5]. There are four genera of CoVs: (I) α-coronavirus
+(alphaCoV), (II) β-coronavirus (betaCoV) probably present in bats and rodents, while (III) δ-coronavirus
+(deltaCoV), and (IV) γ-coronavirus (gammaCoV) probably represent avian species [4–6]. The virus has
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690; doi:10.3390/ijerph17082690
+
+www.mdpi.com/journal/ijerph
+
+International Journal ofEnvironmental Researchand Public Health(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+2 of 11
+
+a natural and zoonotic origin: two scenarios that can plausibly explain the origin of SARS-CoV2 are:
+(i) natural selection in an animal host before zoonotic transfer; and (ii) natural selection in humans
+following zoonotic transfer [5,6]. Clinical features and risk factors are highly variable, making the
+clinical severity range from asymptomatic to fatal [7]. Understanding of COVID-19 is on-going.
+This review aims to summarize early ﬁndings on the epidemiology, clinical features, diagnosis,
+management, and prevention of COVID-19.
+
+1.1. Epidemiology
+
+The COVID-19 epidemic expanded in early December from Wuhan, China’s 7th most populous
+city, throughout China and was then exported to a growing number of countries. The ﬁrst conﬁrmed
+case of COVID-19 outside China was diagnosed on 13th January 2020 in Bangkok (Thailand) [8].
+On the 2nd of March 2020, 67 territories outside mainland China had reported 8565 conﬁrmed cases
+of COVID-19 with 132 deaths, as well as signiﬁcant community transmission occurring in several
+countries worldwide, including Iran and Italy and it was declared a global pandemic by the WHO on
+the 11th of March 2020 [9]. The number of conﬁrmed cases is constantly increasing worldwide and
+after Asian and European regions, a steep increase in cases is currently (31 March 2020) being observed
+in low-income countries [10]. It is problematic to quantify the exact size of this pandemia as it would
+necessary to count all cases including not only severe and symptomatic cases but also mild ones [11].
+Unfortunately, to date, there is not a global and standard response to the pandemia and each country is
+facing the crisis based on their own possibilities, expertise and hypotheses. Thus, there are diﬀerent
+criteria for testing, hospitalisation and estimating of cases making it diﬃcult to calculate the number of
+people aﬀected by epidemic. Based on the data we have so far, the estimated case fatality ratio among
+medically attended patients is approximately 2%, but, also in this case, a true ratio may not be known
+for some time [12].
+
+Today, 31st of March 2020, based on the WHO reports, we have globally 693,224 conﬁrmed cases
+and 33,106 deaths, distributed as follows: Western Paciﬁc Region 103,775 cases and 3649 deaths,
+European Region 392,757 cases and 29,962 deaths, South East Asia Region 4084 cases and 158 deaths,
+Eastern Mediterranean Region 46,329 cases and 2813 deaths, Region of the Americas 142,081 cases and
+2457 deaths and in the Africa region 3486 cases and 60 deaths [13].
+
+1.2. Pathophysiology and Clinical Manifestation
+
+(cid:48)
+
+(cid:48)
+
+-cap structure and 3
+
+To address the pathogenetic mechanisms of SARS-CoV-2, its viral structure and genome must
+be considered. Coronaviruses are enveloped positive strand RNA viruses with the largest known
+RNA genomes—30–32 kb—with a 5
+-poly-A tail. Starting from the viral RNA,
+the synthesis of polyprotein 1a/1ab (pp1a/pp1ab) in the host is realized [14]. The transcription works
+through the replication-transcription complex (RCT) organized in double-membrane vesicles and via
+the synthesis of subgenomic RNAs (sgRNAs) sequences. Of note, transcription termination occurs at
+transcription regulatory sequences, located between the so-called open reading frames (ORFs) that
+work as templates for the production of subgenomic mRNAs [15]. In the atypical CoV genome, at least
+six ORFs can be present. Among these, a frameshift between ORF1a and ORF1b guides the production
+of both pp1a and pp1ab polypeptides that are processed by virally encoded chymotrypsin-like protease
+(3CLpro) or main protease (Mpro), as well as one or two papain-like proteases for producing 16
+non-structural proteins (nsps) [15]. Apart from ORF1a and ORF1b, other ORFs encode for structural
+proteins, including spike, membrane, envelope, and nucleocapsid proteins and accessory proteic
+chains [14,15]. Diﬀerent CoVs present special structural and accessory proteins translated by dedicated
+sgRNAs. Pathophysiology and virulence mechanisms of CoVs, and therefore also of SARS-CoV-2 have
+links to the function of the nsps and structural proteins. For instance, research has underlined that nsps
+are able to block the host innate immune response [16]. Among the functions of the structural proteins,
+the envelope has a crucial role in virus pathogenicity as it promotes viral assembly and release.
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+3 of 11
+
+The pathogenic mechanism that produces pneumonia seems to be particularly complex [14–16].
+The data so far available seem to indicate that the viral infection is capable of producing an excessive
+immune reaction in the host. In some cases, a reaction takes place, which as a whole is labelled a
+“cytokine storm”. The eﬀect is extensive tissue damage. The protagonist of this storm is interleukin 6
+(IL-6). IL-6 is produced by activated leukocytes and acts on a large number of cells and tissues [17].
+It is able to promote the diﬀerentiation of B lymphocytes, promotes the growth of some categories
+of cells, and inhibits the growth of others. It also stimulates the production of acute phase proteins
+and plays an important role in thermoregulation, in bone maintenance and in the functionality of
+the central nervous system [18]. Although the main role played by IL-6 is pro-inﬂammatory, it can
+also have anti-inﬂammatory eﬀects. In turn, IL-6 increases during inﬂammatory diseases, infections,
+autoimmune disorders, cardiovascular diseases and some types of cancer [19]. It is also implicated
+into the pathogenesis of the cytokine release syndrome (CRS) that is an acute systemic inﬂammatory
+syndrome characterized by fever and multiple organ dysfunction [20].
+
+The virus might pass through the mucous membranes, especially nasal and larynx mucosa, then
+enters the lungs through the respiratory tract. Then the virus would attack the targeting organs
+that express angiotensin converting enzyme 2 (ACE2), such as the lungs, heart, renal system and
+gastrointestinal tract [18–20]. The virus begins a second attack, causing the patient’s condition to
+aggravate around 7 to 14 days after onset. B lymphocyte reduction may occur early in the disease,
+which may aﬀect antibody production in the patient. Besides, the inﬂammatory factors associated with
+diseases mainly containing IL-6 were signiﬁcantly increased, which also contributed to the aggravation
+of the disease around 2 to 10 days after onset.
+
+The clinical spectrum of COVID-19 varies from asymptomatic or paucisymptomatic forms to
+clinical conditions characterized by severe respiratory failure that necessitates mechanical ventilation
+and support in an intensive care unit (ICU), to multiorgan and systemic manifestations in terms of
+sepsis, septic shock, and multiple organ dysfunction syndromes (MODS) [21]. Asymptomatic infections
+have also been described, but their frequency is unknown. The main symptoms are reported in Table 1.
+Pneumonia appears to be the most frequent serious manifestation of infection, characterized primarily
+by fever, cough, dyspnea, and bilateral inﬁltrates on chest imaging. [22] There are no speciﬁc clinical
+features that can yet reliably distinguish COVID-19 from other viral respiratory infections. Other, less
+common symptoms have included headaches, sore throat, and rhinorrhea. In addition to respiratory
+symptoms, gastrointestinal symptoms (e.g., nausea and diarrhea) have also been reported, and in some
+patients they may be the presenting complaint. Respiratory droplet transmission is the main route and
+it can also be transmitted through person-to-person contacts by asymptomatic carriers [21,22].
+
+Table 1. Main COVID-19-associated symptoms.
+
+Fever
+Cough
+Dyspnea
+Headach
+Sore throat
+Rhinorrhea
+
+Chest CT in patients with COVID-19 most commonly demonstrates ground-glass opaciﬁcation with
+or without consolidative abnormalities, consistent with viral pneumonia [23]. Chest CT abnormalities
+are more likely to be bilateral, have a peripheral distribution, and involve the lower lobes. Less common
+ﬁndings include pleural thickening, pleural eﬀusion, and lymphadenopathy [24]. Chest CT may be
+helpful in making the diagnosis, but no ﬁnding can completely rule in or rule out the possibility of
+COVID-19. The possibility of COVID-19 should be considered primarily in patients with new onset
+fever and/or respiratory tract symptoms (e.g., cough, dyspnea) [23–25]. It should also be considered
+in patients with severe lower respiratory tract illness without any clear cause. Although these
+syndromes can occur with other viral respiratory illnesses, the likelihood of COVID-19 is increased if
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+4 of 11
+
+the patient [26]: (1) resides in or has travelled within the prior 14 days to a location where there is
+community transmission of SARS-CoV-2 (i.e., large numbers of cases that cannot be linked to speciﬁc
+transmission chains); (2) has had close contact with a conﬁrmed or suspected case of COVID-19 in the
+prior 14 days, including through work in health care settings. Close contact includes being within
+approximately six feet (about two meters) of a patient for a prolonged period of time while not wearing
+personal protective equipment or having direct contact with infectious secretions while not wearing
+personal protective equipment.
+
+The period from the onset of COVID-19 symptoms to death ranges from 6 to 41 days with a
+median of 14 days [27]. This period is dependent on the age of the patient and status of the patient’s
+immune system. It was shorter among patients >70-years old compared with those under the age of
+70 years. The most common symptoms at onset of COVID-19 illness are fever, cough, and fatigue,
+while other symptoms include sputum production, headache, haemoptysis, diarrhoea, dyspnoea, and
+lymphopenia [26].
+
+The WHO has reported an incubation period for COVID-19 between 2 and 10 days. However,
+some literature suggests that the incubation period can last longer than two weeks and it is possible
+that a very long incubation period could reﬂect double exposure [26]. Many studies support a 14-day
+medical observation period for people exposed to the pathogen. The severity of the clinical picture
+seems to be correlated with age (>70 years), comorbidities such as: diabetes, chronic obstructive
+pulmonary disease (COPD), hypertension, obesity and male sex but currently no scientiﬁcally valid
+explanations have been developed [27–29].
+
+2. Diagnosis
+
+For patients with suspected infection, the following diagnosis techniques are utilised: performing
+real-time ﬂuorescence (RT-PCR) to detect the positive nucleic acid of SARS-CoV-2 in sputum, throat
+swabs, and secretions of the lower respiratory tract samples [30]. In patients with COVID-19, the white
+blood cell count can vary. Leukopenia, leukocytosis, and lymphopenia have been reported, although
+lymphopenia appears most common [30,31]. Elevated lactate dehydrogenase and ferritin levels are
+common, and elevated aminotransferase levels have also been described. On admission, many patients
+with pneumonia have normal serum procalcitonin levels; however, in those requiring ICU care, they
+are more likely to be elevated. High D-dimer levels and more severe lymphopenia have been associated
+with mortality. Imaging ﬁndings—Chest computed tomography (CT) in patients with COVID-19
+most commonly demonstrates ground-glass opaciﬁcation with or without consolidative abnormalities,
+consistent with viral pneumonia. Others study have suggested that chest CT abnormalities are more
+likely to be bilateral, have a peripheral distribution, and involve the lower lobes. Less common ﬁndings
+include pleural thickening, pleural eﬀusion, and lymphadenopathy [23–25]. Chest CT may be helpful
+in making the diagnosis, but no ﬁnding can completely rule in or rule out the possibility of COVID-19.
+An oropharyngeal swab can be collected but is not essential; if collected, it should be placed
+in the same container as the nasopharyngeal specimen. An oropharyngeal swab is an acceptable
+alternative if nasopharyngeal swabs are unavailable [32]. Expectorated sputum should be collected
+from patients with productive cough; induction of sputum is not recommended. A lower respiratory
+tract aspirate or bronchoalveolar lavage should be collected from patients who are intubated. Data from
+this study suggested that viral RNA levels are higher and more frequently detected in nasal compared
+with oral specimens, although only eight nasal swabs were tested. SARS-CoV-2 RNA is detected
+by reverse-transcription polymerase chain reaction (RT-PCR) [33]. A positive test for SARS-CoV-2
+generally conﬁrms the diagnosis of COVID-19, although false-positive tests are possible. If initial
+testing is negative but the suspicion for COVID-19 remains, the WHO recommends resampling and
+testing from multiple respiratory tract sites [34]. The accuracy and predictive values of SARS-CoV-2
+testing have not been systematically evaluated. Negative RT-PCR tests on oropharyngeal swabs
+despite CT ﬁndings suggestive of viral pneumonia have been reported in some patients who ultimately
+tested positive for SARS-CoV-2. Serologic tests, once generally available, should be able to identify
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+5 of 11
+
+patients who have either current or previous infection but a negative PCR test [35,36]. Coinfection
+with SARS-CoV-2 and other respiratory viruses, including inﬂuenza, has been reported, and this may
+impact management decisions.
+
+3. Management
+
+There is no speciﬁc antiviral treatment recommended for COVID-19, and no vaccine is currently
+available [37]. The treatment is symptomatic, and oxygen therapy represents the major treatment
+intervention for patients with severe infection. Mechanical ventilation may be necessary in cases
+of respiratory failure refractory to oxygen therapy, whereas hemodynamic support is essential for
+managing septic shock [37]. Diﬀerent strategies can be used depending on the severity of the patient
+and local epidemiology [38,39]. Home management is appropriate for asymptomatic or paucisintomatic
+patients. They need a daily assessment of body temperature, blood pressure, oxygen saturation and
+respiratory symptoms for about 14 days. Management of such patients should focus on prevention
+of transmission to others and monitoring for clinical status with prompt hospitalization if needed.
+Outpatients with COVID-19 should stay at home and try to separate themselves from other people in
+the household. They should wear a face mask when in the same room (or vehicle) as other people and
+when presenting to health care settings. Disinfection of frequently touched surfaces is also important.
+The optimal duration of home isolation is uncertain, but in consideration of incubation time around
+14 days without symptoms (fever, dyspnoea, others) are considered suﬃcient to end home isolation.
+Some patients with suspected or documented COVID-19 have severe disease that warrants
+hospital care. Management of such patients consists of ensuring appropriate infection control, and
+supportive care. Patients with severe disease often need oxygenation support. High-ﬂow oxygen
+and noninvasive positive pressure ventilation have been used. Some patients may develop acute
+respiratory distress syndrome and warrant intubation with mechanical ventilation; extracorporeal
+membrane oxygenation may be indicated in patients with refractory hypoxia.
+
+The main pharmacological experimental options are summarised in Table 2. Glucocorticoids
+should not be used in patients with COVID-19 pneumonia unless there are other indications
+(e.g., exacerbation of chronic obstructive pulmonary disease) [40,41]. Glucocorticoids have been
+associated with an increased risk for mortality in patients with inﬂuenza and delayed viral clearance
+in patients with Middle East respiratory syndrome coronavirus (MERS-CoV) infection. Although they
+were widely used in management of severe acute respiratory syndrome (SARS), there was no good
+evidence for beneﬁt, and there was persuasive evidence of adverse short- and long-term harm [42,43].
+
+Table 2. Main Corona Virus Disease 2019 (COVID-19) pharmacological experimental options.
+
+Glucocorticoids
+Remdesivir
+Chloroquine and hydroxychloroquine *
+Tocilizumab
+Lopinavir-ritonavir
+Baraticinib
+Non-steroidal anti-inﬂammatory drugs
+Angiotensin converting enzyme 2
+
+* mainly in combination with azithromycin.
+
+A number of investigational agents are being explored for antiviral treatment of COVID-19, and
+enrolment in clinical trials should be discussed with patients or their proxies. Certain investigational
+agents have been described in observational studies or are being used anecdotally based on in vitro or
+extrapolated evidence. It is important to emphasize that there are no controlled data supporting the
+use of any of these agents, and their eﬃcacy for COVID-19 is unknown.
+
+Remdesivir is a novel nucleotide analogue that has activity against SARS-CoV-2 in vitro and related
+coronaviruses (including SARS and MERS-CoV) both in vitro and in animal studies. The compassionate
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+6 of 11
+
+use of remdesivir through an investigational new drug application has been described in various
+studies [44,45]. Any clinical impact of remdesivir on COVID-19 remains unknown.
+
+Chloroquine and hydroxychloroquine have antiviral activity in vitro, as well as anti-inﬂammatory
+activities. They act on interference with the cellular receptor ACE2, on impairment of acidiﬁcation
+of endosomes and on activity against many pro-inﬂammatory cytokines (e.g., IL-1 and IL-6) [46,47].
+Other experiments have shown that azithromycin in combination with hydroxychloroquine appeared
+to have additional beneﬁt, but there are methodologic concerns about the control groups for the study,
+and the biologic basis for using azithromycin in this setting is unclear [48].Despite the limited clinical
+data, given the relative safety of short-term use of hydroxychloroquine (with or without azithromycin),
+the lack of known eﬀective interventions, and the in vitro antiviral activity, some clinicians think it is
+reasonable to use one or both of these agents in hospitalized patients with severe or risk for severe
+infection, particularly if they are not eligible for other clinical trials. The possibility of drug toxicity
+(including QT interval (QTc) prolongation and retinal toxicity) should be considered prior to using
+hydroxychloroquine, particularly in individuals who may be more susceptible to these eﬀects including
+epilepsy, porphyria, myasthenia gravis, and retinal pathology—glucose-6-phosphate dehydrogenase
+(G6PD) deﬁciency [47,49].
+
+Tocilizumab is a recombinant humanized monoclonal antibody which binds to the interleukin-6
+(IL-6) receptor and blocks it from functioning. It is used for patients with severe COVID-19 and
+elevated IL-6 levels; the agent is being evaluated in a clinical trial [50].
+
+Lopinavir-ritonavir appears to have little to no role in the treatment of SARS-CoV-2 infection [51].
+This combined protease inhibitor, which has primarily been used for HIV infection, has in vitro
+activity against the SARS-CoV [36] and appears to have some activity against MERS-CoV in animal
+studies [52]. However, there was no diﬀerence in time to clinical improvement or mortality at 28 days
+in a randomized trial of 199 patients with severe COVID-19 given lopinavir-ritonavir (400/100 mg)
+twice daily for 14 days in addition to standard care versus those who received standard of care
+alone [53]. Moreover, limited evidence are available for baraticinib, a numb-associated kinase (NAK)
+inhibitor, with a particularly high aﬃnity for the kinase AAK1, a pivotal regulator of clathrin-mediated
+endocytosis, anakinra, an anti IL-1, used in some UTI settings in Lombardy, Italy, and faviparavir a
+RNA-dependent RNA-polymerase inhibitor.
+
+Support oxygen therapy with high-ﬂow nasal oxygen (HFNO) should be used only in selected
+patients with hypoxemic respiratory failure. Compared with standard oxygen therapy, HFNO reduces
+the need for intubation. Patients with hypercapnia, hemodynamic instability, multiorgan failure, or
+abnormal mental status should generally not receive HFNO, although emerging data suggest that
+HFNO may be safe in patients with mild-moderate and non-worsening hypercapnia. Non-invasive
+ventilation (NIV) patients treated with either HFNO or NIV should be closely monitored for clinical
+deterioration. Mechanical ventilation is the main supportive treatment for critically ill patients [54,55].
+In positive patients with a D-Dimer value four times higher than the normal limit, and without
+anticoagulant contraindications, an anticoagulation therapy is recommended [56]. The French
+Medicines Agency on its oﬃcial page, warns of the possible harmful eﬀects of nonsteroidal
+anti-inﬂammatory drugs (NSAIDs). The European Medicines Agency (EMA), for its part, undertakes
+to carry out an investigation in this regard and collect data but is not reluctant to advise against its use,
+however, it is advisable to prudently take paracetamol in the ﬁrst instance [57].
+
+Interestingly, there is hypothesis of the link between angiotensin converting enzyme (ACE)
+inhibitors and COVID-19. Indeed, SARS-CoV-2 uses ACE receptor 2 for entry into target and in animal
+experiments both lisinopril and losartan can signiﬁcantly increase mRNA expression of cardiac ACE2.
+If this were the case, we might be able to reduce the risk of fatal COVID-19 courses in many patients by
+temporarily replacing these drugs [58]. Existing literature strongly recommends that healthy patients
+continue therapy, and in hospitalized patients to modify ACE-I/ARB with other therapy (calcium
+channel blockers) [59].
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+7 of 11
+
+3.1. Prevention
+
+Prevention is, so far, the best practice in order to reduce the impact of COVID-19 considering the
+lack of eﬀective treatment. At the moment, there is no vaccine available and the best prevention is to
+avoid exposure to the virus [60]. In order to achieve this goal, the main measures are the following:
+(1) to use face masks; (2) to cover coughs and sneezes with tissues; (3) to wash hands regularly with
+soap or disinfection with hand sanitiser containing at least 60% alcohol; (4) to avoid contact with
+infected people; (5) to maintain an appropriate distance from people; and (6) to refrain from touching
+eyes, nose, and mouth with unwashed hands [61] (Table 3). Interestingly, the WHO issued detailed
+guidelines including: (I) Regularly and thoroughly clean your hands with an alcohol-based hand rub
+or wash them with soap and water; (II) Avoid touching eyes, nose and mouth; (III) Practice respiratory
+hygiene covering your mouth and nose with your bent elbow or tissue when you cough or sneeze;
+(IV) If you have fever, cough and diﬃculty breathing, seek medical care early; (V) Stay informed and
+follow advice given by your healthcare provider; (VI) Maintain at least 1 m (3 feet) distance between
+yourself and anyone who is coughing or sneezing [62]. In particular, regarding the use of face mask,
+health care workers are recommended to use particulate respirators such as those certiﬁed N95 or
+Filtering FacePiece 2 (FFP2) when performing aerosol-generating procedures and to use medical masks
+while providing any care to suspected or conﬁrmed cases [63]. Moreover, while an individual without
+respiratory symptoms is not required to wear a medical mask when in public, people with respiratory
+symptoms are advised to use medical masks both in health care and home care settings [64].
+
+Table 3. Main Corona Virus Disease 2019 (COVID-19) prevention measures.
+
+To use face masks
+To cover coughs and sneezes
+To wash hands regularly
+To avoid contact with infected people
+To maintain an appropriate distance from people
+To refrain from touching eyes, nose, and mouth
+In case of symptoms, seek medical care early
+To follow advice given by your healthcare provider
+
+3.2. Future Perspective
+
+The COVID-19 outbreak is proving to be an unprecedented disaster, especially in the most aﬄicted
+countries including China, Italy, Iran and USA in all aspects, especially health, social and economic. It is
+too early to forecast any realistic scenario, but it will have a strong impact worldwide. If high income
+countries, especially those already aﬀected by the outbreak, seem to face a catastrophic perspective,
+in low-income countries there seem to be two possible scenarios. In particular, in the worst-case
+scenario, when the COVID-19 outbreaks, the majority of countries will be unprepared, with low
+resources allocated for aﬀording the viral emergency and the consequences will be catastrophic. In the
+best case scenario, similarly to the global outbreak of the SARS-CoV in 2003, also the COVID-19 will
+not aﬀect Africa or South America on a large scale suggesting that respiratory viruses spread more
+eﬀectively in the winter and, therefore, the southern hemisphere will be aﬀected later in the year, if at
+all [63]. To this could contribute also the climate-speciﬁc cultural diﬀerences (living more outdoors
+than indoors), the eﬀect of UV light on the survival of the virus on surfaces, immunological diﬀerences
+of the population (innate immunity), preexposure with coronaviruses, or the higher temperatures [64].
+This data was also indirectly supported by Chin and colleagues that artiﬁcially reproduced diﬀerent
+environmental conditions in order to study the virus survival capacity [65]. In addition to this hopeful
+low impact, if the prevention measures will be implemented, we could register a lower incidence of
+hygiene-linked diseases that still represent leading causes of death [66].
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+8 of 11
+
+4. Conclusions
+
+This review provides an insight into the COVID-19 current situation and represents a picture of the
+current state of the art in terms of public health impact, pathophysiology and clinical manifestations,
+diagnosis, case management, emergency response and preparedness. There is a rapidly growing body
+of literature on this topic and hopefully it will help in ﬁnding an eﬀective vaccine and the best practice
+for the management and treatment of symptomatic cases. Only once this pandemic ends, one will be
+able to assess the health, social and economic impact of this global disaster and we should be able to
+learn lessons especially in terms of public and global health for any future similar pandemics.
+
+Author Contributions: D.P. and L.S. conceived the idea. All authors reviewed the literature, drafted the
+manuscript, critically revised, and approved the ﬁnal version before submission. All authors have read and agreed
+to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Conﬂicts of Interest: The authors declare no conﬂicts of interest.
+
+References
+
+1.
+
+Lu, H.; Stratton, C.W.; Tang, Y.W. Outbreak of pneumonia of unknown etiology in Wuhan, China: The
+mystery and the miracle. J. Med. Virol. 2020, 92, 401–402. [CrossRef] [PubMed]
+
+2. Huang, C.; Wang, Y.; Li, Z.; Ren, L.; Zhao, J.; Hu, Y.; Zhang, L.; Fan, G.; Xu, J.; Gu, X.; et al. Clinical features
+
+of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020, 395, 497–506. [CrossRef]
+
+5.
+
+4.
+
+3. World Health Organization Director-General’s Opening Remarks at the Media Brieﬁng on COVID-19–11
+March 2020. Available online: https://www.who.int/dg/speeches/detail/who-director-general-s-opening-
+remarks-at-the-media-brieﬁng-on-covid-19---11-march-2020 (accessed on 11 March 2020).
+Perlman, S.; Netland, J. Coronaviruses post-SARS: Update on replication and pathogenesis. Nat. Rev.
+Microbiol. 2009, 7, 439–450. [CrossRef] [PubMed]
+Lu, R.; Zhao, X.; Li, J.; Niu, P.; Yang, B.; Wu, H.; Wang, W.; Song, H.; Huang, B.; Zhu, N.; et al. Genomic
+characterisation and epidemiology of 2019 novel coronavirus: Implications for virus origins and receptor
+binding. Lancet 2020, 395, 565–574. [CrossRef]
+Yin, Y.; Wunderink, R.G. MERS, SARS and other coronaviruses as causes of pneumonia. Respirology 2018,
+23, 130–137. [CrossRef]
+Phan, T. Novel coronavirus: From discovery to clinical diagnostics. Infect. Genet. Evol. 2020, 79. [CrossRef]
+7.
+8. World Health Organization Novel Coronavirus (2019-nCoV), Situation Report 1. 21 January 2020. Available
+online: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-
+ncov.pdf (accessed on 25 March 2020).
+Hsu, L.Y.; Chia, P.Y.; Lim, J.F. The Novel coronavirus (SARS-CoV-2) epidemic. Ann. Acad. Med. Singap. 2020,
+49, 1–3.
+
+9.
+
+6.
+
+10. World Health Organization Coronavirus Disease 2019 Situation Report. Available online: https://www.who.
+int/docs/default-source/coronaviruse/situation-reports/20200326-sitrep-66-covid-19.pdf?sfvrsn=9e5b8b48_2
+(accessed on 25 March 2020).
+
+11. Lipsitch, M.; Swerdlow, D.L.; Finelli, L. Deﬁning the epidemiology of covid-19–Studies needed. N. Engl.
+
+J. Med. 2020, 382, 1194–1196. [CrossRef]
+
+12. Lipsitch, M.; Donnelly, C.A.; Fraser, C.; Blake, I.M.; Cori, A.; Dorigatti, I.; Ferguson, N.M.; Garske, T.;
+Mills, H.L.; Riley, S.; et al. Potential biases in estimating absolute and relative case-fatality risks during
+outbreaks. PLoS Negl. Trop. Dis. 2015, 9. [CrossRef]
+
+13. World Health Organization Coronavirus Disease 2019 Situation Report 70. Available online: https://www.who.
+
+int/docs/default-source/coronaviruse/situation-reports/20200330-sitrep-70-covid-19.pdf?sfvrsn=7e0fe3f8_2
+(accessed on 31 March 2020).
+
+14. Lei, J.; Kusov, Y.; Hilgenfeld, R. Nsp3 of coronaviruses: Structures and functions of a large multi-domain
+
+protein. Antivir. Res. 2018, 149, 58–74. [CrossRef]
+
+15. Letko, M.; Marzi, A.; Munster, V. Functional assessment of cell entry and receptor usage for SARS-CoV-2 and
+
+other lineage B betacoronaviruses. Nat. Microbiol. 2020, 5, 562–569. [CrossRef] [PubMed]
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+9 of 11
+
+16. Cascella, M.; Rajnik, M.; Cuomo, A.; Dulebohn, S.C.; Di Napoli, R. Features, evaluation and treatment
+coronavirus (COVID-19). In StatPearls; StatPearls Publishing: Treasure Island, FL, USA, 2020. Available
+online: http://www.ncbi.nlm.nih.gov/books/NBK554776/ (accessed on 31 March 2020).
+
+17. Pyle, C.J.; Uwadiae, F.I.; Swieboda, D.P.; Harker, J.A. Early IL-6 signalling promotes IL-27 dependent
+maturation of regulatory T cells in the lungs and resolution of viral immunopathology. PLoS Pathog. 2017, 13.
+[CrossRef] [PubMed]
+
+18. Chen, C.; Zhang, X.R.; Ju, Z.Y.; He, W.F. Advances in the research of cytokine storm mechanism induced by
+Corona Virus Disease 2019 and the corresponding immunotherapies. Zhonghua Shao Shang Za Zhi 2020, 36.
+[CrossRef]
+
+19. Bennardo, F.; Buﬀone, C.; Giudice, A. New therapeutic opportunities for COVID-19 patients with Tocilizumab:
+Possible correlation of interleukin-6 receptor inhibitors with osteonecrosis of the jaws. Oral Oncol. 2020.
+[CrossRef] [PubMed]
+
+20. Rose-John, S. Interleukin-6 family cytokines. Cold Spring Harb. Perspect. Biol. 2018, 10. [CrossRef] [PubMed]
+21. Lupia, T.; Scabini, S.; Mornese Pinna, S.; Di Perri, G.; De Rosa, F.G.; Corcione, S. 2019 novel coronavirus
+
+(2019-nCoV) outbreak: A new challenge. J. Glob. Antimicrob. Resist. 2020, 21, 22–27. [CrossRef]
+
+22. Yang, Y.; Peng, F.; Wang, R.; Guan, K.; Jiang, T.; Xu, G.; Sun, J.; Chang, C. The deadly coronaviruses: The 2003
+SARS pandemic and the 2020 novel coronavirus epidemic in China. J. Autoimmun. 2020. [CrossRef]
+23. Ai, T.; Yang, Z.; Hou, H.; Zhan, C.; Chen, C.; Lv, W.; Tao, Q.; Sun, Z.; Xia, L. Correlation of chest CT and
+RT-PCR testing in coronavirus disease 2019 (COVID-19) in China: A report of 1014 cases. Radiology 2020.
+[CrossRef]
+
+24. Li, Y.; Xia, L. Coronavirus disease 2019 (COVID-19): Role of chest CT in diagnosis and management. AJR Am.
+
+J. Roentgenol. 2020, 1–7. [CrossRef]
+
+25. Bai, H.X.; Hsieh, B.; Xiong, Z.; Halsey, K.; Choi, J.W.; Tran, T.M.L.; Pan, I.; Shi, L.B.; Wang, D.C.; Mei, J.; et al.
+Performance of radiologists in diﬀerentiating COVID-19 from viral pneumonia on chest CT. Radiology 2020.
+[CrossRef]
+
+26. World Health Organization Covid 19 Infection. Available online: https://www.who.int/emergencies/diseases/
+
+novel-coronavirus-2019 (accessed on 31 March 2020).
+
+27. Wu, C.; Chen, X.; Cai, Y.; Xia, J.; Zhou, X.; Xu, S.; Huang, H.; Zhang, L.; Zhou, X.; Du, C.; et al. Risk factors
+associated with acute respiratory distress syndrome and death in patients with coronavirus disease 2019
+pneumonia in Wuhan, China. JAMA Intern. Med. 2020. [CrossRef] [PubMed]
+
+28. Zhou, F.; Yu, T.; Du, R.; Fan, G.; Liu, Y.; Liu, Z.; Xiang, J.; Wang, Y.; Song, B.; Gu, X.; et al. Clinical course and
+risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: A retrospective cohort study.
+Lancet 2020. [CrossRef]
+
+29. Han, W.; Quan, B.; Guo, Y.; Zhang, J.; Lu, Y.; Feng, G.; Wu, Q.; Fang, F.; Cheng, L.; Jiao, N.; et al. The course
+of clinical diagnosis and treatment of a case infected with coronavirus disease 2019. J. Med. Virol. 2020,
+92, 461–463. [CrossRef]
+
+30. Lippi, G.; Simundic, A.M.; Plebani, M. Potential preanalytical and analytical vulnerabilities in the laboratory
+diagnosis of coronavirus disease 2019 (COVID-19). Clin. Chem. Lab. Med. 2020. [CrossRef] [PubMed]
+31. Lagier, J.C.; Colson, P.; Tissot Dupont, H.; Salomon, J.; Doudier, B.; Aubry, C.; Gouriet, F.; Baron, S.;
+Dudouet, P.; Flores, R.; et al. Testing the repatriated for SARS-Cov2: Should laboratory-based quarantine
+replace traditional quarantine? Travel Med. Infect. Dis. 2020. [CrossRef]
+
+32. Won, J.; Lee, S.; Park, M.; Kim, T.Y.; Park, M.G.; Choi, B.Y.; Kim, D.; Chang, H.; Kim, V.N.; Lee, C.J.; et al.
+Development of a laboratory-safe and low-cost detection protocol for SARS-CoV-2 of the coronavirus disease
+2019 (COVID-19). Exp. Neurobiol. 2020. [CrossRef]
+
+33. Loeﬀelholz, M.J.; Tang, Y.W. Laboratory diagnosis of emerging human coronavirus infections–The state of
+
+the art. Emerg. Microbes Infect. 2020, 9, 747–756. [CrossRef]
+
+34. World Health Organization Coronavirus Disease (COVID-19) Technical Guidance: Laboratory Testing for
+2019-nCoV in Humans. Available online: https://www.who.int/emergencies/diseases/novel-coronavirus-
+2019/technical-guidance/laboratory-guidance (accessed on 31 March 2020).
+
+35. Ling, Y.; Xu, S.B.; Lin, Y.X.; Tian, D.; Zhu, Z.Q.; Dai, F.H.; Wu, F.; Song, Z.G.; Huang, W.; Chen, J.; et al.
+Persistence and clearance of viral RNA in 2019 novel coronavirus disease rehabilitation patients. Chin. Med. J.
+2020. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+10 of 11
+
+36. Lim, J.; Jeon, S.; Shin, H.Y.; Kim, M.J.; Seong, Y.M.; Lee, W.J.; Choe, K.W.; Kang, Y.M.; Lee, B.; Park, S.J.; et al.
+Case of the index patient who caused tertiary transmission of COVID-19 infection in Korea: The application
+of lopinavir/ritonavir for the treatment of COVID-19 infected pneumonia monitored by quantitative RT-PCR.
+J. Korean Med. Sci. 2020, 35. [CrossRef]
+
+37. Wang, H.; Wang, S.; Yu, K. COVID-19 infection epidemic: The medical management strategies in Heilongjiang
+
+Province, China. Crit. Care 2020, 24, 107. [CrossRef]
+
+38. Chan, K.W.; Wong, V.T.; Tang, S.C.W. COVID-19: An update on the epidemiological, clinical, preventive and
+therapeutic evidence and guidelines of integrative Chinese-Western medicine for the management of 2019
+novel coronavirus disease. Am. J. Chin. Med. 2020, 13, 1–26. [CrossRef]
+
+39. Chinese Association of Rehabilitation Medicine; Respiratory rehabilitation committee of Chinese Association
+of Rehabilitation Medicine. Cardiopulmonary rehabilitation group of Chinese society of physicai medicine
+and rehabilitation. Zhonghua Jie He He Hu Xi Za Zhi 2020, 43, E029.
+
+40. Russell, C.D.; Millar, J.E.; Baillie, J.K. Clinical evidence does not support corticosteroid treatment for
+
+2019-nCoV lung injury. Lancet 2020, 395, 473–475. [CrossRef]
+
+41. Arabi, Y.; Mandourah, Y.; Al-Hameed, F.; Sindi, A.A.; Almekhlaﬁ, G.A.; Hussein, M.A.; Jose, J.; Pinto, R.;
+Al-Omari, A.; Kharaba, A.; et al. Corticosteroid therapy for critically ill patients with middle east respiratory
+syndrome. Am. J. Respir. Crit. Care Med. 2018, 197, 757–767. [CrossRef] [PubMed]
+
+42. World Health Organization Clinical Management of Severe Acute Respiratory Infection When Novel
+Coronavirus (nCoV) Infection is Suspected. Available online: https://www.who.int/publications-detail/
+clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-
+suspected (accessed on 28 March 2020).
+
+43. Lee, N.; Chan, K.C.A.; Hui, D.S.; Ng, E.K.; Wu, A.; Chiu, R.W.; Wong, V.W.; Chan, P.K.; Wong, K.T.; Wong, E.;
+et al. Eﬀects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations
+in adult patients. J. Clin. Virol. 2004, 31, 304–309. [CrossRef] [PubMed]
+
+44. Gordon, C.J.; Tchesnokov, E.P.; Feng, J.Y.; Porter, D.P.; Gotte, M. The antiviral compound remdesivir potently
+inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J. Biol.
+Chem. 2020, 295, 4773–4779. [CrossRef]
+
+45. de Wit, E.; Feldmann, F.; Cronin, J.; Jordan, R.; Okumura, A.; Thomas, T.; Scott, D.; Cihlar, T.; Feldmann, H.
+Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV
+infection. Proc. Natl. Acad. Sci. USA 2020, 117, 6771–6776. [CrossRef]
+
+46. Yao, X.; Ye, F.; Zhang, M.; Cui, C.; Huang, B.; Niu, P.; Liu, X.; Zhao, L.; Dong, E.; Song, C.; et al. In vitro
+antiviral activity and projection of optimized dosing design of hydroxychloroquine for the treatment of
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clin. Infect. Dis. 2020. [CrossRef]
+
+47. Wang, M.; Cao, R.; Zhang, L.; Yang, X.; Liu, J.; Xu, M.; Shi, Z.; Hu, Z.; Zhong, W.; Xiao, G.; et al. Remdesivir
+and chloroquine eﬀectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res.
+2020, 30, 269–271. [CrossRef]
+
+48. Cortegiani, A.; Ingoglia, G.; Ippolito, M.; Giarratano, A.; Einav, S. A systematic review on the eﬃcacy and
+safety of chloroquine for the treatment of COVID-19. J. Crit. Care 2020, 9441, 30390–30397. [CrossRef]
+SIMIT Guideline. Available online: http://www.simit.org/IT/formazione/linee-guida.xhtml (accessed on 30
+March 2020).
+
+49.
+
+50. Biggioggero, M.; Crotti, C.; Becciolini, A.; Favalli, E.G. Tocilizumab in the treatment of rheumatoid arthritis:
+An evidence-based review and patient selection. Drug Des. Dev. Ther. 2018, 13, 57–70. [CrossRef] [PubMed]
+51. Lim, J.; Jeon, S.; Shin, H.Y. The author’s response: Case of the index patient who caused tertiary transmission
+of coronavirus disease 2019 in Korea: The application of lopinavir/ritonavir for the treatment of COVID-19
+pneumonia monitored by quantitative RT-PCR. J. Korean Med. Sci. 2020, 35. [CrossRef] [PubMed]
+
+52. Prajapat, M.; Sarma, P.; Shekhar, N.; Avti, P.; Sinha, S.; Kaur, H.; Kumar, S.; Bhattacharyya, A.; Kumar, H.;
+Bansal, S.; et al. Drug targets for corona virus: A systematic review. Indian J. Pharmacol. 2020, 52, 56–65.
+[PubMed]
+
+53. Cao, B.; Wang, Y.; Wen, D.; Liu, W.; Wang, J.; Fan, G.; Ruan, L.; Song, B.; Cai, Y.; Wei, M.; et al. A trial of
+lopinavir-ritonavir in adults hospitalized with severe Covid-19. N. Engl. J. Med. 2020, 10, 1056. [CrossRef]
+[PubMed]
+
+Int. J. Environ. Res. Public Health 2020, 17, 2690
+
+11 of 11
+
+54. Yang, X.; Yu, Y.; Xu, J.; Shu, H.; Xia, J.; Liu, H.; Wu, Y.; Zhang, L.; Yu, Z.; Fang, M.; et al. Clinical course
+and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: A single-centered,
+retrospective, observational study. Lancet Respir. Med. 2020, 2600, 1–7. [CrossRef]
+
+55. Rochwerg, B.; Brochard, L.; Elliott, M.W.; Hess, D.; Hill, N.S.; Nava, S.; Navalesi, P.; Antonelli, M.; Brozek, J.;
+Conti, G.; et al. Oﬃcial ERS/ATS clinical practice guidelines: Noninvasive ventilation for acute respiratory
+failure. Eur. Respir. J. 2017, 50. [CrossRef]
+
+56. Lin, L.; Lu, L.; Cao, W.; Li, T. Hypothesis for potential pathogenesis of SARS-CoV-2 infection–A review of
+immune changes in patients with viral pneumonia. Emerg. Microbes Infect. 2020, 0, 1–14. [CrossRef]
+57. European Medicines Agency. EMA Gives Advice on the Use of Non-Steroidal Anti-Inﬂammatories for
+COVID-19. Available online: https://www.ema.europa.eu/en/news/emagives-advice-use-non-steroidal-anti-
+inﬂammatories-covid-19 (accessed on 25 March 2020).
+
+58. Watkins, J. Preventing a covid-19 pandemic. BMJ 2020, 368. [CrossRef]
+59.
+
+Focà, E.; Rizzi, M.; Castelli, F.; Latronico, N.; Capone, S.; Cattaneo, S.; Monforte, A.; Filippini, M.; Matteelli, A.;
+Rusconi, S.; et al. Vademecum per la cura delle persone con malattia da COVI-19 Versione 2.0, 13 marzo
+2020 2 S I M I T Società Italiana di Malattie Infettive e Tropicali SEZIONE REGIONE LOMBARDIA
+Gruppo collaborativo-Terapia COVID-19 Lombardia Coordinamento redazionale Eman. Available online:
+http://www.simit.org/medias/1568-covid19-vademecum-20-13-marzo-2020.pdf (accessed on 31 March 2020).
+60. Adhikari, S.P.; Meng, S.; Wu, Y.J.; Mao, Y.P.; Ye, R.X.; Wang, Q.Z.; Sun, C.; Sylvia, S.; Rozelle, S.; Raat, H.; et al.
+Epidemiology, causes, clinical manifestation and diagnosis, prevention and control of coronavirus disease
+(COVID-19) during the early outbreak period: A scoping review. Infect. Dis Poverty 2020, 9, 29. [CrossRef]
+61. Centers for Disease Control and Prevention 2019 Novel Coronavirus, Wuhan, China. 2020. Available
+online: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html (accessed on 13
+April 2020).
+
+62. World Health Organization Coronavirus Disease (COVID-19) Advice for the Public. Available online: https:
+//www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public (accessed on 30 March 2020).
+63. World Health Organization. Available online: https://apps.who.int/iris/handle/10665/330987 (accessed on 30
+
+64. Hopman, J.; Allegranzi, B.; Mehtar, S. Managing COVID-19 in low- and middle-income countries. JAMA
+
+March 2020).
+
+2020. [CrossRef]
+
+65. Chin, A.W.H.; Chu, J.T.S.; Perera, M.R.A.; Hui, K.P.Y.; Yen, H.L.; Chan, M.C.V.; Peiris, M.; Poon, L.L.M.
+
+Stability of SARS-CoV-2 in diﬀerent environmental conditions. Lancet 2020. [CrossRef]
+
+66. El Bcheraoui, C.; Mimche, H.; Miangotar, Y.; Krish, V.S.; Ziegeweid, F.; Krohn, K.J.; Ekat, M.H.; Nansseu, J.R.;
+Dimbuene, Z.T.; Olsen, H.E.; et al. Burden of disease in francophone Africa, 1990–2017: A systematic analysis
+for the global burden of disease study 2017. Lancet Glob. Health 2020, 8, e341–e351. [CrossRef]
+
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

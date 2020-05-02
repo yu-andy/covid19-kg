@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "pdf2txt.py", line 191, in <module>
+    sys.exit(main())
+  File "pdf2txt.py", line 185, in main
+    outfp = extract_text(**vars(A))
+  File "pdf2txt.py", line 56, in extract_text
+    pdfminer.high_level.extract_text_to_fp(fp, **locals())
+  File "/usr/local/lib/python3.7/site-packages/pdfminer/high_level.py", line 84, in extract_text_to_fp
+    check_extractable=True):
+  File "/usr/local/lib/python3.7/site-packages/pdfminer/pdfpage.py", line 127, in get_pages
+    doc = PDFDocument(parser, password=password, caching=caching)
+  File "/usr/local/lib/python3.7/site-packages/pdfminer/pdfdocument.py", line 572, in __init__
+    raise PDFSyntaxError('No /Root object! - Is this really a PDF?')
+pdfminer.pdfparser.PDFSyntaxError: No /Root object! - Is this really a PDF?
