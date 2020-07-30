@@ -5,7 +5,7 @@ import time
 
 PREPATH = "Pubmed-Batch-Download-master/fetched_pdfs/"
 pdfFiles = []
-for file in glob.glob(PREPATH + "*.pdf"):
+for file in glob.glob(PREPATH + "guideline.pdf"):
     pdfFiles.append(file)
 
 def pdf2text(filepath, newFilePath):

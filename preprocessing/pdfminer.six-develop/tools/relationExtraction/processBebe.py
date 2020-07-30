@@ -1,6 +1,10 @@
 import string
+import os
+
 
 inputFile = "guideline"
+inputPath = "inputProcess/"
+outputPath = "outputProcess/"
 
 def process(readFilePath, writeFilePath):
     print("Input file: " + readFilePath)
@@ -22,6 +26,10 @@ def process(readFilePath, writeFilePath):
     wf.close()
     rf.close()
     
-
-process("inputProcess/" + inputFile + ".txt", "outputProcess/" + inputFile + "Processed.txt")
+for filename in os.listdir(inputPath):
+    if filename.endswith(".txt"):
+        newFileName = filename.partition('.')[0]
+        process(inputPath + filename, outputPath + newFileName + "Processed.txt")
+    else:
+        continue
 

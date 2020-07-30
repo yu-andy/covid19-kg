@@ -1,45 +1,13 @@
 from gensim.test.utils import datapath
 from gensim import utils
+import gensim.models
 
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-class MyCorpusA(object):
-    """An interator that yields sentences (lists of str)."""
+import os
 
-    def __iter__(self):
-        corpus_path = 'guideline.pdf.txt'
-        for line in open(corpus_path):
-            # line = line.split()
-            # entities = ""
-            # for word in line:
-            #     entity = word.split('/')[0]
-            #     entities += entity + " "
-            # assume there's one document per line, tokens separated by whitespace
-            # print(entities)
-            yield utils.simple_preprocess(line)
-
-# class MyCorpusB(object):
-#     """An interator that yields sentences (lists of str)."""
-
-#     def __iter__(self):
-#         corpus_path = 'guidelineProcessedExtracted.txt'
-#         for line in open(corpus_path):
-#             # assume there's one document per line, tokens separated by whitespace
-#             print(line.split('/')[1])
-#             yield utils.simple_preprocess(line.split('/')[1])
-
-import gensim.models
-
-a_sentences = MyCorpusA()
-# b_sentences = MyCorpusB()
-print("a_sentences: ")
-print(a_sentences)
-# print("b_sentences: ")
-# print(b_sentences)
-a_model = gensim.models.Word2Vec(sentences=a_sentences, sg=1)
-# b_model = gensim.models.Word2Vec(sentences=b_sentences, sg=1)
-# print(model.wv.index2entity[:10])
+model = gensim.models.Word2Vec.load("CORD-19.model")
 
 ###############################################################################
 #
@@ -73,9 +41,31 @@ def reduce_dimensions(model):
 
     vectors = [] # positions in vector space
     labels = [] # keep track of words to label our data again later
-    for word in model.wv.vocab:
-        vectors.append(model.wv[word])
-        labels.append(word)
+    relations = {}
+
+    path = "../relationExtraction/outputExtract"
+    for filename in os.listdir(path):
+        if filename.endswith(".txt"):
+            with open(path + "/" + filename) as relationsFile:
+                line = relationsFile.readline()
+                line = line.replace("\n", "")
+                while line:
+                    entityPair = line.split("/")
+                    entityPair[1] = entityPair[1].replace("\n", "")
+                    if entityPair[0] in model.wv.vocab and entityPair[1] in model.wv.vocab:
+                        relations[entityPair[0]] = entityPair[1]
+                        labels.append(entityPair[0])
+                        vectors.append(model.wv[entityPair[0]])
+                        labels.append(entityPair[1])
+                        vectors.append(model.wv[entityPair[1]])
+
+                    line = relationsFile.readline()
+        else:
+            continue
+
+    # for word in model.wv.vocab:
+    #     vectors.append(model.wv[word])
+    #     labels.append(word)
 
     # convert both lists into numpy vectors for reduction
     vectors = np.asarray(vectors)
@@ -88,24 +78,27 @@ def reduce_dimensions(model):
 
     x_vals = [v[0] for v in vectors]
     y_vals = [v[1] for v in vectors]
-    return x_vals, y_vals, labels
 
+    reduction = dict((z[0],list(z[1:])) for z in zip(labels,x_vals,y_vals))
 
-a_x_vals, a_y_vals, a_labels = reduce_dimensions(a_model)
-print(len(a_x_vals))
-# b_x_vals, b_y_vals, b_labels = reduce_dimensions(b_model)
+    final_x_vals = []
+    final_y_vals = []
+    final_labels = []
 
-# calculate relation vector
-x_vals = a_x_vals
-y_vals = a_y_vals
-labels = a_labels
-# x_vals = []
-# y_vals = []
-# labels = []
-# for i in range(len(a_x_vals)):
-#     x_vals[i] = a_x_vals[i] - b_x_vals[i]
-#     y_vals[i] = a_y_vals[i] - b_y_vals[i]
-#     labels[i] = a_labels[i] + "/" + b_labels[i]
+    for key, value in relations.items():
+        x_val1 = reduction[key][0]
+        x_val2 = reduction[value][0]
+
+        y_val1 = reduction[key][1]
+        y_val2 = reduction[value][1]
+
+        final_x_vals.append(x_val1 - x_val2)
+        final_y_vals.append(y_val1 - y_val2)
+        final_labels.append(key + "/" + value)
+
+    return final_x_vals, final_y_vals, final_labels
+
+x_vals, y_vals, labels = reduce_dimensions(model)
 
 def plot_with_plotly(x_vals, y_vals, labels, plot_in_notebook=True):
     from plotly.offline import init_notebook_mode, iplot, plot
@@ -158,8 +151,11 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
     indices = list(range(len(labels)))
     print(labels)
     # selected_indices = random.sample(indices, 50)
+    vectorFile = open("../clustering/vectors.txt", "w+")
     for i in indices:
         plt.annotate(labels[i], (x_vals[i], y_vals[i]))
+        vectorFile.write(str(x_vals[i]) + " " + str(y_vals[i]) + "\n")
+    vectorFile.close()
     plt.savefig('visualisation.png')
     # plt.show()
 

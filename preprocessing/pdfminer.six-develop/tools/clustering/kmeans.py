@@ -1,13 +1,27 @@
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
+import numpy as np
+
 
 # create dataset
-X, y = make_blobs(
-   n_samples=150, n_features=2,
-   centers=3, cluster_std=0.5,
-   shuffle=True, random_state=0
-)
+# X, y = make_blobs(
+#    n_samples=150, n_features=2,
+#    centers=3, cluster_std=0.5,
+#    shuffle=True, random_state=0
+# )
+X = []
 
+with open("vectors.txt") as file:
+    line = file.readline()
+    while line:
+        line = line.replace("\n", "")
+        vals = line.split(" ")
+        vals[0] = vals[0].replace("\n", "")
+        vals = [float(numeric_string) for numeric_string in vals]
+        X.append(vals)
+        line = file.readline()
+
+X = np.asarray(X)
 # type of X is a numpy nd array
 print(X)
 
@@ -22,6 +36,8 @@ print(X)
 # kmeans++ clusterings
 from sklearn.cluster import KMeans
 
+# 20 clusters
+# maybe lower iterations
 km = KMeans(
     n_clusters=3, init='k-means++',
     n_init=10, max_iter=300, 
@@ -60,4 +76,5 @@ plt.scatter(
 )
 plt.legend(scatterpoints=1)
 plt.grid()
+plt.savefig('clustering.png')
 plt.show()
