@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
 import numpy as np
+import json
 
 
 # create dataset
@@ -10,20 +11,22 @@ import numpy as np
 #    shuffle=True, random_state=0
 # )
 X = []
+ids = []
 
 with open("vectors.txt") as file:
     line = file.readline()
     while line:
-        line = line.replace("\n", "")
-        vals = line.split(" ")
+        obj = json.loads(line)
+        vals = [obj["xVal"], obj["yVal"]]
         vals[0] = vals[0].replace("\n", "")
         vals = [float(numeric_string) for numeric_string in vals]
         X.append(vals)
+        ids.append(obj["id"])
         line = file.readline()
 
 X = np.asarray(X)
 # type of X is a numpy nd array
-print(X)
+# print(X)
 
 # plot points before clustering
 # plt.scatter(
@@ -43,7 +46,32 @@ km = KMeans(
     n_init=10, max_iter=300, 
     tol=1e-04, random_state=0
 )
+
+# PRINT THIS OUT LATER TO SEE WHAT IT IS
 y_km = km.fit_predict(X)
+
+with open("../relationExtraction/outputExtract/relations.txt") as file:
+    writeFile = open("beforeAssignment.txt", "w+")
+    line = file.readline()
+    while line:
+        relationsObj = json.loads(line)
+        for i in range(len(ids)):
+            if (str(relationsObj["id"]) == str(ids[i])):
+                relationsObj["relation"] = str(y_km[i])
+                writeFile.write(json.dumps(relationsObj) + "\n")
+        line = file.readline()
+writeFile.close()
+
+y_km_set = set(y_km)
+unique_list = (list(y_km_set))
+
+writeFile = open("relationNumbers.txt", "w+")
+for relationNum in unique_list:
+    writeFile.write(str(relationNum) + "\n")
+writeFile.close()
+
+print(y_km)
+print(ids)
 
 # plot the 3 clusters
 plt.scatter(

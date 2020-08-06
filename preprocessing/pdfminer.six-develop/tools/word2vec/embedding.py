@@ -7,6 +7,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 import os
 
+import json
+
 model = gensim.models.Word2Vec.load("CORD-19.model")
 
 ###############################################################################
@@ -36,6 +38,8 @@ from sklearn.manifold import TSNE                   # final reduction
 import numpy as np                                  # array handling
 
 
+idDict = dict()
+
 def reduce_dimensions(model):
     num_dimensions = 2  # final num dimensions (2D, 3D, etc)
 
@@ -50,7 +54,8 @@ def reduce_dimensions(model):
                 line = relationsFile.readline()
                 line = line.replace("\n", "")
                 while line:
-                    entityPair = line.split("/")
+                    obj = json.loads(line)
+                    entityPair = [obj["h"]["name"], obj["t"]["name"]]
                     entityPair[1] = entityPair[1].replace("\n", "")
                     if entityPair[0] in model.wv.vocab and entityPair[1] in model.wv.vocab:
                         relations[entityPair[0]] = entityPair[1]
@@ -58,6 +63,7 @@ def reduce_dimensions(model):
                         vectors.append(model.wv[entityPair[0]])
                         labels.append(entityPair[1])
                         vectors.append(model.wv[entityPair[1]])
+                        idDict[entityPair[0] + "/" + entityPair[1]] = obj["id"]
 
                     line = relationsFile.readline()
         else:
@@ -154,7 +160,12 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
     vectorFile = open("../clustering/vectors.txt", "w+")
     for i in indices:
         plt.annotate(labels[i], (x_vals[i], y_vals[i]))
-        vectorFile.write(str(x_vals[i]) + " " + str(y_vals[i]) + "\n")
+        obj = dict()
+        obj["id"] = str(idDict[labels[i]])
+        obj["entityPair"] = labels[i]
+        obj["xVal"] = str(x_vals[i])
+        obj["yVal"] = str(y_vals[i])
+        vectorFile.write(json.dumps(obj) + "\n")
     vectorFile.close()
     plt.savefig('visualisation.png')
     # plt.show()

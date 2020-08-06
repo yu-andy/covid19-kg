@@ -18,6 +18,8 @@ def process(readFilePath, writeFilePath):
                     wf.write("Sentence " + str(count) + ":" + "\n")
                     print("Sentence " + str(count) + ":" + "\n")
                     count += 1
+                    line = rf.readline()
+                    wf.write(line)
                 elif line[0].isdigit() and '~' in line and '@' in line:
                     entity = line.split('~')[-1]
                     wf.write(entity)
@@ -29,7 +31,7 @@ def process(readFilePath, writeFilePath):
 for filename in os.listdir(inputPath):
     if filename.endswith(".txt"):
         newFileName = filename.partition('.')[0]
-        process(inputPath + filename, outputPath + newFileName + "Processed.txt")
+        process(inputPath + filename, outputPath + newFileName + "Processed2.txt")
     else:
         continue
 
