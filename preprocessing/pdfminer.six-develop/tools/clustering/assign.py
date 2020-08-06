@@ -19,3 +19,10 @@ with open("beforeAssignment.txt") as file:
         writeFile.write(json.dumps(obj) + "\n")
         line = file.readline()
 writeFile.close()
+
+writeFile = open("rel2id.json", "w+")
+rel2idObj = dict()
+for key, value in relations.items():
+    rel2idObj[value] = int(key)
+writeFile.write(json.dumps(rel2idObj))
+writeFile.close()
