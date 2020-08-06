@@ -1,9 +1,12 @@
 import matplotlib.pyplot as plt
+import matplotlib as mpl
 from sklearn.datasets import make_blobs
 import numpy as np
 import json
 
 
+mpl.rcParams['figure.dpi'] = 100
+plt.figure(figsize=(8, 8))
 # create dataset
 # X, y = make_blobs(
 #    n_samples=150, n_features=2,
