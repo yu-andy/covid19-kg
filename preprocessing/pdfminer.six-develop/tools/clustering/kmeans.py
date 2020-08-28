@@ -45,7 +45,7 @@ from sklearn.cluster import KMeans
 # 20 clusters
 # maybe lower iterations
 km = KMeans(
-    n_clusters=3, init='k-means++',
+    n_clusters=10, init='k-means++',
     n_init=10, max_iter=300, 
     tol=1e-04, random_state=0
 )
@@ -61,6 +61,7 @@ with open("../relationExtraction/outputExtract/relations.txt") as file:
         for i in range(len(ids)):
             if (str(relationsObj["id"]) == str(ids[i])):
                 relationsObj["relation"] = str(y_km[i])
+                # relationsObj.pop("id", None)
                 writeFile.write(json.dumps(relationsObj) + "\n")
         line = file.readline()
 writeFile.close()
@@ -76,27 +77,37 @@ writeFile.close()
 print(y_km)
 print(ids)
 
+colours = ["b", "g", "c", "m", "r", "y", "k", "w", "lightgreen", "orange", "lightblue", "azure",
+ "lavender", "thistle", "orchid", "steelblue", "lime", "peru", "slategrey", "bisque"]
+
 # plot the 3 clusters
-plt.scatter(
-    X[y_km == 0, 0], X[y_km == 0, 1],
-    s=50, c='lightgreen',
-    marker='s', edgecolor='black',
-    label='cluster 1'
-)
-
-plt.scatter(
-    X[y_km == 1, 0], X[y_km == 1, 1],
-    s=50, c='orange',
+for i in range(0,10):
+  plt.scatter(
+    X[y_km == i, 0], X[y_km == i, 1],
+    s=50, c= colours[i],
     marker='o', edgecolor='black',
-    label='cluster 2'
-)
+    label='cluster ' + str(i)
+)  
+# plt.scatter(
+#     X[y_km == 0, 0], X[y_km == 0, 1],
+#     s=50, c='lightgreen',
+#     marker='s', edgecolor='black',
+#     label='cluster 1'
+# )
 
-plt.scatter(
-    X[y_km == 2, 0], X[y_km == 2, 1],
-    s=50, c='lightblue',
-    marker='v', edgecolor='black',
-    label='cluster 3'
-)
+# plt.scatter(
+#     X[y_km == 1, 0], X[y_km == 1, 1],
+#     s=50, c='orange',
+#     marker='o', edgecolor='black',
+#     label='cluster 2'
+# )
+
+# plt.scatter(
+#     X[y_km == 2, 0], X[y_km == 2, 1],
+#     s=50, c='lightblue',
+#     marker='v', edgecolor='black',
+#     label='cluster 3'
+# )
 
 # plot the centroids
 plt.scatter(
@@ -107,5 +118,5 @@ plt.scatter(
 )
 plt.legend(scatterpoints=1)
 plt.grid()
-plt.savefig('clustering.png')
+plt.savefig('clusteringk5.png')
 plt.show()

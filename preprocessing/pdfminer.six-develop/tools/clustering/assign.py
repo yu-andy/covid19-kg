@@ -16,6 +16,7 @@ with open("beforeAssignment.txt") as file:
     while line:
         obj = json.loads(line)
         obj["relation"] = relations[obj["relation"]]
+        obj.pop("id", None)
         writeFile.write(json.dumps(obj) + "\n")
         line = file.readline()
 writeFile.close()

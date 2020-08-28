@@ -76,6 +76,16 @@ def reduce_dimensions(model):
     # convert both lists into numpy vectors for reduction
     vectors = np.asarray(vectors)
     labels = np.asarray(labels)
+    
+    wf = open("word2id.json", "w+")
+    id = 0
+    word2id_dic = dict()
+    for word in model.wv.vocab.keys():
+        word2id_dic[word] = id
+        id = id + 1
+    print("Generating word2id...")
+    wf.write(json.dumps(word2id_dic))
+    wf.close()
 
     # reduce using t-SNE
     vectors = np.asarray(vectors)
@@ -170,6 +180,14 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
     plt.savefig('visualisation.png')
     # plt.show()
 
+# def genWord2id():
+#     id = 0
+#     word2id_dic = dict()
+#     for label in labels:
+#         word2id_dic[label] = id
+#         id = id + 1
+#     return word2id_dic
+
 try:
     get_ipython()
 except Exception:
@@ -178,4 +196,7 @@ except Exception:
 else:
     print("Plotting with plotly")
     plot_function = plot_with_plotly
+# with open("word2id.json", 'w+') as wf:
+#     print("Generating word2id...")
+#     wf.write(json.dumps(genWord2id()))
 plot_function(x_vals, y_vals, labels)

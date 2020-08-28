@@ -80,7 +80,9 @@ def writeRelations(writeFilePath):
 
                 objCounter += 1
                 obj["id"] = objCounter
-
+                text = ' '.join(obj["token"])
+                obj["text"] = text
+                obj.pop('token', None)
                 # obj["t"]["name"] = key[1].replace("\n", "")
                 # idCounter += 1
                 # obj["t"]["id"] = idCounter
