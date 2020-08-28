@@ -1,6 +1,7 @@
 # covid19-kg
 
-To run:
+### TO RUN:
+<br/>
     0) pip install -r requirements.txt (you should probably use conda or pipenv)
     <br/>
     1) Extract publications.zip and move files into preprocessing/pdfminer.six-develop/tools/relationExtraction/inputProcess
