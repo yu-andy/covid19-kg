@@ -1,6 +1,6 @@
 # covid19-kg
 
-### TO RUN:
+### Preprocessing:
 <br/>
     0) pip install -r requirements.txt (you should probably use conda or pipenv)
     <br/>
@@ -21,3 +21,18 @@
     8) Final generated file will be "afterAssignment.txt", you can use this in OpenNRE
     <br/>
     9) Repeat steps 3 to 7 for your testing set
+
+### OpenNRE:
+<br/>
+    0) See https://github.com/thunlp/OpenNRE for setup instructions
+    <br/>
+    1) My code is in the "custom" folder
+    <br/>
+    2) Move the respective training/testing files into custom/train, custom/test, custom/val (same file as test). You should have generated these from the preprocessing steps ("afterAssignment.txt)
+    <br/>
+    3) Run "python train_pcnn_att.py" to start the model
+    <br/>
+    4) "diffPred.txt" contains the relations which have different predictions than the ground truth
+    <br/>
+    Note: If you want to modify any files in the "opennre" folder, you will need to run "./change.sh" for the changes to take effect
+
