@@ -76,16 +76,17 @@ def reduce_dimensions(model):
     # convert both lists into numpy vectors for reduction
     vectors = np.asarray(vectors)
     labels = np.asarray(labels)
-    
-    wf = open("word2id.json", "w+")
-    id = 0
-    word2id_dic = dict()
-    for word in model.wv.vocab.keys():
-        word2id_dic[word] = id
-        id = id + 1
-    print("Generating word2id...")
-    wf.write(json.dumps(word2id_dic))
-    wf.close()
+
+    # generate word2id.json for the model (only need to run once)
+    # wf = open("word2id.json", "w+")
+    # id = 0
+    # word2id_dic = dict()
+    # for word in model.wv.vocab.keys():
+    #     word2id_dic[word] = id
+    #     id = id + 1
+    # print("Generating word2id...")
+    # wf.write(json.dumps(word2id_dic))
+    # wf.close()
 
     # reduce using t-SNE
     vectors = np.asarray(vectors)

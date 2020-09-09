@@ -45,7 +45,7 @@ from sklearn.cluster import KMeans
 # 20 clusters
 # maybe lower iterations
 km = KMeans(
-    n_clusters=10, init='k-means++',
+    n_clusters=20, init='k-means++',
     n_init=10, max_iter=300, 
     tol=1e-04, random_state=0
 )
@@ -81,7 +81,7 @@ colours = ["b", "g", "c", "m", "r", "y", "k", "w", "lightgreen", "orange", "ligh
  "lavender", "thistle", "orchid", "steelblue", "lime", "peru", "slategrey", "bisque"]
 
 # plot the 3 clusters
-for i in range(0,10):
+for i in range(0,20):
   plt.scatter(
     X[y_km == i, 0], X[y_km == i, 1],
     s=50, c= colours[i],

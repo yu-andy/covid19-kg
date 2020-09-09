@@ -1,6 +1,39 @@
+from Authentication import *
 import string
 import os
+import requests
+import json
 
+apikey = "79d84451-eac9-43a4-bf16-e22157ddd192"
+AuthClient = Authentication(apikey)
+
+###################################
+#get TGT for our session
+###################################
+
+tgt = AuthClient.gettgt()
+uri = "https://uts-ws.nlm.nih.gov/"
+contentEndpoint = "rest/content/2020AA/CUI/"
+
+allowedTypes = [
+    "Virus",
+    "Animal",
+    "Congenital Abnormality",
+    "Medical Device",
+    "Pharmacologic Substance",
+    "Hormone",
+    "Immunologic Factor",
+    "Organic Chemical",
+    "Amino Acid, Peptide, or Protein",
+    "Qualitative Concept",
+    "Functional Concept",
+    "Finding",
+    "Sign or Symptom",
+    "Organism Attribute",
+    "Clinical Attribute",
+    "Intellectual Product",
+    "Biomedical Occupation or Discipline"
+]
 
 inputFile = "guideline"
 inputPath = "inputProcess/"
@@ -9,6 +42,9 @@ outputPath = "outputProcess/"
 def process(readFilePath, writeFilePath):
     print("Input file: " + readFilePath)
     print("Output file: " + writeFilePath)
+    CUI = ""
+    entity = ""
+    head = False
     with open(writeFilePath, 'w+') as wf:
         with open(readFilePath, 'r') as rf:
             line = rf.readline()
@@ -20,10 +56,36 @@ def process(readFilePath, writeFilePath):
                     count += 1
                     line = rf.readline()
                     wf.write(line)
+                    head = True
                 elif line[0].isdigit() and '~' in line and '@' in line:
+                    if head == False:
+                        query = {'ticket': AuthClient.getst(tgt)}
+                        completeCE = contentEndpoint + CUI
+                        url = uri + completeCE
+                        url = url.replace("\n", "")
+                        r = requests.get(url, params=query)
+                        resObj = json.loads(r.text)
+                        print(uri + completeCE)
+                        print(query)
+                        r.encoding = 'utf-8'
+                        print(r.text)
+                        isAllowed = False
+                        for semanticType in resObj["result"]["semanticTypes"]:
+                            if semanticType["name"] in allowedTypes:
+                                isAllowed = True
+                        if isAllowed:
+                            entity = entity.replace(" ", "_")
+                            entity = entity.replace("\n", "")
+                            wf.write(entity)
+                            print("Allowed type: " + semanticType["name"])
+                            print("Entity: " + entity)
+                        else:
+                            print("Skipped")
                     entity = line.split('~')[-1]
-                    wf.write(entity)
-                    print(entity)
+                    head = False
+                elif "CanonicalEntity" in line:
+                    CUI = line[-9:]
+                    head = False
                 line = rf.readline()
     wf.close()
     rf.close()

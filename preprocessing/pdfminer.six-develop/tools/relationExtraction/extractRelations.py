@@ -30,7 +30,12 @@ def extract(readFilePath):
                 sentence = []
             else:
                 line = line.replace("\n", "")
-                sentence.append(line.translate(table))
+                lineWithUnderscores = line.replace(" ", "_")
+                line = line.translate(table)
+                if (line.isalpha()):
+                    sentence.append(lineWithUnderscores)
+                else:
+                    print(line + "is not alpha")
             line = rf.readline()
     rf.close()
 
@@ -40,7 +45,7 @@ def writeRelations(writeFilePath):
         global objCounter
         print("Writing relations to... " + writeFilePath)
         for key, value in occurences.items():
-            if value > 2:
+            if value > 4:
                 obj = dict()
                 obj["h"] = dict()
                 obj["t"] = dict()

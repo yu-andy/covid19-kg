@@ -7,7 +7,7 @@ with open("relationNumbers.txt") as file:
     line = file.readline()
     while line:
         line = line.replace("\n", "")
-        relations[str(line)] = input("Relation number: " + line + ", enter your assignment:" + "\n")
+        relations[str(line)] = input("Relation number: " + line + "\n Enter your assignment or enter \"discard\" to discard if the cluster does not belong to an explicit semantical relation:" + "\n")
         line = file.readline()
 
 with open("beforeAssignment.txt") as file:
@@ -17,7 +17,8 @@ with open("beforeAssignment.txt") as file:
         obj = json.loads(line)
         obj["relation"] = relations[obj["relation"]]
         obj.pop("id", None)
-        writeFile.write(json.dumps(obj) + "\n")
+        if obj["relation"] != "discard":
+            writeFile.write(json.dumps(obj) + "\n")
         line = file.readline()
 writeFile.close()
 
