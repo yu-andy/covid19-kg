@@ -14,10 +14,10 @@ class WordTrainer(object):
             else:
                 continue
 
-data = WordTrainer('../textCORD-19')
-model = gensim.models.Word2Vec(data, sg=1)
+data = WordTrainer('folder/')
+model = gensim.models.Word2Vec(data, sg=1, min_count=1)
 labels = [] # keep track of words to label our data again later
 for word in model.wv.vocab:
     labels.append(word)
 print(labels)
-model.save("CORD-19.model")
+model.save("800pub.model")

@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 from sklearn.datasets import make_blobs
+from sklearn.metrics import silhouette_samples, silhouette_score
 import numpy as np
 import json
 
@@ -44,13 +45,42 @@ from sklearn.cluster import KMeans
 
 # 20 clusters
 # maybe lower iterations
+
+scores = []
+nums = []
+highestVal = 0
+highestNum = 10
+
+for num in range(2, 26):
+    nums.append(num)
+    km = KMeans(
+        n_clusters=num, init='k-means++',
+        n_init=10, max_iter=300, 
+        tol=1e-04, random_state=0
+    )
+    # PRINT THIS OUT LATER TO SEE WHAT IT IS
+    y_km = km.fit_predict(X)
+
+    silhouette_avg = silhouette_score(X, y_km)
+    scores.append(silhouette_avg)
+    if (silhouette_avg > highestVal):
+        highestVal = silhouette_avg
+        highestNum = num
+    print("For n_clusters =", num, "The average silhouette_score is :", silhouette_avg)
+
+plt.plot(nums, scores)
+plt.xlabel("n_clusters")
+plt.ylabel("Silhouette score")
+plt.savefig('silhouette.png')
+
+print("Executing with " + str(highestNum), "clusters...")
+
 km = KMeans(
-    n_clusters=20, init='k-means++',
+    n_clusters=highestNum, init='k-means++',
     n_init=10, max_iter=300, 
     tol=1e-04, random_state=0
 )
 
-# PRINT THIS OUT LATER TO SEE WHAT IT IS
 y_km = km.fit_predict(X)
 
 with open("../relationExtraction/outputExtract/relations.txt") as file:
@@ -74,14 +104,14 @@ for relationNum in unique_list:
     writeFile.write(str(relationNum) + "\n")
 writeFile.close()
 
-print(y_km)
-print(ids)
+# print(y_km)
+# print(ids)
 
 colours = ["b", "g", "c", "m", "r", "y", "k", "w", "lightgreen", "orange", "lightblue", "azure",
  "lavender", "thistle", "orchid", "steelblue", "lime", "peru", "slategrey", "bisque"]
 
 # plot the 3 clusters
-for i in range(0,20):
+for i in range(0, highestNum):
   plt.scatter(
     X[y_km == i, 0], X[y_km == i, 1],
     s=50, c= colours[i],
@@ -118,5 +148,5 @@ plt.scatter(
 )
 plt.legend(scatterpoints=1)
 plt.grid()
-plt.savefig('clusteringk5.png')
+plt.savefig('clusteringFig.png')
 plt.show()

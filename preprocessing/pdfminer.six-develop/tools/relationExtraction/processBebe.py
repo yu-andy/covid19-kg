@@ -3,6 +3,8 @@ import string
 import os
 import requests
 import json
+import sys
+import os.path
 
 apikey = "79d84451-eac9-43a4-bf16-e22157ddd192"
 AuthClient = Authentication(apikey)
@@ -36,7 +38,8 @@ allowedTypes = [
 ]
 
 inputFile = "guideline"
-inputPath = "inputProcess/"
+inputPath = sys.argv[1] + "/" if len(sys.argv) > 1 else "inputProcess/"
+# inputPath = "inputProcess/"
 outputPath = "outputProcess/"
 
 def process(readFilePath, writeFilePath):
@@ -45,6 +48,8 @@ def process(readFilePath, writeFilePath):
     CUI = ""
     entity = ""
     head = False
+    dummyFile = open(writeFilePath, 'w+')
+    dummyFile.close()
     with open(writeFilePath, 'w+') as wf:
         with open(readFilePath, 'r') as rf:
             line = rf.readline()
@@ -75,7 +80,6 @@ def process(readFilePath, writeFilePath):
                                 isAllowed = True
                         if isAllowed:
                             entity = entity.replace(" ", "_")
-                            entity = entity.replace("\n", "")
                             wf.write(entity)
                             print("Allowed type: " + semanticType["name"])
                             print("Entity: " + entity)
@@ -92,8 +96,10 @@ def process(readFilePath, writeFilePath):
     
 for filename in os.listdir(inputPath):
     if filename.endswith(".txt"):
-        newFileName = filename.partition('.')[0]
-        process(inputPath + filename, outputPath + newFileName + "Processed2.txt")
+        if os.path.exists("outputProcess/" + filename) == False:
+            process(inputPath + filename, outputPath + filename)
+        else:
+            print(filename +  " already processed")
     else:
         continue
 

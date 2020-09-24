@@ -9,7 +9,12 @@ import os
 
 import json
 
-model = gensim.models.Word2Vec.load("CORD-19.model")
+# model = gensim.models.Word2Vec.load("CORD-19.model")
+model = gensim.models.Word2Vec.load("800pub.model")
+
+testFile = open("vocab.txt", "w+")
+testFile.write(str(model.wv.vocab.keys()))
+testFile.close
 
 ###############################################################################
 #
@@ -45,7 +50,9 @@ def reduce_dimensions(model):
 
     vectors = [] # positions in vector space
     labels = [] # keep track of words to label our data again later
-    relations = {}
+    relations = []
+
+    debugFile = open("debug.txt", "w+")
 
     path = "../relationExtraction/outputExtract"
     for filename in os.listdir(path):
@@ -55,23 +62,25 @@ def reduce_dimensions(model):
                 line = line.replace("\n", "")
                 while line:
                     obj = json.loads(line)
-                    entityPair = [obj["h"]["name"], obj["t"]["name"]]
+                    entityPair = [obj["h"]["name"].lower(), obj["t"]["name"].lower()]
                     entityPair[1] = entityPair[1].replace("\n", "")
-                    if entityPair[0] in model.wv.vocab and entityPair[1] in model.wv.vocab:
-                        relations[entityPair[0]] = entityPair[1]
+                    if entityPair[0] in model.wv.vocab and entityPair[1].lower() in model.wv.vocab:
+                        relations.append((entityPair[0], entityPair[1]))
+                        # needs to be list of pairs
+                        # relations[entityPair[0]] = entityPair[1]
                         labels.append(entityPair[0])
                         vectors.append(model.wv[entityPair[0]])
                         labels.append(entityPair[1])
                         vectors.append(model.wv[entityPair[1]])
                         idDict[entityPair[0] + "/" + entityPair[1]] = obj["id"]
+                    else:
+                        debugFile.write(str(entityPair[0] + "/" + entityPair[1]) + "not found in vocab" + "\n")
 
                     line = relationsFile.readline()
         else:
             continue
-
-    # for word in model.wv.vocab:
-    #     vectors.append(model.wv[word])
-    #     labels.append(word)
+    
+    debugFile.close()
 
     # convert both lists into numpy vectors for reduction
     vectors = np.asarray(vectors)
@@ -102,16 +111,18 @@ def reduce_dimensions(model):
     final_y_vals = []
     final_labels = []
 
-    for key, value in relations.items():
-        x_val1 = reduction[key][0]
-        x_val2 = reduction[value][0]
+    for pair in relations:
+        first = pair[0]
+        second = pair[1]
+        x_val1 = reduction[first][0]
+        x_val2 = reduction[second][0]
 
-        y_val1 = reduction[key][1]
-        y_val2 = reduction[value][1]
+        y_val1 = reduction[first][1]
+        y_val2 = reduction[second][1]
 
         final_x_vals.append(x_val1 - x_val2)
         final_y_vals.append(y_val1 - y_val2)
-        final_labels.append(key + "/" + value)
+        final_labels.append(first + "/" + second)
 
     return final_x_vals, final_y_vals, final_labels
 
