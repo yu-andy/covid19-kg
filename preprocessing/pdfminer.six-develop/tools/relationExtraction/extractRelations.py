@@ -44,12 +44,14 @@ def extract(readFilePath):
                 combinations = [(a, b) for idx, a in enumerate(sentence) for b in sentence[idx + 1:]]
                 for pair in combinations:
                     # if len(pair[0]) <= 20 and len(pair[1]) <= 20:
-                    if pair in occurences:
-                        occurences[pair] = occurences[pair] + 1
-                        rel2sentence[pair] = fullSentence
-                        # print(combinations)
-                    else:
-                        occurences[pair] = 1
+                    if pair[0].lower() != pair[1].lower():
+                        if pair in occurences:
+                            occurences[pair] = occurences[pair] + 1
+                            rel2sentence[pair] = fullSentence
+                            # print(combinations)
+                        else:
+                            rel2sentence[pair] = fullSentence
+                            occurences[pair] = 1
                 sentence = []
             else:
                 # lineWithUnderscores = line.replace("_", " ")
@@ -61,22 +63,28 @@ def extract(readFilePath):
     rf.close()
 
 def writeRelations(writeFilePath):
+    tempOccurences = occurences
+    tempOccurences = {k: v for k, v in sorted(tempOccurences.items(), key=lambda item: item[1], reverse=True)}
+
     testy = open("testStuff.txt", "w+")
+    frequencyFile = open("frequencies.txt", "w+")
     word2vecTextFile = open("trainWord2Vec.txt", "w+")
     with open(writeFilePath, 'w+') as wf:
         global idCounter
         global objCounter
         print("Writing relations to... " + writeFilePath)
         errorCount = 0
-        for key, value in occurences.items():
+        for key, value in tempOccurences.items():
+            entity1 = key[0].replace("\n", "")
+            entity2 = key[1].replace("\n", "")
+            frequencyFile.write(entity1 + "/" + entity2 + " " + str(value) + "\n")
             # number of co-occurences
-            if value > 5:
+            if value > 3:
                 obj = dict()
                 obj["h"] = dict()
                 obj["t"] = dict()
                 obj["token"] = rel2sentence[key]
 
-                entity1 = key[0].replace("\n", "")
                 obj["h"]["name"] = entity1.replace(" ", "_")
                 if (entity1 in entity2id):
                     obj["h"]["id"] = entity2id[entity1]
@@ -96,7 +104,6 @@ def writeRelations(writeFilePath):
                     # print(obj["token"])
                     continue
 
-                entity2 = key[1].replace("\n", "")
                 obj["t"]["name"] = entity2.replace(" ", "_")
                 if (entity2 in entity2id):
                     obj["t"]["id"] = entity2id[entity2]

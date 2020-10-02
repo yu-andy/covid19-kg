@@ -62,16 +62,16 @@ def reduce_dimensions(model):
                 line = line.replace("\n", "")
                 while line:
                     obj = json.loads(line)
-                    entityPair = [obj["h"]["name"].lower(), obj["t"]["name"].lower()]
+                    entityPair = [obj["h"]["name"], obj["t"]["name"]]
                     entityPair[1] = entityPair[1].replace("\n", "")
-                    if entityPair[0] in model.wv.vocab and entityPair[1].lower() in model.wv.vocab:
+                    if entityPair[0].lower() in model.wv.vocab and entityPair[1].lower() in model.wv.vocab:
                         relations.append((entityPair[0], entityPair[1]))
                         # needs to be list of pairs
                         # relations[entityPair[0]] = entityPair[1]
                         labels.append(entityPair[0])
-                        vectors.append(model.wv[entityPair[0]])
+                        vectors.append(model.wv[entityPair[0].lower()])
                         labels.append(entityPair[1])
-                        vectors.append(model.wv[entityPair[1]])
+                        vectors.append(model.wv[entityPair[1].lower()])
                         idDict[entityPair[0] + "/" + entityPair[1]] = obj["id"]
                     else:
                         debugFile.write(str(entityPair[0] + "/" + entityPair[1]) + "not found in vocab" + "\n")
@@ -177,17 +177,20 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
     #         filtered_labels.append(w)
     
     indices = list(range(len(labels)))
+    idSet = set()
     print(labels)
     # selected_indices = random.sample(indices, 50)
     vectorFile = open("../clustering/vectors.txt", "w+")
     for i in indices:
-        plt.annotate(labels[i], (x_vals[i], y_vals[i]))
-        obj = dict()
-        obj["id"] = str(idDict[labels[i]])
-        obj["entityPair"] = labels[i]
-        obj["xVal"] = str(x_vals[i])
-        obj["yVal"] = str(y_vals[i])
-        vectorFile.write(json.dumps(obj) + "\n")
+        if idDict[labels[i]] not in idSet:
+            idSet.add(idDict[labels[i]])
+            plt.annotate(labels[i], (x_vals[i], y_vals[i]))
+            obj = dict()
+            obj["id"] = str(idDict[labels[i]])
+            obj["entityPair"] = labels[i]
+            obj["xVal"] = str(x_vals[i])
+            obj["yVal"] = str(y_vals[i])
+            vectorFile.write(json.dumps(obj) + "\n")
     vectorFile.close()
     plt.savefig('visualisation.png')
     # plt.show()

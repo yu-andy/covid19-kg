@@ -4,6 +4,7 @@ from sklearn.datasets import make_blobs
 from sklearn.metrics import silhouette_samples, silhouette_score
 import numpy as np
 import json
+import operator
 
 
 mpl.rcParams['figure.dpi'] = 100
@@ -49,29 +50,30 @@ from sklearn.cluster import KMeans
 scores = []
 nums = []
 highestVal = 0
-highestNum = 10
+highestNum = 30
 
-for num in range(2, 26):
-    nums.append(num)
-    km = KMeans(
-        n_clusters=num, init='k-means++',
-        n_init=10, max_iter=300, 
-        tol=1e-04, random_state=0
-    )
-    # PRINT THIS OUT LATER TO SEE WHAT IT IS
-    y_km = km.fit_predict(X)
+# CALCULATING SILHOUETTE SCORE
+# for num in range(2, 26):
+#     nums.append(num)
+#     km = KMeans(
+#         n_clusters=num, init='k-means++',
+#         n_init=10, max_iter=300, 
+#         tol=1e-04, random_state=0
+#     )
+#     # PRINT THIS OUT LATER TO SEE WHAT IT IS
+#     y_km = km.fit_predict(X)
 
-    silhouette_avg = silhouette_score(X, y_km)
-    scores.append(silhouette_avg)
-    if (silhouette_avg > highestVal):
-        highestVal = silhouette_avg
-        highestNum = num
-    print("For n_clusters =", num, "The average silhouette_score is :", silhouette_avg)
+#     silhouette_avg = silhouette_score(X, y_km)
+#     scores.append(silhouette_avg)
+#     if (silhouette_avg > highestVal):
+#         highestVal = silhouette_avg
+#         highestNum = num
+#     print("For n_clusters =", num, "The average silhouette_score is :", silhouette_avg)
 
-plt.plot(nums, scores)
-plt.xlabel("n_clusters")
-plt.ylabel("Silhouette score")
-plt.savefig('silhouette.png')
+# plt.plot(nums, scores)
+# plt.xlabel("n_clusters")
+# plt.ylabel("Silhouette score")
+# plt.savefig('silhouette.png')
 
 print("Executing with " + str(highestNum), "clusters...")
 
@@ -83,6 +85,11 @@ km = KMeans(
 
 y_km = km.fit_predict(X)
 
+cluster_dist = km.transform(X)
+dict_cluster_dist = {}
+print(cluster_dist)
+pair2rel = []
+
 with open("../relationExtraction/outputExtract/relations.txt") as file:
     writeFile = open("beforeAssignment.txt", "w+")
     line = file.readline()
@@ -91,10 +98,34 @@ with open("../relationExtraction/outputExtract/relations.txt") as file:
         for i in range(len(ids)):
             if (str(relationsObj["id"]) == str(ids[i])):
                 relationsObj["relation"] = str(y_km[i])
+                first = relationsObj["h"]["name"] + "/" + relationsObj["t"]["name"]
+                second = int(relationsObj["relation"])
+                pair2rel.append((first, second))
+                dict_cluster_dist[first] = cluster_dist[i]
                 # relationsObj.pop("id", None)
                 writeFile.write(json.dumps(relationsObj) + "\n")
         line = file.readline()
 writeFile.close()
+
+relationClusterFile = open("rel2cluster_" + str(highestNum) + ".txt", "w+")
+pair2rel.sort(key=operator.itemgetter(1))
+
+frequencies = {}
+
+with open("../relationExtraction/frequencies.txt") as file:
+    line = file.readline()
+    while line:
+        line = line.replace("\n", "")
+        arr = line.split(" ")
+        pair = arr[0]
+        val = arr[1]
+        frequencies[pair] = val
+        line = file.readline()
+
+for item in pair2rel:
+    relationClusterFile.write(item[0] + " " + str(item[1]) + " " + str(dict_cluster_dist[item[0]]) + " " + frequencies[item[0]] + "\n")
+
+relationClusterFile.close()
 
 y_km_set = set(y_km)
 unique_list = (list(y_km_set))
@@ -107,14 +138,14 @@ writeFile.close()
 # print(y_km)
 # print(ids)
 
-colours = ["b", "g", "c", "m", "r", "y", "k", "w", "lightgreen", "orange", "lightblue", "azure",
- "lavender", "thistle", "orchid", "steelblue", "lime", "peru", "slategrey", "bisque"]
-
+# colours = ["b", "g", "c", "m", "r", "y", "k", "w", "lightgreen", "orange", "lightblue", "azure",
+#  "lavender", "thistle", "orchid", "steelblue", "lime", "peru", "slategrey", "bisque"]
+# c= colours[i],
 # plot the 3 clusters
 for i in range(0, highestNum):
   plt.scatter(
     X[y_km == i, 0], X[y_km == i, 1],
-    s=50, c= colours[i],
+    s=50,
     marker='o', edgecolor='black',
     label='cluster ' + str(i)
 )  

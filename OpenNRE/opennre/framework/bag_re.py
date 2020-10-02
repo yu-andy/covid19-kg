@@ -220,13 +220,21 @@ class BagRE(nn.Module):
                 writeFile2.write(str(highestScores))
                 writeFile2.close()
             
+            n_discarded = 0
+            n_diffPred = 0
+            n_samePred = 0
+            threshold = 0.005
+
             with open("test/afterAssignment.txt") as file:
                 line = file.readline()
                 writeFile3 = open("diffPred.txt", "w+")
+                outputFile = open("output.txt", "w+")
                 while line:
                     obj = json.loads(line)
                     pair = (obj["h"]["id"], obj["t"]["id"])
+                    chosenRelation = highestScores[str(pair)]["predicted"]
                     if highestScores[str(pair)]["predicted"] != obj["relation"]:
+                        n_diffPred += 1
                         writeFile3.write("Entity pair: " + obj["h"]["name"] + "/" + obj["t"]["name"])
                         writeFile3.write("\n")
                         writeFile3.write("Text: " + obj["text"])
@@ -241,10 +249,28 @@ class BagRE(nn.Module):
                         writeFile3.write("\n")
                         writeFile3.write(obj["relation"] + ": " + str(highestScores[str(pair)][obj["relation"]]))
                         writeFile3.write("\n")
+                        diff = abs(highestScores[str(pair)]["highestScore"] - highestScores[str(pair)][obj["relation"]])
+                        writeFile3.write("difference: " + str(diff))
                         writeFile3.write("\n")
+                        writeFile3.write("\n")
+
+                        # CODE FOR THRESHOLD
+                        # if diff > threshold:
+                        #     for pred in pred_result:
+                        #         if pred["entpair"] == pair and pred["relation"] != str(highestScores[str(pair)][obj["relation"]]):
+                        #             # not sure if this works
+                        #             del pred
+                        #     chosenRelation = obj["relation"]
+                    else:
+                        n_samePred += 1
+                    
+                    outputFile.write(obj["h"]["name"] + "/" + obj["t"]["name"] + " " + chosenRelation + "\n")
                     # print(highestScores[str(pair)])
                     line = file.readline()
                 writeFile3.close()
+                outputFile.close()
+                print("n_samePred = ", n_samePred)
+                print("n_diffPred = ", n_diffPred)
             result = eval_loader.dataset.eval(pred_result)
             # print("pred_result: hello woooorld this is meeeee like as should bbeeeeee ooooooooh oooooh ye fun for everyone")
             # print(pred_result)
