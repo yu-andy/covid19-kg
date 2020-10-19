@@ -6,6 +6,9 @@ import numpy as np
 import json
 import operator
 
+from sklearn.datasets import load_iris
+from sklearn.metrics.pairwise import euclidean_distances
+
 
 mpl.rcParams['figure.dpi'] = 100
 plt.figure(figsize=(8, 8))
@@ -50,7 +53,7 @@ from sklearn.cluster import KMeans
 scores = []
 nums = []
 highestVal = 0
-highestNum = 30
+highestNum = 15
 
 # CALCULATING SILHOUETTE SCORE
 # for num in range(2, 26):
@@ -85,10 +88,17 @@ km = KMeans(
 
 y_km = km.fit_predict(X)
 
+X_dist = km.transform(X)**2
+
+# do something useful...
+import pandas as pd
+df = pd.DataFrame(X_dist.sum(axis=1).round(2), columns=['sqdist'])
+
 cluster_dist = km.transform(X)
 dict_cluster_dist = {}
-print(cluster_dist)
+# print(cluster_dist)
 pair2rel = []
+initialRelations = []
 
 with open("../relationExtraction/outputExtract/relations.txt") as file:
     writeFile = open("beforeAssignment.txt", "w+")
@@ -101,13 +111,15 @@ with open("../relationExtraction/outputExtract/relations.txt") as file:
                 first = relationsObj["h"]["name"] + "/" + relationsObj["t"]["name"]
                 second = int(relationsObj["relation"])
                 pair2rel.append((first, second))
-                dict_cluster_dist[first] = cluster_dist[i]
+                dict_cluster_dist[first] = df.loc[i]["sqdist"]
+                initialRelations.append(relationsObj["initialRelation"])
                 # relationsObj.pop("id", None)
                 writeFile.write(json.dumps(relationsObj) + "\n")
         line = file.readline()
 writeFile.close()
 
 relationClusterFile = open("rel2cluster_" + str(highestNum) + ".txt", "w+")
+relationClusterFile.write("pair, initialRelation, clusterID, squaredDistToCentre, frequency" + "\n")
 pair2rel.sort(key=operator.itemgetter(1))
 
 frequencies = {}
@@ -122,8 +134,12 @@ with open("../relationExtraction/frequencies.txt") as file:
         frequencies[pair] = val
         line = file.readline()
 
-for item in pair2rel:
-    relationClusterFile.write(item[0] + " " + str(item[1]) + " " + str(dict_cluster_dist[item[0]]) + " " + frequencies[item[0]] + "\n")
+for i in range(0, len(pair2rel)):
+    item = pair2rel[i]
+    try:
+        relationClusterFile.write(item[0] + " " + initialRelations[i] + " " + str(item[1]) + " " + str(dict_cluster_dist[item[0]]) + " " + frequencies[item[0]] + "\n")
+    except Exception as e:
+        print(e) 
 
 relationClusterFile.close()
 
@@ -179,5 +195,5 @@ plt.scatter(
 )
 plt.legend(scatterpoints=1)
 plt.grid()
-plt.savefig('clusteringFig.png')
+plt.savefig('clusteringFig15.png')
 plt.show()

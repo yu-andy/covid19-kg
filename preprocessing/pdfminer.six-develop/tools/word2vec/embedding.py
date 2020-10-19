@@ -10,7 +10,7 @@ import os
 import json
 
 # model = gensim.models.Word2Vec.load("CORD-19.model")
-model = gensim.models.Word2Vec.load("800pub.model")
+model = gensim.models.Word2Vec.load("800pubNew.model")
 
 testFile = open("vocab.txt", "w+")
 testFile.write(str(model.wv.vocab.keys()))
@@ -180,7 +180,7 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
     idSet = set()
     print(labels)
     # selected_indices = random.sample(indices, 50)
-    vectorFile = open("../clustering/vectors.txt", "w+")
+    vectorFile = open("../clustering/vectors1.txt", "w+")
     for i in indices:
         if idDict[labels[i]] not in idSet:
             idSet.add(idDict[labels[i]])
@@ -195,13 +195,13 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
     plt.savefig('visualisation.png')
     # plt.show()
 
-# def genWord2id():
-#     id = 0
-#     word2id_dic = dict()
-#     for label in labels:
-#         word2id_dic[label] = id
-#         id = id + 1
-#     return word2id_dic
+def genWord2id():
+    id = 0
+    word2id_dic = dict()
+    for label in labels:
+        word2id_dic[label] = id
+        id = id + 1
+    return word2id_dic
 
 try:
     get_ipython()
@@ -211,7 +211,7 @@ except Exception:
 else:
     print("Plotting with plotly")
     plot_function = plot_with_plotly
-# with open("word2id.json", 'w+') as wf:
-#     print("Generating word2id...")
-#     wf.write(json.dumps(genWord2id()))
+with open("word2id.json", 'w+') as wf:
+    print("Generating word2id...")
+    wf.write(json.dumps(genWord2id()))
 plot_function(x_vals, y_vals, labels)

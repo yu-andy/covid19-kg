@@ -20,4 +20,4 @@ labels = [] # keep track of words to label our data again later
 for word in model.wv.vocab:
     labels.append(word)
 print(labels)
-model.save("800pub.model")
+model.save("800pubNew.model", sep_limit = 1)
